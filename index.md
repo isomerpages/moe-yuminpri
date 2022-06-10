@@ -12,5 +12,8 @@ sections:
         - title: Highlights
           description: ""
           url: ""
+        - title: Announcements
+          description: ""
+          url: /announcements
   - infobar: {}
 ---

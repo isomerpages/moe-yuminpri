@@ -52,3 +52,4 @@ We are proud, we are proud, we are proud, we are proud,
 
 We are proud of Yumin Primary School, a school that helps us all.
 
+Click here to listen to our song.

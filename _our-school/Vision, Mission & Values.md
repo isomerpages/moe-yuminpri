@@ -11,3 +11,7 @@ description: ""
 ![](/images/mission2.jpg)
 <img src="/images/mission_img.jpg" 
      style="width:70%;float:left">
+		 
+![](/images/values2.jpg)
+<img src="/images/values_img.jpg" 
+     style="width:40%;float:left">

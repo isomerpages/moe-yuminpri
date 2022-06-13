@@ -115,3 +115,21 @@ In Yumin, we take on a developmental approach to our Music curriculum. Through t
 <img src="/images/Slide2%20(4).jpeg" 
      style="width:50%;float:left"><img src="/images/Slide3%20(5).jpeg" 
      style="width:50%">
+		 
+<center>Art Curriculum </center>
+
+**Art Curriculum and Programmes**
+
+In Yumin, we take on a developmental approach to our Art curriculum. Pupils acquire a new skill at each level so that at the end of their six years’ art education, they would have acquired a repertoire of art skills and are capable of an art discussion. Aligned with the learning domains of See, Express, Appreciate, our unique Art programme entails art discussion through See Think Wonder, art making and art appreciation.
+
+
+
+| Level | Programmes | 
+| -------- | -------- | 
+| Primary 3   | Mixed Media Art (Printmaking)     | 
+| Primary 4 | Mixed Media Art (Batik)
+| Primary 5 | P6 Post PSLE Music Enrichment Programme
+| Primary 6 | Leave a Legacy Project
+
+
+

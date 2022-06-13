@@ -2,6 +2,7 @@ collections:
   our-experience:
     output: true
     order:
+      - Curriculum/Chinese.md
       - Curriculum/Malay.md
       - Curriculum/Social Studies.md
       - Curriculum/Physical Education.md

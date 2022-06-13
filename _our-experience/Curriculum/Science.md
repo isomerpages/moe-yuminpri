@@ -74,5 +74,44 @@ We have reopened the WOW corner in Yumin Primary School! In efforts to drive the
 **WOW Corner**
 
 ![](/images/SC1%20(1).jpg)
-
 _Students observing the different stages in the life cycle of mealworm beetles and stick insects_
+
+![](/images/SC2%20(1).jpg)
+_Students watching videos on Science during recess_
+
+![](/images/SC3%20(1).jpg)
+_Students use upcycling to make and play their own board games_
+
+![](/images/Picture2%20(1).jpg)
+_Teacher demonstrating that air occupies space by observing bubbles floating above carbon dioxide_
+
+Science, Technology, Engineering, Art & Mathematics Programme (STEAM) 
+|  | | |
+| --- |--- |--- |
+| **Primary 3** | **Primary 4** |  **Primary 5** |
+| Designing a Bridge & Plant Package | Designing Maglev Train & Lighting System|Designing Hand Glider & Hand Pollinator  |
+
+![](/images/Science%20-%20Design%201.jpg)
+_Student creating the track for a Maglev Train using the Engineering Thinking Process_
+
+**WORK LIKE A SCIENTIST - SEE 2021 @ Dunman Secondary**
+
+In 2021, Dunman Secondary School organised the inaugural STEM Exploratory Experience (SEE). STEM stands for Science, Technology, Engineering and Mathematics. STEM education promotes critical thinking, problem solving, creativity and teamwork.
+
+  
+
+Student participants were invited to a game challenge for each course. The top 6 scorer of each game challenge will win an AR enabled Merge Cube. We are proud to present the winners from Yumin Primary School, who displayed exceptional thinking skills during the game challenge. Well done Yumin Champions!
+
+  
+Introduction to STEM (Primary 6 Category)  
+NATHAN LIM  
+  
+Introduction to Design Thinking (Primary 4 Category)  
+MATEO ANDRES  
+  
+Introduction to Design Thinking (Primary 5Category)  
+LIM QI EN  
+  
+Introduction to Design Thinking (Primary 6 Category)  
+ETHAN CHEN HAOYU  
+BHATTACHARJEE RAJESHWARI

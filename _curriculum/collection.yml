@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Science.md
       - Chinese.md
       - Malay.md
       - Social Studies.md

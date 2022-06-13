@@ -24,3 +24,7 @@ China
 
 *   Suzhou Pingjiang Experimental School
 *   Wuxi Donglin School
+
+
+<img src="/images/img_1.jpg" 
+     style="width:50%">

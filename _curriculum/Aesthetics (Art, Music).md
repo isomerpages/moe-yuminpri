@@ -60,4 +60,6 @@ In addition, there are also opportunities for pupils to explore and create Arts 
      style="width:50%">
 <img src="/images/Slide4.jpeg" 
      style="width:50%;float:left"><img src="/images/Slide5%20(1).jpeg" 
+     style="width:50%"><img src="/images/Slide8.jpeg" 
+     style="width:50%;float:left"><img src="/images/Slide9.jpeg" 
      style="width:50%">

@@ -41,3 +41,14 @@ Values-in-Action (VIA) are learning experiences that support students’ develop
 Bronfenbrenner’s model enables teachers to understand the fundamental relationships with their students and create a communication rich classroom that involves the parents. It also displays how the community and culture that the children are surrounded by greatly influence their development as well. Things such as media, school or a child’s neighbourhood can shape how he or she develops.
 
 ![](/images/CCE2.png)
+
+**Learning for Life Programme (LLP)**
+
+Learning for Life Programme (LLP), Project ACTivAte, aims to develop Yumin Champions through knowledge application, independent learning, collaboration and communication. It is an iterative learning process of empathy-ideation-action that involves students applying knowledge and skills to real life situations based on themes or concepts. In the process, our Champions go through a deep learning experience by putting values into action (VIA), an important component in CCE that harnesses their sense of ownership and proactivity in self-initiated innovative and purposeful projects. The Design for Change (DfC) protocol is used to inculcate advocacy for the age-appropriate themes. Based on the four phases of Design for Change (DfC) as the design thinking protocol namely Feel out a problem, Imagine possible solutions, Do to make changes, Share the story. This process allows students to go through in-depth inquiry, engaging in an extended, rigorous process of asking questions, sourcing for information, utilizing relevant resources, and developing answers to meet the needs of the beneficiaries. This is a key process in ensuring problem solving skills, critical and creative thinking, digital literacy and communication skills are explicitly taught.
+
+  
+
+**Level VIA Activities**
+![](/images/CCE4.png)
+
+**Photo Galleries**

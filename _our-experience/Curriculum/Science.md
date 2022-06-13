@@ -48,3 +48,9 @@ There are four themed gardens in our school.  They are the Butterfly Garden,�
 _Garden Trails: Lower Primary_
 
 Integration of English STELLAR Programme with the learning of nature and life in our gardens. Our students get to explore the gardens, sow seeds and even harvest.
+
+<img src="/images/Science%20-%20Garden%20LP.png" 
+     style="width:50%">
+_Primary 3 students observing the parts of a plant_
+
+In the process of understanding the biodiversity of plants in our garden, our students acquire ICT skills and apply them during Science lessons.

@@ -59,4 +59,4 @@ Environment education is only effective when it’s a whole school approach. The
   
 To promote the love for gardening, Eco Stewardship team organised Gardening Saturday and invited the staff and their families to a fun filled morning session of vertical and hydroponics farming. Staff get to also harvest and enjoy their vegetables of labour.
 
-<img style="width:50%;float:left" src="/images/GS1.jpg">
+<img style="width:50%;float:left" src="/images/GS1.jpg"><img style="width:50%" src="/images/GS2.jpg"> 

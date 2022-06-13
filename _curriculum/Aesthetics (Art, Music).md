@@ -131,5 +131,12 @@ In Yumin, we take on a developmental approach to our Art curriculum. Pupils acqu
 | Primary 5 | P6 Post PSLE Music Enrichment Programme
 | Primary 6 | Leave a Legacy Project
 
+![](/images/Slide1%20(5).jpeg)
+![](/images/Slide2%20(2).jpeg)
+![](/images/Slide3%20(1).jpeg)
+![](/images/Slide4%20(2).jpeg)
 
+<center>Outdoor Drawing </center>
 
+![](/images/Slide1%20(4).jpeg)
+![](/images/Slide2.jpeg)

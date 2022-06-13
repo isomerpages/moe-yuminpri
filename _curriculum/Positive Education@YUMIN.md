@@ -23,3 +23,6 @@ description: ""
      style="width:50%;float:left">
 <img src="/images/image006.jpg" 
      style="width:50%;float:left">
+
+
+<center> VIA during Learning Journey to Chiang Mai 2019 </center>

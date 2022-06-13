@@ -66,3 +66,13 @@ Our students learn Adaptation in Animals and Reproduction of Plants. Our audio-g
 <img src="/images/Science%20-%20Garden%20UP.png" 
      style="width:50%">
 		 _Students using a magnifying glass to observe the parts of flowers_
+		 
+We have reopened the WOW corner in Yumin Primary School! In efforts to drive the natural curiosity for Science in students, we roster students down to the WOW corner during recess. At the WOW corner, students are able to observe our school pets, the stick insects and mealworm beetle. They can also enjoy reading Science magazine and watch Science related shows!
+
+  
+
+**WOW Corner**
+
+![](/images/SC1%20(1).jpg)
+
+_Students observing the different stages in the life cycle of mealworm beetles and stick insects_

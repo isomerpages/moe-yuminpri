@@ -54,3 +54,7 @@ Yumin Art & Music Festival (YAMF) provides a great platform for students from P1
 In addition, there are also opportunities for pupils to explore and create Arts beyond classroom. Pupils are able to participate in the fun activities conducted during recess and demonstrate their arts creativity and talents.
 
 <center> Yumin Art and Music Festival </center>
+
+<img src="/images/Slide2%20(7).jpeg" 
+     style="width:50%;float:left"><img src="/images/Slide3%20(3).jpeg" 
+     style="width:50%">

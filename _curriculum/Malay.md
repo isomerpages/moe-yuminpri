@@ -130,3 +130,53 @@ INTRODUCTION OF MALAY LITERATURE IN MALAY LANGUAGE THROUGH INFUSION OF MUSIC & V
 | P5 & P6  | Storytelling & Script Writing  |
 
 Our curriculum design emphasizes on teaching the Malay language in a fun yet meaningful way. The department introduces Malay Literature in the Malay Language through music and films aligned to the Mother Tongue Language Curriculum to develop active learners as well as proficient users of the Malay Language. The department uses Malay folk songs and films to entice the lower primary students to learn Malay literature. As they progress to the middle primary level, exposure to Malay poetry takes place. At the upper primary level, with more maturity, our students can dabble with scriptwriting, which helps in composition writing skills.
+
+![](/images/Malay%20Music.png)
+
+**Sparks Programme - Arif Budiman Cilik**
+
+Arif Budiman Cilik (formerly known as Kelab Celik Cilik) is an enrichment programme, unique to our department. This programme focuses on students who have the talent and interest in aesthetics related to the Malay language. The students in this programme are to be confident ambassadors of the school for Malay language events such as Ops Baca 2.0.
+
+![](/images/Malay%20Arif.jpg)
+
+**Starfish Programme - Yes! I can read!**  
+
+Yes! I can Read! is a programme tailored to the non-Malay or slower Malay language readers. In our reading programme, we use our unique 3R method (Read, Recognise and Repeat) to help our students in mastering the connection between syllables and sounds (phonics) by experiencing their correlation in meaningful contexts. In this programme, our students must be actively engaged in the process, which can be achieved through various activities, which spark the students to become active readers thus helping them to read aloud the words with confidence.
+
+  Objectives:
+
+●       To provide pupils with basic reading skills - identify letters, sound letters, pronounce syllables, read words and understand the meaning of words
+
+●       To actively engage pupils in-class activities
+
+●       To help pupils follow lessons more confidently
+
+  
+
+**Herbs & Spices Garden@Yumin**
+
+Herbs and spices have important culinary and medicinal uses. Students will be able to explore different types of herbs and spices and learn more about the many benefits these plants provide. They will be engaged in activities that encourage them to ask questions and be inquisitive as well as experience authentic learning through explorations. Students will be using their five senses to learn about the culinary and medicinal uses of the various herbs in this interactive garden.
+
+ICT tools such as iPads are used to scan QR codes to access information and quizzes to enhance students’ learning. Students will also be able to build confidence, express their creativity in ‘Salad Making’ activities and learn the technique of making presentations in front of the audience. This activity will help to promote teamwork, critical thinking and leadership skills in students.
+
+Objectives:
+
+  •         To provide Yumin Champs a rich language and cultural outdoor experience through learning and recognising common herbs and spices in the Community.
+
+  •         To facilitate holistic learning for students by engaging and creating meaningful outdoor experiences that create a joy of learning. The programme will equip students with the relevant skills and knowledge to be confident and effective communicators. It will also cultivate a sense of care and graciousness for the environment thus shaping their character and attitude through this experiential learning.
+	
+![](/images/Malay%20spices.jpg)
+	
+**Mother Tongue Fortnight & Language Camp**
+
+The MT Fortnight & Language Camp is a multi-disciplinary platform involving English, Physical Education, Art, Music, Drama and Character and Citizenship Education (CCE). The learning of Malay Language is fun, engaging and effective through an integrated setting.
+
+Some activities done before are arts and craft such as batik painting and tanjak making, learning to play the musical instruments like angklung and kompang, learning malay traditional dances like zapin and tarian kipas and also cooking Malay traditional delicacies such as roti kirai, kuih naga sari and pulut kuning. These activities ignite students’ interests in learning Malay culture and better equip them with the varied use of the language in different contexts. Students learn to be more confident, adaptable, innovative and resilient.
+
+Students also had cultural exposure to the Chinese culture during Chinese New Year Celebrations. Students learn how to make fans using hangbaos and also learn the meaning behind each ingredient of the Yu Sheng before getting to toss and taste it.
+
+![](/images/Malay%20Camp.jpg)
+
+**Conversational Chinese and Malay (CCM) programme**
+
+CCM equips our students with basic skills and knowledge of Chinese or Malay Language so as to enable them to communicate with their friends of other races and show awareness and appreciation of another culture.

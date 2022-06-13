@@ -44,3 +44,9 @@ I invite you to join us on this exciting journey to make 2022 a safe, joyous, me
 Mdm C. Dimps Rao  
 Principal  
 Yumin Primary School
+
+[2021 Foreword](/files/2021%20Principals%20Foreword.pdf)<br>
+[2020 Foreword](/files/2020%20Foreword.pdf)<br>
+[2019 Foreword](/files/2019%20Forward.pdf)<br>
+[2018 Foreword](/files/2018%20Foreword.pdf)<br>
+[2017 Foreword](/files/2017%20Foreword.pdf)

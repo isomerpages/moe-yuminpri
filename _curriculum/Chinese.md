@@ -95,3 +95,5 @@ The Conversational Chinese and Malay (CCM) programme are to equip our students w
 
 ![](/images/1DX25401.jpg)
 ![](/images/1DX24580.jpg)
+![](/images/YMPS_CNY2020_Recess-42.jpg)
+![](/images/YMPS_CNY2020_Recess-43.jpg)

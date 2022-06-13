@@ -26,3 +26,12 @@ description: ""
 
 
 <center> VIA during Learning Journey to Chiang Mai 2019 </center>
+
+![](/images/Slide5.jpg)
+Charmaine Yee's Interview with Cristiano Ronaldo at Yumin Primary School
+
+![](/images/Slide6.jpg)
+<img src="/images/image008.jpg" 
+     style="width:50%;float:left">
+<img src="/images/IMG_1706.jpg" 
+     style="width:50%">

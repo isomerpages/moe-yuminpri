@@ -119,8 +119,11 @@ Learning Malay grammar also takes place outside of the classroom to have experie
 ![](/images/Malay%20Outdoor%20Learning.png)
 
 **Malay Language Reading Programme**
+<center>
+INTRODUCTION OF MALAY LITERATURE IN MALAY LANGUAGE THROUGH INFUSION OF MUSIC & VIDEOS
+	</center>
 
-| INTRODUCTION OF MALAY LITERATURE IN MALAY LANGUAGE THROUGH INFUSION OF MUSIC & VIDEOS | |
+| | |
 | --- | --- |
 | P1 & P2 | Traditional Child's Song & Video |
 |  P3 & P4 | Folklore & Poetry / Storytelling  |

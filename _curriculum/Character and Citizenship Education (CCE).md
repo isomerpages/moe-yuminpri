@@ -55,3 +55,27 @@ Learning for Life Programme (LLP), Project ACTivAte, aims to develop Yumin Champ
 
 [P3 Project En-Reach](/p3-project-en-reach)<br>
 [P4 Project GrArtitude](/P4-Project-GrArtitude)
+
+**National Education**
+
+National Education (NE) is an important part of our holistic education. We aim to develop national cohesion, cultivate the instinct for survival as a nation and instil in our students, confidence in our nation's future. It also emphasises on cultivating a sense of belonging and emotional rootedness to Singapore. Moving forward, we can anchor NE not on the delivery of messages but on the design of experiences that strengthen our students’ and fellow educators’ citizenship dispositions, to inspire all of us to take collective ownership of our future as a nation.
+
+  
+
+1997: NE Messages
+![](/images/CCE5%20(1).png)
+
+2007: Head, Heart, Hands
+![](/images/CCE6%20(1).png)
+
+2017: Citizenship Dispositions
+![](/images/CCE7%20(1).png)
+
+**Anchoring National Education (NE) on Citizenship Dispositions**
+![](/images/CCE8%20(1).png)
+
+**National Education Commemorative Events**
+![](/images/CCE9%20(1).png)
+
+
+**Gallery**

@@ -97,8 +97,15 @@ In Yumin, we take on a developmental approach to our Music curriculum. Through t
 | Primary 5 | iPad GarageBand
 | Primary 6 | **P6 Post PSLE Music Enrichment Programme**<br>Ukulele
 
+
 **P2 Keyboard Enrichment**
 
 <img src="/images/Slide2%20(1).jpeg" 
      style="width:50%;float:left"><img src="/images/Slide3%20(7).jpeg" 
+     style="width:50%">
+
+**P4 Guitar Enrichment**
+
+<img src="/images/Slide2%20(8).jpeg" 
+     style="width:50%;float:left"><img src="/images/Slide3%20(2).jpeg" 
      style="width:50%">

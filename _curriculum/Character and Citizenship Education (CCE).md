@@ -79,12 +79,12 @@ National Education (NE) is an important part of our holistic education. We aim t
 
 
 **Gallery**<br>
-[Photos & Videos](/tdd_gallery)
+[Photos & Videos](/tdd-gallery)
 
 ![](/images/CCE10%20(1).png)
 ![](/images/CCE11%20(1).png)
 
 **Gallery**<br>
-[Photos & Videos](/rhd_gallery)
+[Photos & Videos](/rhd-gallery)
 
 ![](/images/CCE12%20(1).png)

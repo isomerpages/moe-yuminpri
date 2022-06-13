@@ -109,3 +109,9 @@ In Yumin, we take on a developmental approach to our Music curriculum. Through t
 <img src="/images/Slide2%20(8).jpeg" 
      style="width:50%;float:left"><img src="/images/Slide3%20(2).jpeg" 
      style="width:50%">
+		 
+**P6 Post-PSLE Music Enrichment**
+
+<img src="/images/Slide2%20(4).jpeg" 
+     style="width:50%;float:left"><img src="/images/Slide3%20(5).jpeg" 
+     style="width:50%">

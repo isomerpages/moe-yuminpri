@@ -63,3 +63,42 @@ In addition, there are also opportunities for pupils to explore and create Arts 
      style="width:50%"><img src="/images/Slide8.jpeg" 
      style="width:50%;float:left"><img src="/images/Slide9.jpeg" 
      style="width:50%">
+		 
+**Theatre Experience (P1 & P2)**  
+
+The Primary Ones and Twos will have a fun and enriching theatre experience. Not only do they get to enjoy a wonderful performance, they also have the chance to learn and apply the school values as well as practice theatre etiquette.
+
+  
+
+
+**Aesthetics Night**
+
+
+Aesthetics Night is a platform for our students to apply their learning and showcase their talents to their family members. Through this platform, we want to build our students’ confidence on stage and develop our Yumin Champions into Confident & Effective Communicators through the Arts.
+
+**“OUR DREAM” Musical** 
+
+Our school presented our musical, entitled “Our Dream”, featuring students from the Performing Arts Groups including Drama Club, Choir, Creative Movement and Dance, Guzheng Ensemble and String Ensemble as well as artworks from Art Club members. This musical captured the collective dreams and aspirations of our students and staff and inspired us to strive for our dreams as we envision our next stage of growth.  This musical also provided a unique learning experience for our students to build their character and confidence as they developed a sense of pride and accomplishment after their months of hard work and praiseworthy efforts.
+
+**Music Curriculum**
+
+  
+
+In Yumin, we take on a developmental approach to our Music curriculum. Through the Teaching – Reinforcement – Application (TRA) teaching pedagogy, pupils participate in a variety of music activities and acquire music knowledge and skills. At the end of their six years’ art education, they would have acquired a repertoire of skills and will be able to play various instruments.
+
+
+
+|  | Programmes / Instrument Specialisation | 
+| -------- | -------- | 
+| Primary 1     | Various Percussion Instruments (eg Resonator Bells, Handbells)     | 
+| Primary 2 | **Keyboard**  <br> Various Percussion Instruments (eg Resonator Bells, Handbells) 
+| Primary 3 | Recorder and Ukulele
+| Primary 4 | **Guitar**  <br>Recorder and Ukulele
+| Primary 5 | iPad GarageBand
+| Primary 6 | **P6 Post PSLE Music Enrichment Programme**<br>Ukulele
+
+**P2 Keyboard Enrichment**
+
+<img src="/images/Slide2%20(1).jpeg" 
+     style="width:50%;float:left"><img src="/images/Slide3%20(7).jpeg" 
+     style="width:50%">

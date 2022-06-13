@@ -2,4 +2,5 @@ collections:
   our-people:
     output: true
     order:
+      - Level Teachers.md
       - Executive and Admin Staff.md

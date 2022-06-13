@@ -2,5 +2,6 @@ collections:
   our-experience:
     output: true
     order:
+      - Curriculum/International Studies.md
       - Curriculum/Eco Stewardship.md
       - Curriculum/.keep

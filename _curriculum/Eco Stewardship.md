@@ -38,4 +38,9 @@ On Tuesday 22 March, we celebrated World Water Day! Water is a precious resource
 
   
 In the month of May, we held the annual Biodiversity Week in our school! Students were encouraged to observe the organisms that were brought in. Students were also invited to use the iNaturalist app to find out the scientific name of the species.
+
+<img src="/images/Eco4.jpg" 
+     style="width:50%;float:left"><img src="/images/Eco5.jpg" 
+     style="width:50%">
 		 
+P1 to P3 students learned more about Singapore’s rich biodiversity using the thematic Bobby and Stella book. P4 to P6 students were tasked to explore the school gardens and record the organisms that they sighted during the Bioblitz programme.

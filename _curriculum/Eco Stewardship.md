@@ -49,3 +49,12 @@ P1 to P3 students learned more about Singapore’s rich biodiversity using the t
      style="width:50%;float:left">
 		 <img src="/images/Eco7.jpg" 
      style="width:50%">
+		 
+<center> Collaborations with other Subjects </center>
+
+  
+  
+Environment education is only effective when it’s a whole school approach. The Eco Stewardship team collaborated with other subjects to further enhance environment education in the respective subjects.  
+  
+
+<center> P3 English, Science and Eco Stewardship: Students were tasked to create an e-poster using Powerpoint to showcase the rich biodiversity around the world. </center>

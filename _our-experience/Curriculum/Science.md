@@ -62,3 +62,7 @@ In the process of understanding the biodiversity of plants in our garden, our st
 _Students observing the spores underneath the leaves of ferns_
 
 Our students learn Adaptation in Animals and Reproduction of Plants. Our audio-guided trail and QR codes allow them to explore the garden independently while learning about the various animals and plants.
+
+<img src="/images/Science%20-%20Garden%20UP.png" 
+     style="width:50%">
+		 _Students using a magnifying glass to observe the parts of flowers_

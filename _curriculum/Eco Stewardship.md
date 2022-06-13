@@ -44,3 +44,8 @@ In the month of May, we held the annual Biodiversity Week in our school! Student
      style="width:50%">
 		 
 P1 to P3 students learned more about Singapore’s rich biodiversity using the thematic Bobby and Stella book. P4 to P6 students were tasked to explore the school gardens and record the organisms that they sighted during the Bioblitz programme.
+
+<img src="/images/Eco6.jpg" 
+     style="width:50%;float:left">
+		 <img src="/images/Eco7.jpg" 
+     style="width:50%">

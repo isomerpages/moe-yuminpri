@@ -54,3 +54,11 @@ Integration of English STELLAR Programme with the learning of nature and life
 _Primary 3 students observing the parts of a plant_
 
 In the process of understanding the biodiversity of plants in our garden, our students acquire ICT skills and apply them during Science lessons.
+
+
+<img src="/images/Science%20-%20Garden%20MP.png" 
+     style="width:50%">
+
+_Students observing the spores underneath the leaves of ferns_
+
+Our students learn Adaptation in Animals and Reproduction of Plants. Our audio-guided trail and QR codes allow them to explore the garden independently while learning about the various animals and plants.

@@ -147,3 +147,7 @@ In Yumin, we take on a developmental approach to our Art curriculum. Pupils acqu
 <img src="/images/Slide2%20(9).jpeg" 
      style="width:50%;float:left"><img src="/images/Slide3%20(4).jpeg" 
      style="width:50%">
+<img src="/images/Slide4%20(1).jpeg" 
+     style="width:50%;float:left"><img src="/images/Slide5.jpeg" 
+     style="width:50%"> 
+		 

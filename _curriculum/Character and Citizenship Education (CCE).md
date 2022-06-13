@@ -78,4 +78,13 @@ National Education (NE) is an important part of our holistic education. We aim t
 ![](/images/CCE9%20(1).png)
 
 
-**Gallery**
+**Gallery**<br>
+[Photos & Videos] ()
+
+![](/images/CCE10%20(1).png)
+![](/images/CCE11%20(1).png)
+
+**Gallery**<br>
+[Photos & Videos] ()
+
+![](/images/CCE12%20(1).png)

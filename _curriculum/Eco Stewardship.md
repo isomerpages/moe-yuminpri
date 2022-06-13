@@ -24,3 +24,18 @@ Proper ways of recycling (washing and drying of PET bottles and cans) were share
 <center> World Water Day </center>
 
 On Tuesday 22 March, we celebrated World Water Day! Water is a precious resource and every droplet of water counts! Students were challenged to design a poster to promote the ways of using less water and how precious water is. Selected Eco Champs were also invited to attend the annual World Water Day symposium. Our Eco Champs were then tasked to spread the importance of saving water to their friends.
+
+<img src="/images/WWD1.jpg" 
+     style="width:50%;float:left">
+		 <img src="/images/WWD2.jpg" 
+     style="width:50%">
+
+<img src="/images/WWD3.jpg" 
+     style="width:50%">
+		 
+		 
+<center> Biodiversity Week </center>
+
+  
+In the month of May, we held the annual Biodiversity Week in our school! Students were encouraged to observe the organisms that were brought in. Students were also invited to use the iNaturalist app to find out the scientific name of the species.
+		 

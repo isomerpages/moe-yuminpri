@@ -28,4 +28,7 @@ description: ""
 | Lim Kosei Miyano | 3 Compassion | National Chinese Calligraphy Competition | Merit Award (Junior)
 | Guo Chengxi  <br> Bryce Choo You Teng | 4 Respect  <br> 4 Compassion | Singapore & Asian Schs Math Olympiad (SASMO) | Gold
 | Tania Teo Xin Hui  <br> Contractor Advait Miling  <br> Klaris Koh Kah Sian | 4 Respect  <br> 4 Compassion  <br> 6 Respect | Singapore & Asian Schs Math Olympiad (SASMO) | Silver
-| Anish Das  <br> Atharv Pandit  <br> Chen Jie Qi  <br> Jerry Seng Bing Hong  <br> Kobe Low Shin-Lee  <br> Poh Sann Young Dayenus  <br> Nathan Lim Kee Yan  <br> Joshua Tan Li En  <br>Tan Jing Yi | 4 Respect   <br>4 Respect   <br>4 Respect   <br>4 Respect   <br>4 Respect   <br>4 Respect   <br>4 Compassion   <br>6 Respect   <br>6 Respect
+| Anish Das  <br> Atharv Pandit  <br> Chen Jie Qi  <br> Jerry Seng Bing Hong  <br> Kobe Low Shin-Lee  <br> Poh Sann Young Dayenus  <br> Nathan Lim Kee Yan  <br> Joshua Tan Li En  <br>Tan Jing Yi | 4 Respect   <br>4 Respect   <br>4 Respect   <br>4 Respect   <br>4 Respect   <br>4 Respect   <br>4 Compassion   <br>6 Respect   <br>6 Respect| Singapore & Asian Schs Math Olympiad (SASMO) | Bronze
+|Muhammad Ilman Rafaaelli Bin Abdul Rifaee  <br> Ainul Izzati Binte Chairul Fahmy| 2 Compassion  <br> 4 Respect | NUSA National Writing Competition | Gold
+| Aslam Syariq Bin Salim  <br>Tyara Binte Rostam | 3 Respect  <br> 5 Compassion| NUSA National Writing Competition | Silver
+| Aini Zakirah Bte Azli  <br> Sari Hasanah Nur Khafifi Bte Muhammad Mubarak| 6 Compassion  <br>6 Perseverance | NUSA National Writing Competition |Bronze

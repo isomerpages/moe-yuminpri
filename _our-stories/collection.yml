@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - Staff Achievements.md
       - Student Achievements.md
       - Yumin's 40th Anniversary E Book.md
       - Covid19 Appreciation Messages.md

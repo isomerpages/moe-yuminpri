@@ -26,5 +26,7 @@ _The trainings develop us both physically and mentally. I have always learnt new
 _As the captain of the P6 team, I have not only led the team during the trainings but also encouraged them to play their best at all times. Joining Netball helps to build my confidence and to be more responsible."  
 _  
 
-**Gan Shu Ying   
+**Gan Shu Ying&nbsp;  
 Primary 6**
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vScW05EjOoxUdB--Kd8TAqgVsiquLkdSOvOmbfDmQ0FDEQGsRQtf1k4nJmlKCXWaTfVZXbEvdEdrN-5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

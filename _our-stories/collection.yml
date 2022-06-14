@@ -2,5 +2,6 @@ collections:
   our-stories:
     output: true
     order:
+      - Yumin's 40th Anniversary E Book.md
       - Covid19 Appreciation Messages.md
       - Yumin's 45th Anniversary e Exhibition.md

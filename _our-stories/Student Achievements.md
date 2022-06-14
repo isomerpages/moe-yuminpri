@@ -3,3 +3,29 @@ title: Student Achievements
 permalink: /our-stories/Student-Achievements
 description: ""
 ---
+2022
+
+
+| Student(s) | Class | Competition | Award Received | 
+| -------- | -------- | -------- |-------- |
+| Wang Shicong  <br> Wang Shifan     | 4 Respect <br> 4 Respect     | National Chinese Calligraphy Competition     | Excellence Award | 
+| Natalie Low Min Yu | 6 Respect | National Chinese Calligraphy Competition | Consolation Prize
+
+2021 
+
+| Student(s) | Class | Competition | Award Received | 
+| -------- | -------- | -------- |-------- |
+| Tan En Qi  <br> Ameer Zarif  <br> Darwin Yip | 3 Respect <br>3 Respect  <br> 3Compassion | Moo-O Plus | Bronze Medal
+| Bendon Tan  <br> Syeda Zainab| 4 Respect <br> 5 Respect| Mythos Junior Orators | Participation
+| Nelini Chandrasiri | 5 Respect | Mythos Junior Orators | 3rd Position in the Final
+
+2019
+| Student(s) | Class | Competition | Award Received | 
+| -------- | -------- | -------- |-------- |
+| Senior Boys (Volleyball) | - | East Zone Volleyball Championships 2019 | Champion
+| Junior Boys (Volleyball) | - | East Zone Volleyball Championships 2019 | Second Position
+| Senior Girls (Netball) | - | East Zone Netball Championships 2019 | Top 8 in East Zone
+| Lim Kosei Miyano | 3 Compassion | National Chinese Calligraphy Competition | Merit Award (Junior)
+| Guo Chengxi  <br> Bryce Choo You Teng | 4 Respect  <br> 4 Compassion | Singapore & Asian Schs Math Olympiad (SASMO) | Gold
+| Tania Teo Xin Hui  <br> Contractor Advait Miling  <br> Klaris Koh Kah Sian | 4 Respect  <br> 4 Compassion  <br> 6 Respect | Singapore & Asian Schs Math Olympiad (SASMO) | Silver
+| Anish Das  <br> Atharv Pandit  <br> Chen Jie Qi  <br> Jerry Seng Bing Hong  <br> Kobe Low Shin-Lee  <br> Poh Sann Young Dayenus  <br> Nathan Lim Kee Yan  <br> Joshua Tan Li En  <br>Tan Jing Yi

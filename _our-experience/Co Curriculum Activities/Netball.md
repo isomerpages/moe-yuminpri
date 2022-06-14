@@ -18,3 +18,13 @@ Coach
 
 ![](/images/netball1.jpeg)
 ![](/images/netball2.jpeg)
+
+**Student Testimonial**  
+
+_"I have joined Netball since Primary 2 and through 4 years of Netball, I have made new friends. Other than learning new netball techniques, I have also learnt about teamwork and the importance of the four school values – Respect , Compassion , Integrity and Perseverance through the games._  
+_The trainings develop us both physically and mentally. I have always learnt new skills every time through the trainings and competitions. Even if we lose a game, we do not give up. We will learn from our mistakes and apply our learning in the next game to do a better job._  
+_As the captain of the P6 team, I have not only led the team during the trainings but also encouraged them to play their best at all times. Joining Netball helps to build my confidence and to be more responsible."  
+_  
+
+**Gan Shu Ying   
+Primary 6**

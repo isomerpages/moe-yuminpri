@@ -27,3 +27,13 @@ Certificate of Accomplishment at the 2012 and 2014 SYF.
 ![](/images/Guzheng1.jpg)
 ![](/images/Guzheng2.jpg)
 ![](/images/Guzheng3.jpg)
+![](/images/Guzheng4.jpg)![](/images/Guzheng5.jpg)![](/images/Guzheng6.jpg)![](/images/Guzheng7.jpg)![](/images/Guzheng8.jpg)![](/images/Guzheng9.jpg)
+
+**Distinction at 2016 SYF (Singapore Youth Festival Arts Presentation)**  
+Certificate of Accomplishment at the 2012 and 2014 SYF (Singapore Youth Festival) competition   
+  
+**Student Testimonial**  
+
+“_I like playing Guzheng as it relaxes me whenever I feel stressed, especially during examination periods. Music from the instrument is soothing. In order to play a song well, I must work closely with my team members. I participated in the Singapore Youth Festival Central Judging competitions twice, once when I was in Primary 2 in 2010 and two years later when I was in Primary 4. We bagged the Silver award in both years. All our hard work had really paid off. I LOVE GUZHENG!_”  
+
+**_Alycia Lim (5A)_**

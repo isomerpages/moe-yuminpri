@@ -32,3 +32,5 @@ description: ""
 |Muhammad Ilman Rafaaelli Bin Abdul Rifaee  <br> Ainul Izzati Binte Chairul Fahmy| 2 Compassion  <br> 4 Respect | NUSA National Writing Competition | Gold
 | Aslam Syariq Bin Salim  <br>Tyara Binte Rostam | 3 Respect  <br> 5 Compassion| NUSA National Writing Competition | Silver
 | Aini Zakirah Bte Azli  <br> Sari Hasanah Nur Khafifi Bte Muhammad Mubarak| 6 Compassion  <br>6 Perseverance | NUSA National Writing Competition |Bronze
+|Brendon Tan Choon Hong | 2 Diligence | Text Recital Competition for Pri and Sec Schools | Lower Pri (Indiv-Bronze)
+| Liu Ziye Jonas  <br> Woo Junyou Evans  <br>Rafel Koh Kang Zhi  <br>Fang Zitong  <br>Ho Rui Jia Jovianne  <br>Lee Yu Fei | 2 Respect  <br>2 Respect  <br>2 Respect  <br>2 Compassion <br>2 Compassion  <br>2 Diligence

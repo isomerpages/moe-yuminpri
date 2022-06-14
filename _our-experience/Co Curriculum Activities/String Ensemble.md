@@ -38,7 +38,7 @@ Certificate of Accomplishment at the 2012 and 2014 competition
 
 **_Verani Wu Huiling (4B)_**  
   
-“_I enjoy being in String Ensemble as I have built great friendships with my CCA friends. We perform together for special events such as National Day and Teachers’ Day.   
+“_I enjoy being in String Ensemble as I have built great friendships with my CCA friends. We perform together for special events such as National Day and Teachers’ Day.&nbsp;  
 My friends and I find it challenging learning to play new songs. However, as we practise more, we eventually become better. I intend to be a dedicated member of the String Ensemble and continue to hone my skills._”  
 
 **_Isabelle Lim Shi Jie (4A)_**
@@ -46,3 +46,5 @@ My friends and I find it challenging learning to play new songs. However, as we 
 ![](/images/String%20Ensemble1.jpg)
 ![](/images/String%20Ensemble2.jpg)
 ![](/images/String%20Ensemble3.jpg)
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSq_o45frJfWVC84DEhHpyeBtHuzCcBkqSgXintXM8snMrUGCRRE0YSpZPq3UtveyEKxvVvT8NFd4mb/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

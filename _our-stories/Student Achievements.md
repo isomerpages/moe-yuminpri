@@ -28,4 +28,4 @@ description: ""
 | Lim Kosei Miyano | 3 Compassion | National Chinese Calligraphy Competition | Merit Award (Junior)
 | Guo Chengxi  <br> Bryce Choo You Teng | 4 Respect  <br> 4 Compassion | Singapore & Asian Schs Math Olympiad (SASMO) | Gold
 | Tania Teo Xin Hui  <br> Contractor Advait Miling  <br> Klaris Koh Kah Sian | 4 Respect  <br> 4 Compassion  <br> 6 Respect | Singapore & Asian Schs Math Olympiad (SASMO) | Silver
-| Anish Das  <br> Atharv Pandit  <br> Chen Jie Qi  <br> Jerry Seng Bing Hong  <br> Kobe Low Shin-Lee  <br> Poh Sann Young Dayenus  <br> Nathan Lim Kee Yan  <br> Joshua Tan Li En  <br>Tan Jing Yi
+| Anish Das  <br> Atharv Pandit  <br> Chen Jie Qi  <br> Jerry Seng Bing Hong  <br> Kobe Low Shin-Lee  <br> Poh Sann Young Dayenus  <br> Nathan Lim Kee Yan  <br> Joshua Tan Li En  <br>Tan Jing Yi | 4 Respect   <br>4 Respect   <br>4 Respect   <br>4 Respect   <br>4 Respect   <br>4 Respect   <br>4 Compassion   <br>6 Respect   <br>6 Respect

@@ -34,6 +34,6 @@ Certificate of Accomplishment at the 2012 and 2014 SYF (Singapore Youth Festival
   
 **Student Testimonial**  
 
-“_I like playing Guzheng as it relaxes me whenever I feel stressed, especially during examination periods. Music from the instrument is soothing. In order to play a song well, I must work closely with my team members. I participated in the Singapore Youth Festival Central Judging competitions twice, once when I was in Primary 2 in 2010 and two years later when I was in Primary 4. We bagged the Silver award in both years. All our hard work had really paid off. I LOVE GUZHENG!_”  
+“ I like playing Guzheng as it relaxes me whenever I feel stressed, especially during examination periods. Music from the instrument is soothing. In order to play a song well, I must work closely with my team members. I participated in the Singapore Youth Festival Central Judging competitions twice, once when I was in Primary 2 in 2010 and two years later when I was in Primary 4. We bagged the Silver award in both years. All our hard work had really paid off. I LOVE GUZHENG!”  
 
 **_Alycia Lim (5A)_**

@@ -23,3 +23,6 @@ Junior: Thursday: 2pm-3pm
 **Achievements**
 <br>Distinction award at the 2016 and 2018 SYF (Singapore Youth Festival Arts Presentation).  
 Certificate of Accomplishment at the 2012 and 2014 SYF.
+
+![](/images/Guzheng1.jpg)
+![](/images/Guzheng2.jpg)

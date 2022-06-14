@@ -39,3 +39,42 @@ Safe management measures due to the COVID-19 pandemic may have impacted school p
 
 ![](/images/bookchar1.jpg)
 ![](/images/bookchar2.jpg)
+
+**Reading Programme**
+
+Learning Values through Books & Celebrating Genres
+
+  
+
+Books are powerful – not only do they allow readers to pick up language skills, they also teach and enable readers to gain insights on values through the characters and circumstances in the story.
+
+  
+
+In 2021, the English Department introduced and celebrated the genre of ‘Fantasy’. Not only were students recommended to a variety of books to enable them to appreciate this genre, but the department also showcased texts related to this genre that highlighted the school values of Perseverance and Integrity. This was a great opportunity for students to identify, explore and internalise the school values while learning about the features of the Fantasy genre.
+
+  
+
+Not only that, Yumin Champions applied what they had learned about fairy tales in the previous term, and tried their hand at creating their very own fractured fairy tales in the form of stories or comic strips. The response was overwhelming and many of our students proved that they were budding illustrators and writers!
+
+  
+
+**Speech & Drama**
+
+Our in-house Speech and Drama Programme (P1 & P2) provides students with an opportunity to learn techniques necessary for effective communication while having fun!
+
+![](/images/speechdrama1.jpg)
+
+**External Competition**
+
+Moo-O Plus
+
+  
+
+The Moo-O Plus competition is an annual event that aims to cultivate in students, the love for the English Language, and motivate them to read and speak fluently and expressively in English through fun and engaging activities.
+
+![](/images/mooo1.jpg)
+
+Suggested Link:  
+You may access [National Library Board (NLB) website](http://www.nlb.gov.sg/) for its NLB catalogue and a list of eResources for primary school students. Enjoy!  
+  
+[Starfall.com](http://www.starfall.com/) is a free online resource that teaches children to read!

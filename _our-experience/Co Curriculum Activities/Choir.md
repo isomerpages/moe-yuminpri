@@ -29,3 +29,17 @@ Coach
      style="width:50%">
 		 
 <center> Right: Performance at Our Tampines Hub in Conjunction with Choral Moments Sing Lah! Festive Choirs 2019 </center>
+
+<img src="/images/School%20Choir%202020g.jpeg" 
+     style="width:50%;float:left">
+		 <img src="/images/School%20Choir%202020h.jpeg" 
+     style="width:50%">
+		 
+<center> Left: Singing our sincere hearts out during Teachers’ Day Concert 2019 / Right: Champions’ Day 2019 </center>
+
+<img src="/images/School%20Choir%202020i.jpeg" 
+     style="width:50%;float:left">
+		 <img src="/images/School%20Choir%202020j.jpeg" 
+     style="width:50%">
+		 
+<center> Left: Performance for Voices in Harmony @ Black Box, Goodman Arts Centre 2019 / Right: Singapore Youth Festival 2018 </center>

@@ -34,3 +34,5 @@ Ms Leom Li Yan
 “My two years in the Art Club have been very enriching. I have gained knowledge on different types of Art work and my artistic skills have also improved. Other than drawing and painting, I am also exposed to craftwork such as wire sculpting. My friends and I created several wire sculptures for the Singapore Youth Festival Central Judging competition earlier this year. The experience that I gained in taking part in the competition has further motivated me in my artistic quest.”  
 
 **_Mitchel Lee Jun Xian (4B)_**
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR2Zs97PsyrPYtieafkXphU7JSKuUCxfXAKxFxsWrdbOVZ8jBD0SWQs7GsnYERIJepH_L4jSjy_Aq4y/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

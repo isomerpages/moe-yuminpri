@@ -2,6 +2,7 @@ collections:
   our-experience:
     output: true
     order:
+      - Co Curriculum Activities/Art Club.md
       - Co Curriculum Activities/Guzheng.md
       - Co Curriculum Activities/Environment Club.md
       - Co Curriculum Activities/String Ensemble.md

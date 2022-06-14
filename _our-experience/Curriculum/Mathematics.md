@@ -37,3 +37,10 @@ _P2 pupils learning subtraction using the unit cubes_
 _P3 pupils learning Equivalent fractions and reinforcing the concepts through games_
 
 ![](/images/Math%20-%20CPA3.jpg)
+
+**Fun & Curiosity Maths Week @ Yumin**  
+
+The Mathematics Department aims to excite Yumin Champions in the learning of Mathematics through a series of fun activities. During assembly, P1 to 6 Yumin Champions were challenged to form as many animals, humans, or any other shapes using the Tangram pieces.
+
+![](/images/Math%20-%20%20Fun%20%20Curiosity%201.jpg)
+![](/images/Math%20-%20%20Fun%20%20Curiosity%202.jpg)

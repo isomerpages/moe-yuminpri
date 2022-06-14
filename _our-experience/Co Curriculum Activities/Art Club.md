@@ -16,3 +16,10 @@ Ms Leom Li Yan
 
 ![](/images/information_artclub.png)
 ![](/images/Slide16a.jpg)
+
+![](/images/art1.jpeg)
+![](/images/art2.jpeg)
+![](/images/art3_1.jpeg)
+![](/images/art4.jpeg)
+![](/images/art5.jpeg)
+![](/images/art6.jpeg)

@@ -2,6 +2,7 @@ collections:
   our-experience:
     output: true
     order:
+      - Yumin Reality Outside Classrooms (RoCs).md
       - Student Leadership.md
       - Co Curriculum Activities/Choir.md
       - Co Curriculum Activities/Creative Movement & Dance.md

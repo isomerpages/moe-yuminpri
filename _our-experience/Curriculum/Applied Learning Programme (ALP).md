@@ -25,9 +25,6 @@ Following the 5 phases of the QUEST Framework, students of all aptitudes and abi
 | Programme / Level | Expected Outcome | 
 | -------- | -------- |
 | **P3 Microbits Scoreboard**     | Students will be able to make use of microbits to do block-based programming to do scorekeeping and without sensors (PIR sensors)     | 
-| **P4 Code for Fun (Sphero)  IMDA** | Students will be able to make use of sphero to create a storyline using lights and movement.
+| **P4 Code for Fun (Sphero)  <br> IMDA** | Students will be able to make use of sphero to create a storyline using lights and movement.
 | **P5 Scratch Game** | Students will be able to create educational games using the Scratch platform for their peers ot their juniors to learn concepts.
 | **P6 Scratch + Makey Makey Carnival games** | Students will be able to design and create carnival games through the use of Scratch and Makey Makey as controllers.
-
-
-

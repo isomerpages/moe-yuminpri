@@ -2,6 +2,7 @@ collections:
   our-experience:
     output: true
     order:
+      - Co Curriculum Activities/Volleyball.md
       - Co Curriculum Activities/Scouts.md
       - Co Curriculum Activities/.keep
       - Curriculum/Applied Learning Programme (ALP).md

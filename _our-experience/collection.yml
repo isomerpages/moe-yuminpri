@@ -2,6 +2,7 @@ collections:
   our-experience:
     output: true
     order:
+      - Curriculum/LEARNING for life PROGRAMME (LLP).md
       - Curriculum/English.md
       - Curriculum/Mathematics.md
       - Curriculum/Science.md

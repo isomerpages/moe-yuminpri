@@ -14,3 +14,5 @@ Mdm Illia Sulastri Binte Mohamed
 Mdm Aniza  
 Ms Leom Li Yan
 
+![](/images/information_artclub.png)
+![](/images/Slide16a.jpg)

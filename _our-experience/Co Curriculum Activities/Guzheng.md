@@ -26,3 +26,4 @@ Certificate of Accomplishment at the 2012 and 2014 SYF.
 
 ![](/images/Guzheng1.jpg)
 ![](/images/Guzheng2.jpg)
+![](/images/Guzheng3.jpg)

@@ -2,21 +2,7 @@ collections:
   our-experience:
     output: true
     order:
-      - Yumin Reality Outside Classrooms (RoCs).md
-      - Student Leadership.md
-      - Co Curriculum Activities/Choir.md
-      - Co Curriculum Activities/Creative Movement & Dance.md
-      - Co Curriculum Activities/Art Club.md
-      - Co Curriculum Activities/Guzheng.md
-      - Co Curriculum Activities/Environment Club.md
-      - Co Curriculum Activities/String Ensemble.md
-      - Co Curriculum Activities/Infocomm Club.md
-      - Co Curriculum Activities/Netball.md
-      - Co Curriculum Activities/Football.md
-      - Co Curriculum Activities/Red Cross.md
-      - Co Curriculum Activities/Volleyball.md
-      - Co Curriculum Activities/Scouts.md
-      - Co Curriculum Activities/.keep
+      - Curriculum/.keep
       - Curriculum/Applied Learning Programme (ALP).md
       - Curriculum/LEARNING for life PROGRAMME (LLP).md
       - Curriculum/English.md
@@ -32,4 +18,18 @@ collections:
       - Curriculum/Positive Education@YUMIN.md
       - Curriculum/International Studies.md
       - Curriculum/Eco Stewardship.md
-      - Curriculum/.keep
+      - Co Curriculum Activities/.keep
+      - Co Curriculum Activities/Choir.md
+      - Co Curriculum Activities/Creative Movement & Dance.md
+      - Co Curriculum Activities/Art Club.md
+      - Co Curriculum Activities/Guzheng.md
+      - Co Curriculum Activities/Environment Club.md
+      - Co Curriculum Activities/String Ensemble.md
+      - Co Curriculum Activities/Infocomm Club.md
+      - Co Curriculum Activities/Netball.md
+      - Co Curriculum Activities/Football.md
+      - Co Curriculum Activities/Red Cross.md
+      - Co Curriculum Activities/Volleyball.md
+      - Co Curriculum Activities/Scouts.md
+      - Student Leadership.md
+      - Yumin Reality Outside Classrooms (RoCs).md

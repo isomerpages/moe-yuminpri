@@ -5,13 +5,4 @@ links:
   - title: Our People
     collection: our-people
   - title: Our Experience
-    url: /curriculum
-    sublinks:
-      - title: Curriculum
-        url: /curriculum
-      - title: Co-Curricular Activities
-        url: /co-curricular-activities
-      - title: Student Leadership
-        url: /student-leadership
-      - title: Yumin Reality Outside Class
-        url: /yumin-reality-outside-classroom
+    collection: our-experience

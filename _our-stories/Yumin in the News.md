@@ -36,4 +36,15 @@ Click on the images to view the media coverage of the event.
 																									 style="width:50%;float:left"></a>
 
 <center> Left: Yahoo News / Right: Asia One News </center>
-	
+
+![](/images/Ronaldo%20Straits%20Times.jpeg)
+![](/images/Ronaldo%20Straits%20Times02.jpeg)
+![](/images/Ronaldo%20Straits%20Times03.jpeg)
+![](/images/Ronaldo%20Straits%20Times04.jpeg)
+![](/images/Ronaldo%20Berita02.jpeg)
+
+**STRAITS TIMES 27 MAY 2018**
+
+Click on the image below to read the article in pdf format.  
+<a href="/files/Putra%20Ex-student%20in%20the%20News.pdf">
+![](/images/Putra%20Ex-student.jpg) </a>

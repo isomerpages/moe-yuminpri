@@ -2,4 +2,5 @@ collections:
   our-parents-portal:
     output: true
     order:
+      - Parents as Active Partners (PAPA).md
       - Secondary School Open House.md

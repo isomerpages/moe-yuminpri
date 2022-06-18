@@ -3,7 +3,8 @@ title: Student Leadership
 permalink: /our-experience/student-leadership
 description: ""
 ---
-![](/images/goals.jpg)
+<img src="/images/goals.jpg" 
+     style="width:80%">
 
 **LOVE AT THE HEARTLAND (4)**
 
@@ -42,4 +43,3 @@ A Collaboration with Tampines East Zone 1 RC and People Association Family Life 
 **Modular Training (Event Management)**
 
 **Young Leaders' Camp**
-

@@ -9,4 +9,4 @@ Click on the images to view the media coverage of the event.
 
 <a href="https://yuminpri.moe.edu.sg/qql/slot/u203/images/Ronaldo%20on%20CNA.JPG">
 <img src="/images/Ronaldo%20on%20CNA.jpeg" 
-     style="width:50%"> </a>
+     style="width:50%;float:left"> </a>

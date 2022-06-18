@@ -4,9 +4,8 @@ permalink: /our-experience/curriculum/Character-and-Citizenship-Education-CCE
 description: ""
 third_nav_title: Curriculum
 ---
-
-
-![](/images/word.jpg)
+<img src="/images/word.jpg" 
+     style="width:70%">
 
 |  |  | 
 | -------- | -------- | 

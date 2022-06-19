@@ -2,5 +2,6 @@ collections:
   our-parents-portal:
     output: true
     order:
+      - Yumin Newsletter.md
       - Parents as Active Partners (PAPA).md
       - Secondary School Open House.md

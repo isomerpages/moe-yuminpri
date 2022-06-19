@@ -15,6 +15,4 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements
-  - infobar: {}
 ---
-

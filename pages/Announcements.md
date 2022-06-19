@@ -4,7 +4,7 @@ permalink: /announcement
 description: ""
 ---
 [Inspiring Teacher of English Award 2022](http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information)<br>
-[Healthy Lifestyle by Health Promotion Board]()<br>
+[Healthy Lifestyle by Health Promotion Board](/health-promotion-board)<br>
 [P1 Meet-the-Parents Slides]()<br>
 [P2 Meet-the-Parents Slides]()<br>
 [P3 Meet-the-Parents Slides]()<br>

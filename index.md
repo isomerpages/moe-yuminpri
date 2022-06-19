@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/d10f6a61c_995.jpg
       key_highlights:
-        - title: Highlights
+        - title: Quick Links
           description: ""
-          url: ""
+          url: /quick-links
         - title: Announcements
           description: ""
           url: /announcements

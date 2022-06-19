@@ -34,3 +34,16 @@ Edition 1: Sharing of HPB programmes for students in schools, and how parents ca
      style="width:25%;float:left">
 <br><br><br><br>
 [Click here to view](https://go.gov.sg/parentsnewsletter2)
+
+Our workshops for parents are also currently available for booking.  
+  
+**Colours of the Mind (COTM) Workshop**  
+Parents will learn the knowledge and skills to better communicate with their children and take control of their personal wellbeing. The workshop focused on three domains; Positive Functioning, Emotional Intelligence and Social Intelligence.  
+Workshop dates have been included in the registration links. Click the poster below for more information.
+
+![](/images/poster%201.jpg)
+
+**Healthy Eating and Healthy Living (HEAL) Workshop**  
+Have you had concerns about your child eating behaviours? Do you struggle to find healthier options when eating out? Do you want to learn how to make smart food choices for your family? Find the answers to your questions and learn more about how to lead an active lifestyle for your child through this workshop. Workshop dates have been included in the registration links. Click the Poster below for more information.
+
+![](/images/poster%202.jpg)

@@ -2,6 +2,7 @@ collections:
   our-parents-portal:
     output: true
     order:
+      - Financial Assistance Scheme (FAS).md
       - Direct School Admission.md
       - Guides for Parents.md
       - Sexuality Education.md

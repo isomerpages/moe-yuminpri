@@ -19,5 +19,5 @@ Please click [here](https://www.moe.gov.sg/secondary/dsa) for more information
 ![](/images/CHIJ%20Katong%20Convent%20DSA%20Poster.png)
 [Click here for more information](/files/Letter%20to%20P6%20Parents%20on%20DSA%20to%20CHIJ%20Katong%20Convent.pdf)
 
-**Raffles Institute**<br>
+**Raffles Institution**<br>
 [Click here for more information](/files/E-Mailer%20DSA%20Sec%20Webinar.pdf)

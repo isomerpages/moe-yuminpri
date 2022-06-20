@@ -57,7 +57,7 @@ In the process of understanding the biodiversity of plants in our garden, our st
 
 
 <img src="/images/Science%20-%20Garden%20MP.png" 
-     style="width:50%">
+     style="width:35%">
 
 _Students observing the spores underneath the leaves of ferns_
 

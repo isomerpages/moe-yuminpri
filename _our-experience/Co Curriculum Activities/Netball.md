@@ -25,7 +25,7 @@ _"I have joined Netball since Primary 2 and through 4 years of Netball, I have m
 _The trainings develop us both physically and mentally. I have always learnt new skills every time through the trainings and competitions. Even if we lose a game, we do not give up. We will learn from our mistakes and apply our learning in the next game to do a better job._  
 _As the captain of the P6 team, I have not only led the team during the trainings but also encouraged them to play their best at all times. Joining Netball helps to build my confidence and to be more responsible."_  
 
-**Gan Shu Ying&nbsp;  
-Primary 6**
+**_Gan Shu Ying&nbsp;  
+Primary 6_**
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vScW05EjOoxUdB--Kd8TAqgVsiquLkdSOvOmbfDmQ0FDEQGsRQtf1k4nJmlKCXWaTfVZXbEvdEdrN-5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

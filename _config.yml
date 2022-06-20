@@ -51,3 +51,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://moe-yuminpri-staging.netlify.app
 prod: https://moe-yuminpri-prod.netlify.app
+resources_name: malay-department

@@ -50,8 +50,8 @@ Coach
 
 **“I love Choir as we get to learn to sing new songs every other week. The songs we learn are usually melodious and soothing. I have also learnt more about Music since I joined Choir”**
 
-**Sheetal (6 Compassion)**
+**_Sheetal (6 Compassion)_**
 
 **“Choir opens doors for me to participate in performances.  When I was in Primary 4, I was given the opportunity to take part in the Singapore Youth Festival competition.  I felt very thankful as the competition has allowed me to be more resilient in practising my singing skills.”**
 
-**Jolene (6 Respect)**
+**_Jolene (6 Respect)_**

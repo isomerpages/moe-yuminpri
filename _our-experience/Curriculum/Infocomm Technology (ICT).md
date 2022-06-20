@@ -4,8 +4,6 @@ permalink: /our-experience/curriculum/Infocomm-Technology-ICT
 description: ""
 third_nav_title: Curriculum
 ---
-
-
 **Vision: Future-ready and Responsible Digital Learners Mission: Technology-enriched school environment for quality teaching and learning**
 
 ![](/images/keyprogrammes_ict.jpg)
@@ -23,7 +21,8 @@ Technology is harnessed in support of the school’s Total Curriculum Framework 
 
 New Media Literacies are defined as the competencies to create, connect and curate information in the digital networked environment. Regular engagement in these interactions will enable students to develop an understanding of the social practices (tacit norms and skills) governing the Web and be equipped with the knowledge and skills to navigate and participate productively. At the heart of these interactions are the six core values of the 21st Century Competencies (21CC) framework, that anchor the learning experiences and promote discerning and responsible use of technology.
 
-![](/images/1st%20pic.png)
+<img src="/images/1st%20pic.png" 
+     style="width:60%">
 
 
 **Cyber Wellness**

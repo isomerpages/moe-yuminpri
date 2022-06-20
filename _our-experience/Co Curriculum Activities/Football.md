@@ -25,7 +25,7 @@ Coach
 
 “Football has helped me improve my fitness, as well as my decision-making and leadership skills. It has also helped me with my confidence. I have picked up the school values of respect, compassion, integrity and perseverance through the game.”
 
-**Syed Amir of P6 Respect**
+**_Syed Amir of P6 Respect_**
 
   
 
@@ -34,4 +34,4 @@ Coach
 “Being chosen to be the captain of the football team is an honour. I have more responsibility on my shoulders and be a good example to the rest of my teammates. For me, respect goes both ways; if I respect my teammates, they will respect me too. Having a positive mindset drives me and my teammates to keep going, through the tough games and trainings. Overall, football has helped me improve my fitness and developed my character.”
 
   
-**Prithviraj Madhavan of 6 Respect**
+**_Prithviraj Madhavan of 6 Respect_**

@@ -5,13 +5,18 @@ description: ""
 ---
 ![](/images/Food%20heartland%2061.jpg)
 
-![](/images/vision2.jpg)
-![](/images/vision_img.jpg)
+<img src="/images/vision2.jpg" 
+     style="width:90%;float:left">
+		 <img src="/images/vision_img.jpg" 
+     style="width:85%;float:left">
 
-![](/images/mission2.jpg)
+
+<img src="/images/mission2.jpg" 
+     style="width:90%;float:left">
 <img src="/images/mission_img.jpg" 
-     style="width:70%;float:left">
+     style="width:55%;float:left">
 		 
-![](/images/values2.jpg)
+<img src="/images/values2.jpg" 
+     style="width:90%;float:left">
 <img src="/images/values_img.jpg" 
-     style="width:40%;float:left">
+     style="width:35%;float:left">

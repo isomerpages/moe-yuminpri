@@ -31,4 +31,13 @@ sections:
       url: /highlights/inno-challenge
       image: /images/cf61a7bce_4375.jpeg
       alt: Image alt text
+  - infopic:
+      title: Teaching Award
+      description: "All students, their parents, and teachers are invited to send in
+        nominations for the Teaching Award to the school by 6pm on 28 March
+        2022. "
+      button: more
+      url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
+      image: /images/66bdef52f_4250.jpg
+      alt: Image alt text
 ---

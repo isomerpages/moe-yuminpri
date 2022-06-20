@@ -24,7 +24,8 @@ The central focus of the framework is mathematical problem-solving. The framewor
 
 The Concrete-Pictorial-Abstract (C-P-A) approach is an essential technique in the mastery of Mathematics that builds on students’ existing understanding progressively. It involves the use of concrete materials and pictorial/representation diagrams in authentic contexts to strengthen conceptual understanding.
 
-![](/images/CPA2.png)
+<img src="/images/CPA2.png" 
+     style="width:50%">
 
 _P3 pupils having an authentic experience of measuring items on the weighing scales_
 

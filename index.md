@@ -15,4 +15,8 @@ sections:
         - title: Announcements
           description: ""
           url: /announcement
+  - resources:
+      title: Our Yumin Champs Enriching Experiences
+      subtitle: Highlights
+      button: More
 ---

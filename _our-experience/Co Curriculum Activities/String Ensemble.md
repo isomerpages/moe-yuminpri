@@ -34,12 +34,12 @@ Certificate of Accomplishment at the 2012 and 2014 competition
   
 **Student Testimonial**  
 
-“_Being in the String Ensemble has been a great and interesting experience for me. Nothing beats being in a CCA that develops my interest in music and helps me discover my hidden talent at playing the violin. I recently took the ABRSM violin examination and it was a very good experience._”  
+_“Being in the String Ensemble has been a great and interesting experience for me. Nothing beats being in a CCA that develops my interest in music and helps me discover my hidden talent at playing the violin. I recently took the ABRSM violin examination and it was a very good experience.”_  
 
 **_Verani Wu Huiling (4B)_**  
   
-“_I enjoy being in String Ensemble as I have built great friendships with my CCA friends. We perform together for special events such as National Day and Teachers’ Day.&nbsp;  
-My friends and I find it challenging learning to play new songs. However, as we practise more, we eventually become better. I intend to be a dedicated member of the String Ensemble and continue to hone my skills._”  
+_“I enjoy being in String Ensemble as I have built great friendships with my CCA friends. We perform together for special events such as National Day and Teachers’ Day.&nbsp;  
+My friends and I find it challenging learning to play new songs. However, as we practise more, we eventually become better. I intend to be a dedicated member of the String Ensemble and continue to hone my skills.”_  
 
 **_Isabelle Lim Shi Jie (4A)_**
 

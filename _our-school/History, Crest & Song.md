@@ -10,7 +10,8 @@ Yumin Primary School has her roots in two Chinese village schools, 'Yook Kiau' a
  
 Currently the school has an enrolment of 1283 pupils of different ethnic groups. The school offers Chinese and Malay languages as mother tongue languages for pupils.
 
-![](/images/schoolcrest.png)
+<img src="/images/schoolcrest.png" 
+     style="width:70%">
 
 The gear is an essential component in a machine. It keeps rotating until the product has been completed. Then it will turn again yet and yet again to manufacture new products.  Thus, the gear with an open book illustrates the endless search for knowledge with perseverance and determination.  
 

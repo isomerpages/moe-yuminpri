@@ -15,8 +15,13 @@ sections:
         - title: Announcements
           description: ""
           url: /announcement
-  - resources:
-      title: Our Yumin Champs Enriching Experiences
+  - infopic:
+      title: "Malay "
       subtitle: Highlights
-      button: More
+      description: The Malay Department has put together a physical herb garden
+        alongside an official school website. It was officially launched by the
+        School Leaders.
+      button: more
+      url: /our-experience/curriculum/malay
+      image: /images/Picture3.jpg
 ---

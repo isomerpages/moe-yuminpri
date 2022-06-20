@@ -23,7 +23,7 @@ Coach
 ![](/images/Volleyball2020e.jpeg)
 ![](/images/Volleyball2020f.jpeg)
 
-Student Testimonial
+**Student Testimonial**
 
   
 
@@ -31,6 +31,6 @@ In Primary 3, when I first started playing volleyball, I begin my journey in acq
 
   
 
-Name of student:&nbsp; Gabriel Chia (Captain of 2016) currently in Victoria School
+Name of student:&nbsp; **Gabriel Chia (Captain of 2016) currently in Victoria School**
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJeLSNeG7FS8vm3hCyOvCUJbDOCKvei2taC2EjHTHhlxULq-dDEyBFofGOUQarjhUMgNAQb_OBPgHP/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

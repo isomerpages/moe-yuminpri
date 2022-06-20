@@ -24,13 +24,14 @@ sections:
       button: more
       url: /our-experience/curriculum/malay
       image: /images/Picture3.jpg
+      alt: malay department
   - infopic:
       title: Inno Challenge
       description: Inno Challenge 2022 has returned and this time, we are going digital!
       button: more
       url: /highlights/inno-challenge
       image: /images/cf61a7bce_4375.jpeg
-      alt: Image alt text
+      alt: inno challenge
   - infopic:
       title: Teaching Award
       description: "All students, their parents, and teachers are invited to send in
@@ -39,5 +40,5 @@ sections:
       button: more
       url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
       image: /images/66bdef52f_4250.jpg
-      alt: Image alt text
+      alt: teacher award
 ---

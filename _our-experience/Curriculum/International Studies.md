@@ -4,8 +4,6 @@ permalink: /our-experience/curriculum/International-Studies
 description: ""
 third_nav_title: Curriculum
 ---
-
-
 **International Studies**
 
 Tagline: Compassionate Champions, Rooted Singaporeans, Citizens of the world
@@ -30,4 +28,4 @@ China
 
 
 <img src="/images/img_1.jpg" 
-     style="width:50%">
+     style="width:30%">

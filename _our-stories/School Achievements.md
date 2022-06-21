@@ -10,13 +10,15 @@ School Green Award: Vanda Miss Joaquim Sustained Achievement Award 2021 Yumin Pr
 
 ![](/images/achieve2.png)
 
+	
 <img src="/images/Best%20Practice%20Award.jpeg" 
-     style="width:20%;float:left">
+     style="width:10%;float:left">
 		 <img src="/images/national_arts_edu2013.jpg" 
-     style="width:20%;float:left">
+     style="width:10%;float:left">
 		 <img src="/images/people_developer.jpg" 
-     style="width:20%;float:left">
+     style="width:10%;float:left">
 		 <img src="/images/sustained_achievement_award.jpg" 
-     style="width:20%;float:left">
+     style="width:10%;float:left">
 		 <img src="/images/character_development.jpg" 
-     style="width:20%;float:left">
+     style="width:10%;float:left">
+	

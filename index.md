@@ -17,7 +17,6 @@ sections:
           url: /announcement
   - infopic:
       title: "Malay "
-      subtitle: Highlights
       description: The Malay Department has put together a physical herb garden
         alongside an official school website. It was officially launched by the
         School Leaders.

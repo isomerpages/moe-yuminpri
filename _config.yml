@@ -1,9 +1,9 @@
 title: Yumin Primary School
-url: ""
+url: https://www.open.gov.sg
 favicon: /images/schoolcrest.png
 colors:
-  primary-color: "#f7cc31"
-  secondary-color: "#54b2fb"
+  primary-color: "#f69f13"
+  secondary-color: "#035598"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -52,3 +52,8 @@ plugins:
 staging: https://moe-yuminpri-staging.netlify.app
 prod: https://moe-yuminpri-prod.netlify.app
 resources_name: malay-department
+shareicon: /images/isomer-logo.svg
+is_government: false
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""

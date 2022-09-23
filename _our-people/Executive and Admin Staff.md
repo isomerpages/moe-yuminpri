@@ -1,6 +1,6 @@
 ---
 title: Executive and Admin Staff
-permalink: /our-people/Executive-and-Admin-Staff
+permalink: /our-people/Executive-and-Admin-Staff/
 description: ""
 ---
 | Designation | Name | 
@@ -14,4 +14,4 @@ description: ""
 | Admin Executive | Mr Muhammad Fikri Bin Sharif
 | ICT Associate | Mdm Iryani Binte Mohd Nasril
 | Desktop Engineer | Mr Muhammad Izwan Bin Abdul Rahim <br> Mr Tabalada Justin Jan Bulseco 
-| Librarian | Ms Ainna Binte Abdul Rani
+| Librarian | Ms Noorazlina

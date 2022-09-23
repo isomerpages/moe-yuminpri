@@ -1,10 +1,8 @@
 ---
 title: Key Personnel
-permalink: /our-people/Key-Personnel
+permalink: /our-people/Key-Personnel/
 description: ""
 ---
-
-
 | Designation  | Name| 
 | -------- | -------- | 
 |  Principal  |    Mdm Chilukuri Dimps Rao  | 
@@ -21,7 +19,7 @@ description: ""
 | SH (Malay) | Miss Azriena Bte Asari
 | SH (Special Project) | Miss Gina Luo
 |SH (ICT) | Mr Lester Ting Huong San
-| SH (Maths) | Ms Wang Xiu Jun
+| SH (Maths) | Ms Wang Xiu Jun| SH (Science) | Mrs Chan Hui Fen
 | Year-Head (Upper Primary)| Miss Julee Binte Noordin
 | Year-Head (Middle Primary) | Miss Nurkhalisah Kassim
 | Year-Head (Lower Primary) | Miss Serene Khoo 
@@ -29,5 +27,3 @@ description: ""
 | Senior Teacher (Maths) | Ms Ada Tan Hooi Ying
 | Senior Teacher (Science) | Mdm Ro'aiza Bte Zainuri
 | Senior Teacher (Chinese) | Ms Tan Pek Sun <br> Mdm Gu Haiying
-
-

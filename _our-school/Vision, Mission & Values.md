@@ -7,8 +7,8 @@ description: ""
 A Champion in Every Child
 <br><br>
 <u><b>MISSION</b></u><br>
-To Build Character
-To Challenge Minds
+To Build Character<br>
+To Challenge Minds<br>
 To Enrich Lives<br><br>
 <u><b>VALUES</b></u><br>
 **R**espect<br>
@@ -16,5 +16,3 @@ To Enrich Lives<br><br>
 **I**ntegrity <br>
 **P**erserverance<br>
 **L**ead Self
-
-

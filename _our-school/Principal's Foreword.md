@@ -1,6 +1,6 @@
 ---
 title: Principal's Foreword
-permalink: /our-school/Principals-Foreword
+permalink: /our-school/Principals-Foreword/
 description: ""
 ---
 Dear Parents    

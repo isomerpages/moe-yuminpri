@@ -25,11 +25,4 @@ sections:
       url: /our-experience/curriculum/malay
       image: /images/Picture3.jpg
       alt: malay department
-  - infopic:
-      title: Inno Challenge
-      description: Inno Challenge 2022 has returned and this time, we are going digital!
-      button: more
-      url: /highlights/inno-challenge
-      image: /images/cf61a7bce_4375.jpeg
-      alt: inno challenge
 ---

@@ -1,22 +1,20 @@
 ---
 title: Vision, Mission & Values
-permalink: /our-school/Vision-Mission-Values
+permalink: /our-school/Vision-Mission-Values/
 description: ""
 ---
-![](/images/Food%20heartland%2061.jpg)
+<u><b>VISION</b></u><br>
+A Champion in Every Child
+<br><br>
+<u><b>MISSION</b></u><br>
+To Build Character
+To Challenge Minds
+To Enrich Lives<br><br>
+<u><b>VALUES</b></u><br>
+**R**espect<br>
+**C**ompassion<br>
+**I**ntegrity <br>
+**P**erserverance<br>
+**L**ead Self
 
-<img src="/images/vision2.jpg" 
-     style="width:90%;float:left">
-		 <img src="/images/vision_img.jpg" 
-     style="width:85%;float:left">
 
-
-<img src="/images/mission2.jpg" 
-     style="width:90%;float:left">
-<img src="/images/mission_img.jpg" 
-     style="width:55%;float:left">
-		 
-<img src="/images/values2.jpg" 
-     style="width:90%;float:left">
-<img src="/images/values_img.jpg" 
-     style="width:35%;float:left">

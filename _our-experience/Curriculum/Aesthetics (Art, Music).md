@@ -1,31 +1,12 @@
 ---
 title: Aesthetics (Art, Music)
-permalink: /our-experience/curriculum/Aesthetics-Art-Music
+permalink: /our-experience/curriculum/Aesthetics-Art-Music/
 description: ""
 third_nav_title: Curriculum
 ---
+##### **Key Programmes**
 
-
-![](/images/departmentmembers_aesthetics.jpg)
-
-**Subject Head (Aesthetics Department)**
-
-Mrs Tay Yin Lin
-
- 
-**Committee Members:**
-
-1) Ms Sheila Lim (Art Coordinator)
-
-2) Ms Nurul Ain
-
-3) Ms Rachel Hoe
-
-4) Ms Clarice Luo Wenqi
-
-![](/images/keyprogrammes_aesthetics.jpg)
-
-<center> Music Curriculum </center>
+Music Curriculum
 
 The school believes that every child is a Champion in his way. There is arts talent in every pupil waiting to be discovered. We aim to build the character of our pupils, challenge their minds and enrich their lives by engaging them through the arts. With the arts engagement and enrichment, we are confident that our pupils will realise their talents and excel in the arts forms of their choice and interest. Through Yumin 6-year developmental arts education, our pupils will apply the arts skills learnt and contribute back to the community, hence bringing joy and meaning to the lives of others 
 

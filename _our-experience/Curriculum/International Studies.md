@@ -1,6 +1,6 @@
 ---
 title: International Studies
-permalink: /our-experience/curriculum/International-Studies
+permalink: /our-experience/curriculum/International-Studies/
 description: ""
 third_nav_title: Curriculum
 ---

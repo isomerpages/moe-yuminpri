@@ -19,7 +19,7 @@ Through Yumin 6-year developmental arts education and by focusing on not only th
 
 Tapping on experiential learning and inquiry-based learning, pupils are provided with opportunities to be engaged in the breadth of experiences through wide range and variety of arts programmes, be enriched with (development and progression to deepen students' development of knowledge and skills) and excel in the Arts.
 
-Our key Arts programmers include
+Our key Arts programmers include:
 1. Arts Assembly Programmes
 2. Yumin Art and Music Festival (Flourishing Artists and Flourishing Performers)
 3. Enrichment Programmes to learn from Arts Specialists

@@ -1,14 +1,13 @@
 ---
 title: String Ensemble
-permalink: /our-experience/Co-Curriculum-Activities/string-ensemble
+permalink: /our-experience/Co-Curriculum-Activities/string-ensemble/
 description: ""
 third_nav_title: Co Curriculum Activities
 ---
 ![](/images/ourteam_strings.png)
 **Teachers-In-Charge**  
   
-Ms Rachel Hoe\*  
-Miss Clarice Luo  
+Ms Rachel Hoe\*    
 Mdm Gu Haiying  
 Ms Lye Le Leng Patricia  
 Mrs Tay Yin Lin  

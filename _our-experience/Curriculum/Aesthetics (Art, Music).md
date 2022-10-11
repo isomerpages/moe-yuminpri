@@ -25,9 +25,3 @@ Our key Arts programmers include
 3. Enrichment Programmes to learn from Arts Specialists
 4. Museum-based Learning
 5. Talent Development through CCAs (SYF Arts Presentations and Art Exhibition)
-
-  
-
-
-  
-

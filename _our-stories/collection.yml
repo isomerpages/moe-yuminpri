@@ -1,0 +1,10 @@
+collections:
+  our-stories:
+    output: true
+    order:
+      - Yumin in the News.md
+      - School Achievements.md
+      - Staff Achievements.md
+      - Student Achievements.md
+      - Covid19 Appreciation Messages.md
+      - Yumin's 45th Anniversary e Exhibition.md

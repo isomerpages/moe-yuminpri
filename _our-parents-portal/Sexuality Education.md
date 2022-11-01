@@ -64,7 +64,7 @@ Parents may opt their children out of the Growing Years programme, and/or supple
 
   
 
-Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Parent%20Opt.pdf). The completed opt-out form is to be submitted by ***04/11/2022***.
+Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/opt%20out%20form.pdf). The completed opt-out form is to be submitted by ***04/11/2022***.
 
   
 

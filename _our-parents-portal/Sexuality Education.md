@@ -54,7 +54,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 7.    The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.
 
   
-Please click [here](https://yuminpri.moe.edu.sg/qql/slot/u203/docs/Sexuality%20Education.pdf) to view the lesson plan for Primary 5 & 6.  
+Please click [here](/files/Sexuality%20Education%202022.pdf) to view the lesson plan for Primary 5 & 6.  
   
   
 **Information for Parents:**  

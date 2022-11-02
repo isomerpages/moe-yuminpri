@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /our-parents-portal/Sexuality-Education
+permalink: /our-parents-portal/Sexuality-Education/
 description: ""
 ---
 **Moe Sexuality Education in Schools**   
@@ -25,13 +25,13 @@ description: ""
 
 (iv)    Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.  
 
-You may click [here]() for more information on MOE Sexuality Education. 
+You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education. 
 
   
 
 **Overview of YUMIN PRIMARY SCHOOL’S Sexuality Education Programme for 2022**  
 
-4.    Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](/files/Sexuality%20Education.pdf) for more information on the scope of Sexuality Education in the school curriculum.
+4.    Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
 
   
 
@@ -54,7 +54,7 @@ You may click [here]() for more information on MOE Sexuality Education. 
 7.    The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.
 
   
-Please click [here](https://yuminpri.moe.edu.sg/qql/slot/u203/docs/Sexuality%20Education.pdf) to view the lesson plan for Primary 5 & 6.  
+Please click [here](/files/Sexuality%20Education%202022.pdf) to view the lesson plan for Primary 5 & 6.  
   
   
 **Information for Parents:**  
@@ -64,7 +64,7 @@ Parents may opt their children out of the Growing Years programme, and/or supple
 
   
 
-Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Parent%20Opt.pdf).
+Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/opt%20out%20form.pdf). The completed opt-out form is to be submitted by ***04/11/2022***.
 
   
 

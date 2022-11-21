@@ -1,6 +1,6 @@
 ---
 title: Information Sheet for Parents & Guardians
-permalink: /Information-Sheet
+permalink: /Information-Sheet/
 description: ""
 ---
 Please find below the various health risk categories and follow-up actions to be taken.

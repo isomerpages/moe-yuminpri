@@ -1,6 +1,6 @@
 ---
 title: Social Studies
-permalink: /our-experience/curriculum/social-studies
+permalink: /our-experience/curriculum/social-studies/
 description: ""
 third_nav_title: Curriculum
 ---

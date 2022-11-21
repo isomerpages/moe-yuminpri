@@ -1,6 +1,6 @@
 ---
 title: School Achievements
-permalink: /our-stories/School-Achievements
+permalink: /our-stories/School-Achievements/
 description: ""
 ---
 <img src="/images/achieve1.png" 

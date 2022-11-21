@@ -1,6 +1,6 @@
 ---
 title: Staff Achievements
-permalink: /our-stories/Staff-Achievements
+permalink: /our-stories/Staff-Achievements/
 description: ""
 ---
 2021

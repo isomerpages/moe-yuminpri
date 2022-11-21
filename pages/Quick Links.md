@@ -1,6 +1,6 @@
 ---
 title: Quick Links
-permalink: /quick-links
+permalink: /quick-links/
 description: ""
 ---
 **For Pupils**

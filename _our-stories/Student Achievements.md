@@ -1,6 +1,6 @@
 ---
 title: Student Achievements
-permalink: /our-stories/Student-Achievements
+permalink: /our-stories/Student-Achievements/
 description: ""
 ---
 2022

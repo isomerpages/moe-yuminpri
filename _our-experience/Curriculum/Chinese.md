@@ -1,6 +1,6 @@
 ---
 title: Chinese
-permalink: /our-experience/curriculum/Chinese
+permalink: /our-experience/curriculum/Chinese/
 description: ""
 third_nav_title: Curriculum
 ---

@@ -1,6 +1,6 @@
 ---
 title: Infocomm Technology (ICT)
-permalink: /our-experience/curriculum/Infocomm-Technology-ICT
+permalink: /our-experience/curriculum/Infocomm-Technology-ICT/
 description: ""
 third_nav_title: Curriculum
 ---

@@ -1,6 +1,6 @@
 ---
 title: RHD Gallery
-permalink: /rhd-gallery
+permalink: /rhd-gallery/
 description: ""
 ---
 ![](/images/IMG-20200730-WA0034.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Eco Stewardship
-permalink: /our-experience/curriculum/Eco-Stewardship
+permalink: /our-experience/curriculum/Eco-Stewardship/
 description: ""
 third_nav_title: Curriculum
 ---

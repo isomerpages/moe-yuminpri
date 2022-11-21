@@ -1,6 +1,6 @@
 ---
 title: TDD Gallery
-permalink: /tdd-gallery
+permalink: /tdd-gallery/
 description: ""
 ---
 ![](/images/IMG-20200213-WA0036.jpg)

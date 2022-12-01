@@ -1,6 +1,6 @@
 ---
 title: Yumin in the News
-permalink: /our-stories/Yumin-in-the-News
+permalink: /our-stories/Yumin-in-the-News/
 description: ""
 ---
 **CHRISTIANO RONALDO VISITS YUMIN PRIMARY SCHOOL - 4 JULY 2019**

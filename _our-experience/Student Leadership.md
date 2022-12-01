@@ -1,6 +1,6 @@
 ---
 title: Student Leadership
-permalink: /our-experience/student-leadership
+permalink: /our-experience/student-leadership/
 description: ""
 ---
 <img src="/images/goals.jpg" 

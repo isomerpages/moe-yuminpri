@@ -1,6 +1,6 @@
 ---
 title: Positive Education@YUMIN
-permalink: /our-experience/curriculum/Positive-Education-YUMIN
+permalink: /our-experience/curriculum/Positive-Education-YUMIN/
 description: ""
 third_nav_title: Curriculum
 ---

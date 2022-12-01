@@ -1,6 +1,6 @@
 ---
 title: Health Promotion Board
-permalink: /Health-Promotion-Board
+permalink: /Health-Promotion-Board/
 description: ""
 ---
 Health Promotion Board (HPB) would like to share the updated resources for your parents to bridge Home-School Partnership, for a healthier lifestyle for your school’s children and parents.  

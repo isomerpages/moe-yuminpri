@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /our-experience/curriculum/Physical-Education
+permalink: /our-experience/curriculum/Physical-Education/
 description: ""
 third_nav_title: Curriculum
 ---

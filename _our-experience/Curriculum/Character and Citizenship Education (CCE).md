@@ -1,6 +1,6 @@
 ---
 title: Character and Citizenship Education (CCE)
-permalink: /our-experience/curriculum/Character-and-Citizenship-Education-CCE
+permalink: /our-experience/curriculum/Character-and-Citizenship-Education-CCE/
 description: ""
 third_nav_title: Curriculum
 ---

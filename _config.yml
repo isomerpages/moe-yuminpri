@@ -52,8 +52,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-yuminpri-staging.netlify.app
-prod: https://moe-yuminpri-prod.netlify.app
+staging: https://staging.dt2sloj8azej.amplifyapp.com
+prod: https://master.dt2sloj8azej.amplifyapp.com
 resources_name: malay-department
 shareicon: /images/isomer-logo.svg
 is_government: false

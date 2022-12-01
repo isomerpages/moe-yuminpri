@@ -1,6 +1,6 @@
 ---
 title: Malay
-permalink: /our-experience/curriculum/malay
+permalink: /our-experience/curriculum/malay/
 description: ""
 third_nav_title: Curriculum
 ---

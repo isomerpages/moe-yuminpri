@@ -9,19 +9,14 @@ third_nav_title: Curriculum
 
 Empowering & developing students to be confident, empathetic and effective communicators.
 
-**Framework & pedagogical approaches**
-
-
-  
+**FRAMEWORK & PEDAGOGICAL APPROACHES** 
 
 **Strategies for English Language Learning and Reading (STELLAR)**
-
 In Yumin, we adopt the recommended STELLAR programme which helps to strengthen students’ language skills. Some of the strategies used in the lower primary classrooms include Shared Book Approach (SBA) and Modified Language Experience Approach (MLEA). As students progress up the levels, teachers reinforce the learning of language skills through Supported Reading (SR) and Know-Want to know-Learnt (KWL).
 
   
 
-**MOE Programmes**
-
+**MOE Programmes**<br>
 These programmes aim to support students in their learning of literacy skills.
 
 

@@ -67,7 +67,14 @@ In 2022, the English Department introduced and celebrated the two genres - Fable
 Not only that, Yumin Champions applied what they had learned about the genres by trying their hand at creating their very own fables and pourquoi tales in the form of stories or comic strips. The response was overwhelming and many of our students proved that they were budding illustrators and writers!
 ![](/images/Eng13.jpg)
 ![](/images/Eng14.jpg)
-  
+
+**Speaking Programme**
+
+**One Minute of Fame**<br>
+One Minute of Fame is a platform in which students develop their confidence in public speaking. It takes place during recess on the last week of every month. Students select their own choice of topics or one on the list provided by their teachers. Through this initiative, students learn and practise what it takes to become effective public speakers whilst sharing their thoughts and ideas enthusiastically.
+![](/images/Eng15.jpg)
+![](/images/Eng16.png)
+![](/images/Eng17.png)
 
 **Speech & Drama**
 

@@ -50,19 +50,16 @@ Students from all levels go on exciting learning journeys which support and enri
 
 Reading Bingo<br>
 Reading Bingo is a reading incentive programme designed to motivate and reward students for reading a variety of books. It also allows students to explore books from the school, home and public libraries. Students choose tasks from the choice board to complete and with every five tasks completed, they form one bingo! They will then be awarded a reading badge or stationery pack.
+![](/images/Eng9.png)
+![](/images/Eng10.jpg)
 
 
-
-
-Learning Values through Books & Celebrating Genres
-
-  
-
+Learning Values through Books & Celebrating Genres<br>
 Books are powerful – not only do they allow readers to pick up language skills, they also teach and enable readers to gain insights on values through the characters and circumstances in the story.
 
   
 
-In 2021, the English Department introduced and celebrated the genre of ‘Fantasy’. Not only were students recommended to a variety of books to enable them to appreciate this genre, but the department also showcased texts related to this genre that highlighted the school values of Perseverance and Integrity. This was a great opportunity for students to identify, explore and internalise the school values while learning about the features of the Fantasy genre.
+In 2022, the English Department introduced and celebrated the two genres - Fables and Pourquoi. Not only were students recommended to a variety of books to enable them to appreciate these genres, but the department also showcased texts related to this genre that highlighted the school values. This was a great opportunity for students to identify, explore and internalise the school values while learning about the features of the Fantasy genre.
 
   
 

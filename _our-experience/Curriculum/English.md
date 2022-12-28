@@ -41,6 +41,8 @@ Every year, students and staff look forward to a particular day where they bring
 
 **Intergrated Outdoor Learning Experiences (iOLE)**<br>
 Students from all levels go on exciting learning journeys which support and enrich the learning of various STELLAR units. For instance, students visit zones within the Singapore Zoo for exciting and experiential learning. From these experiences, students are able to apply their knowledge in creating posters about endangered animals and journal writing - just to name a few!
+
+
 **Reading Programme**<br>
 Learning Values through Books & Celebrating Genres
 

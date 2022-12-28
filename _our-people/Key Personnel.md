@@ -5,7 +5,7 @@ description: ""
 ---
 | Designation  | Name| 
 | -------- | -------- | 
-|  Principal  |    Mdm Chilukuri Dimps Rao  | 
+|  Principal  |    Mrs Ng Teo Sock Hua  | 
 | Vice-Principal | Mr Abdul Mutalib B Mohammed Amin <br> Mrs Sharon Clarissa Foo
 | School Staff Developer | Mdm Norjana Bte Hussin
 | HOD (Science) | Ms Seah Wan Peen

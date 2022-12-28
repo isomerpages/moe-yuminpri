@@ -76,11 +76,14 @@ One Minute of Fame is a platform in which students develop their confidence in p
 ![](/images/Eng16.png)
 ![](/images/Eng17.png)
 
+
 **Speech & Drama**
 
-Our in-house Speech and Drama Programme (P1 & P2) provides students with an opportunity to learn techniques necessary for effective communication while having fun!
-
-![](/images/speechdrama1.jpg)
+Our in-house Speech and Drama Programme (Primary 2) provides students with an opportunity to learn techniques necessary for effective communication while having fun! Integrated into the English Language curriculum, a showcase which is a culmination of a 12-week programme is presented to a live audience. Students also take this chance to showcase their exuberance and talents.
+![](/images/Eng16.jpg)
+![](/images/Eng17.jpg)
+![](/images/Eng18.jpg)
+![](/images/Eng19.jpg)
 
 **External Competition**
 

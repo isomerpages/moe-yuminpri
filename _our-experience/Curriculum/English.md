@@ -60,11 +60,13 @@ Books are powerful – not only do they allow readers to pick up language skills
   
 
 In 2022, the English Department introduced and celebrated the two genres - Fables and Pourquoi. Not only were students recommended to a variety of books to enable them to appreciate these genres, but the department also showcased texts related to this genre that highlighted the school values. This was a great opportunity for students to identify, explore and internalise the school values while learning about the features of the Fantasy genre.
-
+![](/images/Eng11.jpg)
+![](/images/Eng12.jpg)
   
 
-Not only that, Yumin Champions applied what they had learned about fairy tales in the previous term, and tried their hand at creating their very own fractured fairy tales in the form of stories or comic strips. The response was overwhelming and many of our students proved that they were budding illustrators and writers!
-
+Not only that, Yumin Champions applied what they had learned about the genres by trying their hand at creating their very own fables and pourquoi tales in the form of stories or comic strips. The response was overwhelming and many of our students proved that they were budding illustrators and writers!
+![](/images/Eng13.jpg)
+![](/images/Eng14.jpg)
   
 
 **Speech & Drama**

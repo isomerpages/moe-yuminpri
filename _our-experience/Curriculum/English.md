@@ -102,6 +102,10 @@ The Moo-O Plus competition is an annual event that aims to cultivate in students
 ![](/images/Eng27.png)
 ![](/images/Eng28.jpg)
 
+
+**PESA**<br>
+The YMCA Plain English Speaking Awards (PESA) is a national competition organised by YMCA of Singapore, in partnership with the Ministry of Education and the Speak Good English Movement. An annual competition, PESA promotes public speaking in Plain English and provides a platform for students to hone their oratorical skills and cultivate confidence in public speaking.
+
 Suggested Link:  
 You may access [National Library Board (NLB) website](http://www.nlb.gov.sg/) for its NLB catalogue and a list of eResources for primary school students. Enjoy!  
   

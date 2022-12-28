@@ -95,13 +95,12 @@ This competition, which is conducted by the Anglo-Chinese Junior College (ACJC) 
 
 
 
-Moo-O Plus
-
-  
-
+**Moo-O Plus**<br>
 The Moo-O Plus competition is an annual event that aims to cultivate in students, the love for the English Language, and motivate them to read and speak fluently and expressively in English through fun and engaging activities.
-
-![](/images/mooo1.jpg)
+![](/images/Eng25.png)
+![](/images/Eng26.png)
+![](/images/Eng27.png)
+![](/images/Eng28.jpg)
 
 Suggested Link:  
 You may access [National Library Board (NLB) website](http://www.nlb.gov.sg/) for its NLB catalogue and a list of eResources for primary school students. Enjoy!  

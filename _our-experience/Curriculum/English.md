@@ -27,9 +27,6 @@ These programmes aim to support students in their learning of literacy skills.
 
 **KEY PROGRAMMES & LEARNING EXPERIENCES**
 
-Here's a snapshot of how our EL Lessons are like:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7iNPLnA-K0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 **Book Character's Day**<BR>
 Every year, students and staff look forward to a particular day where they bring characters from their favourite books to life, dressing up and sharing about these characters with each other. These certainly add even more colour and vibrancy to the typical school day. We were even featured on MOE Facebook!
 

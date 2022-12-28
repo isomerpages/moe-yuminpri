@@ -25,11 +25,12 @@ These programmes aim to support students in their learning of literacy skills.
 | -------- | -------- | -------- |
 | LSP is a specialised early intervention programme that provides additional support for students with weaker literacy skills.     | RRP aims to provide support for Pri 3 and Pri4 students who may struggle in reading with understanding.     | Students are identified for support through a systematic screening process for dyslexia conducted at the end of Pri 2.     |
 
-**Key Programmes & Learning Experiences**
-  
+**KEY PROGRAMMES & LEARNING EXPERIENCES**
 
-**Book Character's Day**
+Here's a snapshot of how our EL Lessons are like:
 
+
+**Book Character's Day**<BR>
 Safe management measures due to the COVID-19 pandemic may have impacted school processes but at Yumin Primary, teachers and students have learned to take the new norm in their stride, adapt, and make the most out of each day. For the school’s 2020 & 2021 Book Character Day, staff and students brought characters from their favourite books to life, dressing up and sharing about these characters with each other. The extra-fun part? They got to meet these characters while performing everyday tasks such as temperature taking, eating during recess, and walking along the corridors! We were even featured on MOE Facebook!
 
 ![](/images/bookchar1.jpg)

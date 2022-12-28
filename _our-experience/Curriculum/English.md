@@ -31,10 +31,9 @@ Here's a snapshot of how our EL Lessons are like:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7iNPLnA-K0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Book Character's Day**<BR>
-Safe management measures due to the COVID-19 pandemic may have impacted school processes but at Yumin Primary, teachers and students have learned to take the new norm in their stride, adapt, and make the most out of each day. For the school’s 2020 & 2021 Book Character Day, staff and students brought characters from their favourite books to life, dressing up and sharing about these characters with each other. The extra-fun part? They got to meet these characters while performing everyday tasks such as temperature taking, eating during recess, and walking along the corridors! We were even featured on MOE Facebook!
+Every year, students and staff look forward to a particular day where they bring characters from their favourite books to life, dressing up and sharing about these characters with each other. These certainly add even more colour and vibrancy to the typical school day. We were even featured on MOE Facebook!
 
-![](/images/bookchar1.jpg)
-![](/images/bookchar2.jpg)
+
 
 **Reading Programme**
 

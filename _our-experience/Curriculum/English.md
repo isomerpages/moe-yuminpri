@@ -87,6 +87,14 @@ Our in-house Speech and Drama Programme (Primary 2) provides students with an op
 
 **External Competition**
 
+**Mythos (Junior Orators) Storytelling Competition**<br>
+This competition, which is conducted by the Anglo-Chinese Junior College (ACJC) Debate and Oratorical Society, is conducted annually. It allows students the opportunity to hone their speaking skills, and participants have gone on to become passionate and articulate speakers. Participants submit videos of themselves storytelling, and some of our Yumin Champions have emerged in the Top 5 positions!
+![](/images/Eng22.png)
+![](/images/Eng23.png)
+![](/images/Eng24.png)
+
+
+
 Moo-O Plus
 
   

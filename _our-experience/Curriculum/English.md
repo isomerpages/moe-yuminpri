@@ -41,9 +41,19 @@ Every year, students and staff look forward to a particular day where they bring
 
 **Intergrated Outdoor Learning Experiences (iOLE)**<br>
 Students from all levels go on exciting learning journeys which support and enrich the learning of various STELLAR units. For instance, students visit zones within the Singapore Zoo for exciting and experiential learning. From these experiences, students are able to apply their knowledge in creating posters about endangered animals and journal writing - just to name a few!
-
+![](/images/Eng5.jpg)
+![](/images/Eng6.jpg)
+![](/images/Eng7.jpg)
+![](/images/Eng8.jpg)
 
 **Reading Programme**<br>
+
+Reading Bingo<br>
+Reading Bingo is a reading incentive programme designed to motivate and reward students for reading a variety of books. It also allows students to explore books from the school, home and public libraries. Students choose tasks from the choice board to complete and with every five tasks completed, they form one bingo! They will then be awarded a reading badge or stationery pack.
+
+
+
+
 Learning Values through Books & Celebrating Genres
 
   

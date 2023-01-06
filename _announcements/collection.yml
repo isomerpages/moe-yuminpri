@@ -1,5 +1,4 @@
 collections:
   announcements:
     output: true
-    order:
-      - Words of Gratitude for Yumin Staff.md
+    order: []

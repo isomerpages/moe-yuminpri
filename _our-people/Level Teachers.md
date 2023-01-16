@@ -7,12 +7,13 @@ description: ""
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| 1 Respect     | Mrs Mak Zihui/Mdm Aniza   |
-| 1 Compassion | Ms Serene Khoo/Ms Ng Su Chi/Mdm Illia
-| 1 Integrity | Mrs Lee Sock Hui/Mdm Raudhah
-| 1 Perseverance |Mrs Cheryl Phua/Mrs Rachel Lee/Mdm Liu Shuang
-|1 Diligence | Ms Sharon Sin/Ms Sheila Lim
-| 1 Harmony | Ms Khairiani/Ms Teo Ling Ping
+| 1 Respect     | Ms Nur Amira/Mdm Gu Hai Ying   |
+| 1 Compassion | Mdm Aszrina/Ms Siti Nurulhuda/Mdm Luman
+| 1 Integrity | Mdm Aniza/Ms Patricia Lye
+| 1 Perseverance |Miss Chan Ru Ai/Miss Rachel Hoe
+|1 Diligence | Miss Michelle Chen/Ms Kasmini
+| 1 Harmony | Mdm Norjana/Mdm Syedama/Mr Ng Jia Shin
+| 1 Empathy | Miss Sharon Sin/Mrs Hairina Singh
 
 
 
@@ -20,12 +21,12 @@ description: ""
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| 2 Respect | Ms Nur Amira/Ms Heng Shi Min/Ms Esther Koh Cui Ting
-| 2 Compassion | Ms Michelle Chen/Miss Foo Xue Yi 
-| 2 Integrity | Ms Leow Si Hoon/Miss Chan Ru Ai
-| 2 Perseverance | Mdm Erawati Luman Yixuan/Mdm Aszrina/Ms Lau Wan Ting
-| 2 Diligence | Ms Rachel Hoe/Ms Sunarti/Miss Noor Hidayah
-| 2 Harmony | Mdm Norjana/Mdm Cheong Oi Koan
+| 2 Respect | Mrs Mak(Dong Zihui)/Ms Lydia Lee/Ms Serene Khoo
+| 2 Compassion | Miss Ng Su Chi/Mdm Cheong Oi Koan/Mdm Illia Sulastri
+| 2 Integrity | Mrs Lee(Cheng Sock Hui)/Miss Tan Pek Sun
+| 2 Perseverance | Mrs Rachel Ho/Mdm Liu Shuang
+| 2 Diligence | Ms Esther Koh/Ms Sheila Lim
+| 2 Harmony | Mdm Teo Ling Ping/Ms Nurkhalisah
 
 **Primary 3**
 

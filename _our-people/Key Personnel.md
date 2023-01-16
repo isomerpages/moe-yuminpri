@@ -18,12 +18,11 @@ description: ""
 | SH (Aesthetics) | Mrs Tay - Low Yin Lin
 | SH (Malay) | Miss Azriena Bte Asari
 | SH (Special Project) | Miss Gina Luo
-|SH (ICT) | Mr Lester Ting Huong San
-| SH (Maths) | Ms Wang Xiu Jun 
+| SH (EdTech) | Ms Jean Wang Xiu Jun 
 | SH (Science) | Mrs Chan Hui Fen
 | Year-Head (Upper Primary)| Miss Julee Binte Noordin
 | Assistant Year-Head (Upper Primary)| Mr Noor Aidil B Abdul Rahman
-| Year-Head (Middle Primary) | Miss Nurkhalisah Kassim
+| Year-Head (Middle Primary & Lower Primary) | Miss Nurkhalisah Kassim
 | Year-Head (Lower Primary) | Miss Serene Khoo 
 | Senior Teacher (English) | Mrs Diana Lim <br> Mdm Hirwati Bte Haris
 | Senior Teacher (Maths) | Ms Ada Tan Hooi Ying

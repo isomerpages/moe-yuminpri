@@ -43,36 +43,39 @@ These questions guide the facilitation process by scaffolding students’ thinki
 
 **Figure 1:  Suggested Questions Based on CSI Process of Questioning**
 
+![](/images/Picture4.png)
 
+**Core Skills in CCE**
 
+The effective use of the CSI questioning technique and the application of the different process-based approaches help students in their development of the four core CCE skills.  They are:
 
+1.    Moral Reasoning<br>
+2.    Perspective Taking<br>
+3.    Reflection<br>
+4.    Responsible Decision-Making<br>
 
+*Moral Reasoning*
 
+The skill of Moral Reasoning enables students to examine their motives behind decisions, and thus progress from a self-centred perspective to a higher stage of moral development that focuses on societal and universal perspectives.  Students examine their motives behind a decision and consider the common good when deciding what the right thing to do is.
+
+*Perspective Taking*
+
+The skill of Perspective Taking involves adopting the viewpoint of another person, and requires one to see a situation in different ways.  It forms the basis for understanding people’s behavior (Johnson, 1975).  The ability to take perspectives enables our students to develop empathy and help them form positive relationships.  It also encourages them to be proactive in helping others.
+
+*Reflection*
+
+The skill of Reflection involves being  able to look back at a situation or experience, ponder over it, learn from it, and apply this learning in future relevant situations.  Through Reflection, students connect their learning to their life experiences.
+
+*Responsible Decision-Making*
+
+The skill of Responsible Decision-Making involves making well-considered decisions based on a sound value system that includes values upheld by society.  In making responsible decisions, our students will be able to consider the consequences of their decisions and choose options that will have a positive impact on others.
+ 
+**Components in CCE Yumin**
+
+*Flourish Lessons*
+![](/images/Picture5.png)
+
+*Level VIA Activities*
+![](/images/picture6.png)
   
-
-**Level VIA Activities**
-![](/images/CCE4.png)
-
-**Photo Galleries**
-
-[P3 Project En-Reach](/p3-project-en-reach)<br>
-[P4 Project GrArtitude](/P4-Project-GrArtitude)
-
-**National Education**
-
-National Education (NE) is an important part of our holistic education. We aim to develop national cohesion, cultivate the instinct for survival as a nation and instil in our students, confidence in our nation's future. It also emphasises on cultivating a sense of belonging and emotional rootedness to Singapore. Moving forward, we can anchor NE not on the delivery of messages but on the design of experiences that strengthen our students’ and fellow educators’ citizenship dispositions, to inspire all of us to take collective ownership of our future as a nation.
-
-  
-
-1997: NE Messages
-![](/images/CCE5%20(1).png)
-
-2007: Head, Heart, Hands
-![](/images/CCE6%20(1).png)
-
-2017: Citizenship Dispositions
-![](/images/CCE7%20(1).png)
-
-
-
-![](/images/CCE12%20(1).png)
+[](/images/CCE12%20(1).png)

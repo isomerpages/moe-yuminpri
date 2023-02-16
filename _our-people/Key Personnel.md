@@ -21,9 +21,11 @@ description: ""
 | SH (EdTech) | Ms Jean Wang Xiu Jun 
 | SH (Science) | Mrs Chan Hui Fen
 | Year-Head (Upper Primary)| Miss Julee Binte Noordin
-| Assistant Year-Head (Upper Primary)| Mr Noor Aidil B Abdul Rahman
-| Year-Head (Middle Primary & Lower Primary) | Miss Nurkhalisah Kassim
-| Year-Head (Lower Primary) | Miss Serene Khoo 
+| Year-Head (Lower Primary) | Miss Nurkhalisah Kassim
+| Assistant Year-Head| Mr Noor Aidil B Abdul Rahman
+| Level Manager P1 | Ms Siti Nurul Huda
+| Level Manager P3 | Mr Tim Kiew / Mrs Nizam
+| Level Manager P5 | Ms Kang Pei Yun
 | Senior Teacher (English) | Mrs Diana Lim <br> Mdm Hirwati Bte Haris
 | Senior Teacher (Maths) | Ms Ada Tan Hooi Ying
 | Senior Teacher (Science) | Mdm Ro'aiza Bte Zainuri

@@ -44,9 +44,6 @@ These questions guide the facilitation process by scaffolding students’ thinki
 **Figure 1:  Suggested Questions Based on CSI Process of Questioning**
 
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
 
 
 

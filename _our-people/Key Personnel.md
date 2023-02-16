@@ -23,7 +23,7 @@ description: ""
 | Year-Head (Upper Primary)| Miss Julee Binte Noordin
 | Year-Head (Lower Primary) | Miss Nurkhalisah Kassim
 | Assistant Year-Head| Mr Noor Aidil B Abdul Rahman
-| Level Manager P1 | Ms Siti Nurul Huda
+| Level Manager P1 | Ms Siti Nurulhuda
 | Level Manager P3 | Mr Tim Kiew / Mrs Nizam
 | Level Manager P5 | Ms Kang Pei Yun
 | Senior Teacher (English) | Mrs Diana Lim <br> Mdm Hirwati Bte Haris

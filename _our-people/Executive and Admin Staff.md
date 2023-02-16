@@ -13,5 +13,5 @@ description: ""
 |Admin Assistant | Mdm Chris Yeow Poh Geok 
 | Admin Executive | Mr Muhammad Fikri Bin Sharif
 | ICT Associate | Mdm Iryani Binte Mohd Nasril
-| Desktop Engineer | Mr Muhammad Izwan Bin Abdul Rahim <br> Mr Tabalada Justin Jan Bulseco 
+| Desktop Engineer | Mr Muhammad Izwan Bin Rahim 
 | Librarian | Ms Noorazlina

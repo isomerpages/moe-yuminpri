@@ -4,8 +4,6 @@ permalink: /our-experience/curriculum/malay/
 description: ""
 third_nav_title: Curriculum
 ---
-
-
 **PELAJAR AKTIF, PENGGUNA CEKAP**
 
   
@@ -50,6 +48,33 @@ Hormat - Kasih Sayang - Integriti - Tabah
 The Malay Language Department includes the aspect of Joy of Learning into our curriculum. To better cater to all students, we inculcate their interest in learning the Malay language and culture through innovative ways of teaching. Aside from using Information and Communications Technology (ICT) tools, which are prevalent amongst the students in this 21st century, our department has customised and unique packages.
 
 **Key Programmes & Learning Experiences**
+
+
+**Intensive Reading Programme: Mari Membaca Magazine**
+
+Monthly subscription to Mari Membaca Magazine is part of our effort to expose our students beyond narrative writing. With a variety of reading content, colourful illustrations and an array of activities, students are always excited to flip through their copies.
+
+Our teachers create an extension to the reading material, curated to their own class needs and learning. Differentiated Instructions based on the same reading experience. Thus, providing equity to upscale students' general knowledge that is beyond textbook.
+![](/images/ML%2020231.jpg)
+
+
+**Extensive Reading Programme: Ceritera Arif Budiman Cilik**
+
+As part of our curated Extensive Reading Programme (ERP), we have decided to highlight our own talented writers on an [online platform](https://sites.google.com/moe.edu.sg/ceriteraarifbudimancilik/hak-milik-terpelihara?authuser=0). 
+The purpose is:
+
+1) To provide a relatable reading experience for our current students
+2) To motivate them to believe in their writing capability
+3) To give a sense of accomplishment and pride to have their work published
+
+The writers and materials published on the website are truly from our alumni. As there is no limit to the depth of compilation, our students can look forward to seeing their best written work published for online reading.
+
+The curated website is another of our effort to encourage ownership amongst our students. At the same time, doubling up as a unique T&L tool for our department teachers.
+
+Beyong ERP, there are many other ways that this website can be used to elevate learning amongst our students.
+
+Also, it ensures cyber safety for our students, providing them with a controlled online reading platform. Full authority is upon our department to curate the content and accessibility of the website.
+![](/images/ML%2020232.png)
 
 **Taman Herba Arif Budiman Cilik**
 

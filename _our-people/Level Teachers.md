@@ -9,7 +9,7 @@ description: ""
 | -------- | -------- |
 | 1 Respect     | Ms Nur Amira/Mdm Gu Hai Ying   |
 | 1 Compassion | Mdm Aszrina/Ms Siti Nurulhuda/Mdm Luman
-| 1 Integrity | Mdm Aniza/Ms Patricia Lye
+| 1 Integrity | Mrs Giri/Ms Patricia Lye
 | 1 Perseverance |Miss Chan Ru Ai/Miss Rachel Hoe
 |1 Diligence | Miss Michelle Chen/Ms Kasmini
 | 1 Harmony | Mdm Norjana/Mdm Syedama/Mr Ng Jia Shin

@@ -60,7 +60,8 @@ Our teachers create an extension to the reading material, curated to their own c
 
 **Extensive Reading Programme: Ceritera Arif Budiman Cilik**
 
-As part of our curated Extensive Reading Programme (ERP), we have decided to highlight our own talented writers on an online platform. The purpose is:
+As part of our curated Extensive Reading Programme (ERP), we have decided to highlight our own talented writers on an [online platform](https://sites.google.com/moe.edu.sg/ceriteraarifbudimancilik/hak-milik-terpelihara?authuser=0). 
+The purpose is:
 
 1) To provide a relatable reading experience for our current students
 2) To motivate them to believe in their writing capability

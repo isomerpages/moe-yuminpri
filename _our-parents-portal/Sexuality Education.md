@@ -7,7 +7,7 @@ description: ""
 
  1.    Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.   
 
- 2.    The goals of Sexuality Education are: 
+ 2.    The **Goals** of Sexuality Education are: 
 
 (i)    To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity; 
 
@@ -15,7 +15,7 @@ description: ""
 
 (iii)    To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.   
 
- 3.    The key messages of Sexuality Education are:  
+ 3.    The **Key Messages** of Sexuality Education are:  
 
 (i)    Love and respect yourself as you love and respect others;
  
@@ -37,39 +37,32 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 
  5.    The subjects that incorporate topics on sexuality include:
 
-         a.       Science
-
-         b.       Form Teacher Guidance Period (FTGP)
-
-         c.       Character and Citizenship Education (CCE)   
+         a.       Science<br>
+         b.       Character and Citizenship Education (CCE)   
 
   
 
-**Growing Years (GY) Programme:** “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package  
+**Sexuality Education Lessons:**
 
- 6.    The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.   
-
-  
-
-7.    The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.
+ 6.    The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.
 
   
-Please click [here](/files/Sexuality%20Education%202022.pdf) to view the lesson plan for Primary 5 & 6.  
+
+7.    Sexuality Education (SEd) lessons are taught as part of CCE at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
+
+  
+Please click [here](/files/YMPS%20SEd%20lesson%20plan.pdf) to view the lesson plan for Primary 5 & 6.  
   
   
 **Information for Parents:**  
   
 
-Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
+Parents may opt their children out of the Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
   
 
-Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/opt%20out%20form.pdf). The completed opt-out form is to be submitted by ***04/11/2022***.
+Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Opt%20out%20form.pdf). The completed opt-out form is to be submitted by ***30/06/2023***.
 
   
 
 Parents can contact the school at 67811262 for discussion or to seek clarification about the school’s sexuality education programme.
-
-  
-
-Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements

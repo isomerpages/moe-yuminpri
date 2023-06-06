@@ -3,51 +3,26 @@ title: Principal's Foreword
 permalink: /Principals-Foreword/
 description: ""
 ---
+Greetings from Yumin Primary School!
 
+![](/images/mrs%20ng-teo%20sock%20hua%20(for%20website)%20v2.jpg)Yumin Primary school is 48 years old this year, and I am indeed privileged to join the Yumin family to continue the good work of the Principals before me so that we can continue to inspire every Yumin Champion to be a Confident and Effective Communicator, a Creative and Critical Thinker and a Caring and Gracious Citizen.
 
+Every child is unique and talented in their own ways. Every child can and want to learn. Every child matters. These are our beliefs that will continue to guide the school as we strive to enable each child to flourish through our unique Yumin school experience that is anchored on Positive Education. Through CHAMPS (**C**herishing Relationships, Healthy Individuals, **A**ccomplishment and **P**ride, **M**eaningful Actions, **P**ositive Emotions and **S**trong Engagement), we hope to provide a holistic education for all our Yumin Champions, so that everyone will be given the opportunity to be developed in in various domains through various platforms such as &nbsp;the school’s Learning for Life Programme (LLP) and Applied Learning Programme (ALP)&nbsp; which are in the areas of STEM, and Community Service and Student Leadership respectively. The students have shared with me that they enjoy coming to school each day and appreciate the learning opportunities given to them.
 
-Dear Parents    
+With the shifts in education – from learning beyond school to learning throughout life, learning beyond grades to learning for mastery, and learning beyond for work to learning for life, I am committed to carrying on the good work made possible by the team of experienced and nurturing staff at Yumin Primary. Education is a social leveler, and together, we will continue to provide the necessary support for every child to learn, and a schooling experience that is holistic and anchored on values so that it will put them in good stead to navigate the fast-changing environment of today and the future. We strive to provide a nurturing culture of care as Yumin continues to be a second home for our staff and students.
 
-  
-
-Welcome to the 2022 school year. I am excited to welcome back our staff, students and parents for the new school year and a warm welcome to our 2022 P1 cohort.
-
-<img src="/images/1stpic.png" 
-     style="width:50%">
-
-We have chosen another exciting theme for our continuing Positive Education journey: Flourishing with a Growth Mindset!
+As the saying goes, ‘It takes a village to raise a child’. Yumin Primary School could not have achieved what it has today without the support of our stakeholders. Thank you, parents, members of the Parents Support Group and the School Advisory Committee, for journeying with us. I look forward to deeper partnerships with everyone to deliver the Yumin education that brings out the best of each and every Yumin Champion!
 
   
-
-Using this theme, we aim to teach our Yumin Champions that what we think and know makes a difference. We will provide both the stories and the science behind it. We hope to capture the students’ imaginations with the stories. Seeing other people demonstrate skills has a big impact on our beliefs that we too, can do it; the science research helps us back it up with evidence.
-
-
-<img src="/images/2ndpic.jpg" 
-     style="width:50%">
-		 
-Story: _Wilma Unlimited_ by Kathleen Kull, illustrated by David Diaz  
-  
-After having polio as a child, Wilma was told she would not walk again, let alone run! But Wilma was determined (growth mindset) and she worked hard, becoming the first American woman to win three gold medals at the Olympics.  
-  
-Science Research: In a fascinating study of knowing your limits, researchers asked participants to cycle as hard as they could for 4000m. Later, participants were given the same instructions but were able to race against an avatar of their previous ride. What they did not know was that the avatar was actually going faster than their previous ride. The results? The cyclist rode alongside their own avatars, riding significantly further than their previous maximal effort.
-
-We want to inspire and encourage our students to take ownership of the effort required to achieve their goals. We want our students to know that talking about goals and improvements is not enough; these improvements must become a part of who they are. The Positive Education and the CHAMPS framework we have embedded into our curriculum has helped all of us to come together as one Yumin family as we continued with the school curriculum in the midst of the Covid-19 pandemic. I am extremely grateful to the Yumin family – our staff, our parents and our stakeholders who have helped us journey through the years and especially in these two years 2020 - 2021! We have challenged ourselves to seek different and creative ways of organizing school programmes and events - am proud to say that Yumin has done exceptionally well again this past year.
-
-  
-
-Let us work together to foster a growth mindset in our children - united in purpose as ONE Yumin family to nurture flourishing Yumin Champions - future ready individuals, caring and gracious citizens and equipped with 21st century competencies.
-
-  
-
-I invite you to join us on this exciting journey to make 2022 a safe, joyous, memorable and successful year for our students, staff and stakeholders.
 
   
   
   
-Mdm C. Dimps Rao  
+Mrs Ng-Teo Sock Hua <br>
 Principal  
 Yumin Primary School
 
+[2022 Foreword](/files/2022%20foreword.pdf)<br>
 [2021 Foreword](/files/2021%20Principals%20Foreword.pdf)<br>
 [2020 Foreword](/files/2020%20Foreword.pdf)<br>
 [2019 Foreword](/files/2019%20Forward.pdf)<br>

@@ -3,9 +3,9 @@ title: Principal's Foreword
 permalink: /Principals-Foreword/
 description: ""
 ---
-Greetings from Yumin Primary School!
-
-![](/images/mrs%20ng-teo%20sock%20hua%20(for%20website)%20v2.jpg)Yumin Primary school is 48 years old this year, and I am indeed privileged to join the Yumin family to continue the good work of the Principals before me so that we can continue to inspire every Yumin Champion to be a Confident and Effective Communicator, a Creative and Critical Thinker and a Caring and Gracious Citizen.
+Greetings from Yumin Primary School
+![](/images/principal%20v4.jpg)
+Yumin Primary school is 48 years old this year, and I am indeed privileged to join the Yumin family to continue the good work of the Principals before me so that we can continue to inspire every Yumin Champion to be a Confident and Effective Communicator, a Creative and Critical Thinker and a Caring and Gracious Citizen.
 
 Every child is unique and talented in their own ways. Every child can and want to learn. Every child matters. These are our beliefs that will continue to guide the school as we strive to enable each child to flourish through our unique Yumin school experience that is anchored on Positive Education. Through CHAMPS (**C**herishing Relationships, Healthy Individuals, **A**ccomplishment and **P**ride, **M**eaningful Actions, **P**ositive Emotions and **S**trong Engagement), we hope to provide a holistic education for all our Yumin Champions, so that everyone will be given the opportunity to be developed in in various domains through various platforms such as &nbsp;the school’s Learning for Life Programme (LLP) and Applied Learning Programme (ALP)&nbsp; which are in the areas of STEM, and Community Service and Student Leadership respectively. The students have shared with me that they enjoy coming to school each day and appreciate the learning opportunities given to them.
 

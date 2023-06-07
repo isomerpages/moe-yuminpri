@@ -15,7 +15,7 @@ As the saying goes, ‘It takes a village to raise a child’. Yumin Primary Sch
 
   
 
- ![](images/rsz_1mrs_ng-teo_sock_hua_for_website_v2.jpg)
+![](/images/rsz_1mrs_ng-teo_sock_hua_for_website_v2.jpg)
 Mrs Ng-Teo Sock Hua <br>
 Principal  
 Yumin Primary School

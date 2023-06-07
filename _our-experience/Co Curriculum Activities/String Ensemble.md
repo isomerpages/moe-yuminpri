@@ -4,13 +4,12 @@ permalink: /our-experience/Co-Curriculum-Activities/string-ensemble/
 description: ""
 third_nav_title: Co Curriculum Activities
 ---
-![](/images/ourteam_strings.png)
 **Teachers-In-Charge**  
   
-Ms Rachel Hoe\*    
-Mdm Gu Haiying  
-Ms Lye Le Leng Patricia  
-Mrs Tay Yin Lin  
+Mdm Gu Haiying*  
+Ms Jin Qi  
+Ms Siti Masyitah  
+Ms Sharon Sin  
 Coach
 
 ![](/images/information_strings.png)

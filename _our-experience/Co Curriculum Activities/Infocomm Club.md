@@ -4,14 +4,12 @@ permalink: /our-experience/Co-Curriculum-Activities/Infocomm-Club/
 description: ""
 third_nav_title: Co Curriculum Activities
 ---
-![](/images/ourteam_infocomm.png)
 **Teachers-In-Charge**  
   
-Miss Gina Luo\*  
-Mr Mohammed Hadi Bin Abdul Rasheed  
+Ms Patricia Lye\*  
+Miss Foo Xue Yi    
 Mdm Cheong Oi Koan  
-Miss Sharon Sin  
-Ms Wang Xiu Jun
+Mr Jia Shin  
 
 ![](/images/information_infocomm.png)
 ![](/images/Slide22a.jpg)

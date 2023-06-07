@@ -8,8 +8,7 @@ third_nav_title: Co Curriculum Activities
 **Teachers-In-Charge**  
   
 Ms Tan Pek Sun\*  
-Ms Siti Hajar Binte Tawi  
-Ms Heng Shimin  
+Mrs Giri  
 Mdm Liu Shuang  
 Mdm Cecilia Choo  
 Coach
@@ -60,5 +59,3 @@ Creative Movement and Dance has made me realise the existence of many kinds of w
 **_Lee Jia Xian (5B)_**
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRZZpCy8LXiHRAe4k5_NGVDnqHwF9VUpp385rn5UOlAZN5aDiLYx-02yxVZ4T0B3Gu-Lo0ac7fbqpRJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-		 
-		 

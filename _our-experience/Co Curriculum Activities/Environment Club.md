@@ -4,7 +4,6 @@ permalink: /our-experience/Co-Curriculum-Activities/Environment-Club/
 description: ""
 third_nav_title: Co Curriculum Activities
 ---
-![](/images/ourteam_environment.png)
 **Teachers-In-Charge**  
   
 Mdm Ro'aiza Bte Zainuri\*  
@@ -45,5 +44,3 @@ Past Achievements
 **_Seah Xin Ni (6A)_**
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmAQ91s4eqZ6UzA-ydy3DAAgyEff9NmUwN22rbvptBVlJ-l8rE25rPZqx6CwIBjHRVfuCERgbJEaJ6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-

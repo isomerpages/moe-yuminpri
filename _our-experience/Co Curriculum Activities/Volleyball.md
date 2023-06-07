@@ -4,14 +4,15 @@ permalink: /our-experience/Co-Curriculum-Activities/Volleyball/
 description: ""
 third_nav_title: Co Curriculum Activities
 ---
-![](/images/ourteam_volleyball.png)
 **Teachers-In-Charge**  
   
+Miss Ng Su Chi*  
 Mr Kiew Ji Cai Tim  
-Miss Ng Su Chi  
-Miss Noor Hidayah Binte Noordin  
-Miss Foo Xue Yi  
+Ms Shimin 
+Miss Kasmini  
 Coach
+
+
 ![](/images/information_volleyball.png)
 ![](/images/Volleyball2020a.jpeg)
 

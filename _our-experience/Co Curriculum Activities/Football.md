@@ -4,14 +4,14 @@ permalink: /our-experience/Co-Curriculum-Activities/football/
 description: ""
 third_nav_title: Co Curriculum Activities
 ---
-![](/images/ourteam_softball.png)
 **Teachers-In-Charge**  
   
-Mr Hirman B Abdul Rahim\*  
-Mr Noor Aidil Bin Abdul Rahman  
-Mr Rayhan  
-Mr Sulaiman B Osman  
-Mrs Mak Zihui  
+Mr Sulaiman B Osman \*  
+Mr Noor Aidil<br>
+Mr Jack Heng <br>
+Mr Zikri<br>
+Mrs Mak Zihui <br>
+Ms Huda<br>
 Coach
 
 ![](/images/Soccer2020a.jpeg)

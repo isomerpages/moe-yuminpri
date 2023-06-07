@@ -13,8 +13,6 @@ With the shifts in education – from learning beyond school to learning through
 
 As the saying goes, ‘It takes a village to raise a child’. Yumin Primary School could not have achieved what it has today without the support of our stakeholders. Thank you, parents, members of the Parents Support Group and the School Advisory Committee, for journeying with us. I look forward to deeper partnerships with everyone to deliver the Yumin education that brings out the best of each and every Yumin Champion!
 
-  
-<img height="200" width="150" src="/images/rsz_1mrs_ng-teo_sock_hua_for_website_v2.jpg">
 Mrs Ng-Teo Sock Hua <br>
 Principal  
 Yumin Primary School

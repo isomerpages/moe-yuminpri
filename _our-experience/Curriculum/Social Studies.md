@@ -4,15 +4,7 @@ permalink: /our-experience/curriculum/social-studies/
 description: ""
 third_nav_title: Curriculum
 ---
-
-
-![](/images/departmentmembers_ne.jpg)
-**SS Coordinator - &nbsp;Ms Vithya d/o Tamil Mani**<br>
-**Advisor - Mdm Aszrina**
-
-![](/images/keyprogrammes_ne.jpg)
-
-<center> Social Studies </center>
+Key Programmes
 
 The new Social Studies (Primary) syllabus 2012 was launched in phases over a span of 3 years. The syllabus for Primary 1 and Primary 2 was launched in 2012, followed by the launch for Primary 3 and 4 in 2013 and the final phase in 2014 for Primary 5 and Primary 6.
 

@@ -4,14 +4,11 @@ permalink: /our-experience/Co-Curriculum-Activities/Scouts/
 description: ""
 third_nav_title: Co Curriculum Activities
 ---
-![](/images/ourteam_scout.png)
-
 **Teachers-In-Charge**  
   
-Mr Muhammad Zikri Hakim Bin Hassan\*  
-Miss Yuen Chi Ping  
-Mrs Chan Hui Fen  
-Ms Lim Siew Siew
+Miss Yuen Chi Ping*  
+Ms Malathy  
+Ms Kaitlynn
 
 <img style="width:50%;float:left" src="/images/Scouts2020a.jpeg">
 		 <img style="width:50%" src="/images/Scouts2020b.jpeg">
@@ -35,4 +32,3 @@ Ms Lim Siew Siew
 **_Seetoh Yih Keet (3A)_**
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRiRcSMS0bd2ETuJ6IbjeaqgmS8AgdozOww2cCy6H1TAc0IdSMydzzN_6sBDRFpKU0WkkeIvCUEkDhL/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-

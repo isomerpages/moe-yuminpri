@@ -7,9 +7,9 @@ third_nav_title: Co Curriculum Activities
 ![](/images/ourteam_guzheng.png)
 **Teachers-In-Charge**  
   
-Ms Jin Qi\*  
-Ms Chan Ru Ai  
+Ms Chan Ru Ai\*  
 Ms Rachel Lee  
+Ms Ong Zhi Lin  
 Coach
 
 ![](/images/information_guzheng.png)
@@ -30,7 +30,7 @@ Certificate of Accomplishment at the 2012 and 2014 SYF.
 ![](/images/Guzheng4.jpg)![](/images/Guzheng5.jpg)![](/images/Guzheng6.jpg)![](/images/Guzheng7.jpg)![](/images/Guzheng8.jpg)![](/images/Guzheng9.jpg)
 
 **Distinction at 2016 SYF (Singapore Youth Festival Arts Presentation)**  
-Certificate of Accomplishment at the 2012 and 2014 SYF (Singapore Youth Festival) competition   
+Certificate of Accomplishment at the 2012 and 2014 SYF (Singapore Youth Festival) competition&nbsp;  
   
 **Student Testimonial**  
 

@@ -6,9 +6,7 @@ third_nav_title: Curriculum
 ---
 **Vision: Future-ready and Responsible Digital Learners Mission: Technology-enriched school environment for quality teaching and learning**
 
-![](/images/keyprogrammes_ict.jpg)
-
-**Information and Communications Technologies or ICT**
+Key Programmes
 
 We believe that ICT competence is necessary for students who will be living and working in an information based society. Therefore ICT is an integral part of our curriculum. We provide a range of opportunities so that pupils can develop their competence in the use of ICT devices.
 
@@ -19,10 +17,9 @@ Technology is harnessed in support of the school’s Total Curriculum Framework 
 **New Media Literacies**
 
 
-New Media Literacies are defined as the competencies to create, connect and curate information in the digital networked environment. Regular engagement in these interactions will enable students to develop an understanding of the social practices (tacit norms and skills) governing the Web and be equipped with the knowledge and skills to navigate and participate productively. At the heart of these interactions are the six core values of the 21st Century Competencies (21CC) framework, that anchor the learning experiences and promote discerning and responsible use of technology.
+New Media Literacies are defined as the competencies to create, connect and curate information in the digital networked environment. Regular engagement in these interactions will enable students to develop an understanding of the social practices (tacit norms and skills) governing the Web and be equipped with the knowledge and skills to navigate and participate productively. At the heart of these interactions are the six core values of the 21st&nbsp;Century Competencies (21CC) framework, that anchor the learning experiences and promote discerning and responsible use of technology.
 
-<img src="/images/1st%20pic.png" 
-     style="width:60%">
+<img src="/images/1st%20pic.png" style="width:60%">
 
 
 **Cyber Wellness**
@@ -35,7 +32,7 @@ Cyber Wellness education focuses on helping your child to be a responsible digit
 **The 3 Cyber Wellness Key Messages:**
 
 
-• Embrace the affordances of technology while maintaining a balanced lifestyle between offline and      online activities.
+• Embrace the affordances of technology while maintaining a balanced lifestyle between offline and&nbsp; &nbsp; &nbsp; online activities.
 
 • Be a safe and responsible user of technology and maintain a positive online presence.
 

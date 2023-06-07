@@ -8,7 +8,7 @@ third_nav_title: Co Curriculum Activities
 **Teachers-In-Charge**  
   
 Ms Tan Pek Sun\*  
-Mrs Giri
+Mrs Giri  
 Mdm Liu Shuang  
 Mdm Cecilia Choo  
 Coach

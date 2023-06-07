@@ -1,6 +1,6 @@
 ---
 title: School Advisory Committee
-permalink: /our-school/School-Advisory-Committee/
+permalink: /school-advisory-committee/
 description: ""
 ---
 _"My years as a member of Yumin School Advisory Committee (SAC) have enabled me to see how the school plans and manages its programmes to benefit each and every one of its Champions. These programmes, be it in the areas of academic, arts or sports, bring out the best in every pupil._

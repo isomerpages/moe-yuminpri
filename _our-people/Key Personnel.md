@@ -11,13 +11,12 @@ description: ""
 | HOD (Science) | Ms Seah Wan Peen
 | HOD (PE/CCA) | Mr Aidil Effendy Md Said
 | HOD (MTL) | Mdm Wang Rongbing
-| HOD (Character & Citizenship Education) | Mdm Aszrina Bte Tugiman
+| HOD (Character &amp; Citizenship Education) | Mdm Aszrina Bte Tugiman
 | HOD (Student Management) | Mrs Nizam (Mdm Rosnani)
 | HOD (English) | Miss Angeline Lam
 | HOD (Maths) | Ms Carol Lim Hui Min
 | SH (Aesthetics) | Mrs Tay - Low Yin Lin
 | SH (Malay) | Miss Azriena Bte Asari
-| SH (Special Project) | Miss Gina Luo
 | SH (EdTech) | Ms Jean Wang Xiu Jun 
 | SH (Science) | Mrs Chan Hui Fen
 | Year-Head (Upper Primary)| Miss Julee Binte Noordin

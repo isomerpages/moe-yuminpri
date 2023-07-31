@@ -94,4 +94,10 @@ Di Zi Gui is an effective approach in cultivating kids’ moral education, it s
 
 The Conversational Chinese and Malay (CCM) programme are to equip our students with basic skills and knowledge of the Chinese or Malay Language so as to enable them to communicate with their friends and show awareness and appreciation of another culture. It is able to strengthen Singapore’s multi-racial compact. The Mother Tongue department engages professional CCM programme vendors to conduct lessons.
 
-![](/images/YMPS_CNY2020_Recess-43.jpg)
+![](/images/chinese1.jfif)
+![](/images/chinese2.jfif)
+![](/images/chinese3.jfif)
+![](/images/chinese4.jpeg)
+![](/images/chinese5.jpeg)
+![](/images/chinese6.jpeg)
+![](/images/ymps_lny_2023-312.jpg)

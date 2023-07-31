@@ -4,8 +4,6 @@ permalink: /our-experience/curriculum/Chinese/
 description: ""
 third_nav_title: Curriculum
 ---
-
-
 **超越自我 · 成就自我**
 
 **培养高尚品格· 发挥挑战精神· 创造多彩人生**
@@ -96,7 +94,10 @@ Di Zi Gui is an effective approach in cultivating kids’ moral education, it s
 
 The Conversational Chinese and Malay (CCM) programme are to equip our students with basic skills and knowledge of the Chinese or Malay Language so as to enable them to communicate with their friends and show awareness and appreciation of another culture. It is able to strengthen Singapore’s multi-racial compact. The Mother Tongue department engages professional CCM programme vendors to conduct lessons.
 
-![](/images/1DX25401.jpg)
-![](/images/1DX24580.jpg)
-![](/images/YMPS_CNY2020_Recess-42.jpg)
-![](/images/YMPS_CNY2020_Recess-43.jpg)
+![](/images/chinese1.jfif)
+![](/images/chinese2.jfif)
+![](/images/chinese3.jfif)
+![](/images/chinese4.jpeg)
+![](/images/chinese5.jpeg)
+![](/images/chinese6.jpeg)
+![](/images/ymps_lny_2023-312.jpg)

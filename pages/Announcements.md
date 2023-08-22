@@ -3,6 +3,7 @@ title: Announcements
 permalink: /announcement/
 description: ""
 ---
+[Message for Yumin Alumni - Teachers' Day](/message-for-yumin-alumni)<br>
 [Inspiring Teacher of English Award](/files/ITEA%202023%20Poster%20(1)-compressed.pdf)  
 [P1 MTP SL's Address Slides](/files/P1%20MTP%202023%20-%20SL's%20Address%20(230201)%20For%20Parents.pdf)<br>
 [P2 MTP SL's Address Slides](/files/P2%20MTP%202023%20-%20SL's%20Address%20(230201)%20For%20Parents.pdf)<br>

@@ -15,7 +15,7 @@ description: ""
 |Primary 5|7.40am - 1.40pm|10.10am - 10.40am|10pm - 12.20pm
 |Primary 6|7.40am - 1.40pm|9.40am - 10.10am|12.10pm - 12.20pm
 
-**Contact Us**
+**Contact Us**&nbsp;<br>
 Address: 3 Tampines St 21 S(529393)<br>
 Telephone: 67811262<br>
 Email: yumin_ps@moe.edu.sg

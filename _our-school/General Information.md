@@ -15,13 +15,17 @@ description: ""
 |Primary 5|7.40am - 1.40pm|10.10am - 10.40am|10pm - 12.20pm
 |Primary 6|7.40am - 1.40pm|9.40am - 10.10am|12.10pm - 12.20pm
 
+**Contact Us**
+Address: 3 Tampines St 21 S(529393)<br>
+Telephone: 67811262<br>
+Email: yumin_ps@moe.edu.sg
 
-**Opening Hours**
+  **Operating Hours**
+
 
 **General Office:**&nbsp;
-<br>Monday to Friday - 8.00am to 5.00pm
-
-  
+<br>Monday to Friday - 8.00am to 5.00pm<br>
+Closed on Public Holidays<br>
   
 **Front Gate:**  
 Gate A (Guardpost):  

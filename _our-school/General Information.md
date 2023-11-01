@@ -44,4 +44,4 @@ Morning: 6.45am to 7.30am
 **Back Gate:**&nbsp;<br>
 Morning:&nbsp; &nbsp; 7.00am to 7.30am<br>
 Afternoon: 1.15pm to 2.15pm (Mon-Fri)
-<br>3.30pm to 3.45pm (Mon-Thu)  <br>4.00pm to 4.45pm (Only Tue &amp; Thur)
+<br>3.30pm to 3.45pm (Non CCA Days - Mon &amp; Wed)  <br>4.00pm to 4.45pm (Only on CCA Days - Tue &amp; Thur)

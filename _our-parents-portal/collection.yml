@@ -2,7 +2,6 @@ collections:
   our-parents-portal:
     output: true
     order:
-      - 2023 P1 Registration.md
       - Financial Assistance Scheme (FAS).md
       - Direct School Admission.md
       - Guides for Parents.md

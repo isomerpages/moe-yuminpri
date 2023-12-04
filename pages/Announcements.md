@@ -4,7 +4,6 @@ permalink: /announcement/
 description: ""
 variant: markdown
 ---
-[Inspiring Teacher of English Award](/files/ITEA%202023%20Poster%20(1)-compressed.pdf) 
 [Words of Gratitude for Yumin Staff](/words-of-gratitude-for-yumin-staff)<br>
 [Healthy Lifestyle by Health Promotion Board](/health-promotion-board)<br>
 [Yumin e-Open House Video](https://www.youtube.com/watch?v=RWlPX4ma044)<br>

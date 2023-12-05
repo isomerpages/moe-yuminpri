@@ -34,11 +34,11 @@ variant: markdown
 
 | Class | Form Teachers | 
 | -------- | -------- |
-|3 Respect | Mrs Chan/Miss Kaitlyn
-| 3 Compassion | Mr Rayhan/Miss Foo Xueyi/Ms Ong Zhi Lin
-|3 Integrity | Mdm Ro'aiza/Miss Nurul Ain
-| 3 Perseverance | Mdm Rohanah/Mr Tim Kiew/Mdm Luman
-| 3 Diligence | Mdm Raudhah/Mrs Tay Yin Lin/Mdm Tan Ting Ting
+|3 Care | Mdm Hirwati Haris/Mdm Tan Ting Ting/Mdm Teo Ling Ping
+| 3 Courage | Mr Rayhan/Ms Esther Koh/Mr Noor Aidil
+|3 Integrity | Mrs Cecilia Lim/Mdm Rika Herdiyani
+| 3 Resilience | Mdm Siti Hajar/Mr Jack Heng/Ms Seah Wan Peen
+| 3 Respect | Mdm Norjana Husin/Mr Low Hiang Meng
 
 **Primary 4**
 

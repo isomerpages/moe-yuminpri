@@ -25,7 +25,7 @@ Email: yumin_ps@moe.edu.sg
 
 
 **General Office:**&nbsp;
-<br>Monday to Friday - 8.00am to 5.00pm<br>
+<br>Monday to Friday - 7.00am to 5.00pm<br>
 Closed on Public Holidays<br>
   
 **Front Gate:**  

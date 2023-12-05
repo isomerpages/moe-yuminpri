@@ -2,18 +2,19 @@
 title: Level Teachers
 permalink: /our-people/Level-Teachers/
 description: ""
+variant: markdown
 ---
 **Primary 1**
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| 1 Respect     | Ms Nur Amira/Mdm Gu Hai Ying   |
-| 1 Compassion | Mdm Aszrina/Mdm Siti Mashitah
-| 1 Integrity | Mrs Giri/Mdm Malathy
-| 1 Perseverance |Miss Chan Ru Ai/Mrs Phua
-|1 Diligence | Miss Michelle Chen/Ms Kasmini
-| 1 Harmony | Mdm Norjana/Mdm Syedama/Ms Heng Shi Min
-| 1 Empathy | Miss Sharon Sin/Mrs Hairina Singh/Ms Siti Nurulhuda
+| 1 Care     | Mdm Erawati Luman/Ms Lydia Lee   |
+| 1 Courage | Mdm Cheong Oi Koan/Ms Tan Pek Sun
+| 1 Integrity | Mrs Rachel Ho/Ms Nurkhalisah
+| 1 Resilience |Mdm Fadilah Omar/Mdm Liu Shuang
+|1 Respect | Ms Penny Chew/Miss Bertha Lim
+| 1 Responsibility | Ms Trixie Young/Mr Sulaiman Osman
+
 
 
 

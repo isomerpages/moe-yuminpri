@@ -22,12 +22,13 @@ variant: markdown
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| 2 Respect | Mrs Mak/Ms Lydia Lee
-| 2 Compassion | Miss Ng Su Chi/Mdm Cheong Oi Koan
-| 2 Integrity | Mrs Lee(Cheng Sock Hui)/Miss Tan Pek Sun
-| 2 Perseverance | Mrs Rachel Ho/Mdm Liu Shuang
-| 2 Diligence | Ms Esther Koh/Ms Sheila Lim/Ms Khairiani
-| 2 Harmony | Mdm Teo Ling Ping/Ms Nurkhalisah/Ms Lim Bertha
+| 2 Care | Mdm Wang Rongbing/Ms Sheila Lim
+| 2 Courage | Mdm Aszrina Tugiman/Mdm Siti Mashitah/Ms Ng Su Chi
+| 2 Integrity | Mrs Giri/Ms Leom Li Yan
+| 2 Resilience | Mrs Mak Zi Hui/Ms Kasmini
+| 2 Respect | Mdm Gu Haiying/Miss Nur Amira/Ms Khairiani
+| 2 Harmony | Mrs Tay Yin Lin/Mdm Syedama/Ms Goh Shu Yi
+| 2 Responsibility | Ms Sharon Sin/Ms Nurulhuda
 
 **Primary 3**
 

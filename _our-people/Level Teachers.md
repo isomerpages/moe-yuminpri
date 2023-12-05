@@ -55,10 +55,11 @@ variant: markdown
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| 5 Respect | Mdm Azriena/Miss Julee/Ms Patricia Lye
-| 5 Compassion | Mdm Hirwati/Miss Gina Luo
-| 5 Integrity | Ms Ada Tan/Miss Seah Wan Peen/Miss Ainon
-| 5 Perseverance | Mrs Diana Lim/Ms Kang Pei Yun
+| 5 Care | Mr Shyam Raj Panday/Mr Muhammad Zikri/Mdm Siti Raudhah
+| 5 Courage | Mrs Diana Lim/Mr Aidil Effendy
+| 5 Integrity | Mr Farris/Mdm Jean Wang
+| 5 Resilience | Miss Nurul Ain/Ms Angeline Lam
+| 5 Respect | Ms Lau Wan Ting/Mrs Nizam/Ms Carol Lim
 
 **Primary 6**
 

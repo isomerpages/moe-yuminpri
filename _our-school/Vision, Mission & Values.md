@@ -2,17 +2,12 @@
 title: Vision, Mission & Values
 permalink: /our-school/Vision-Mission-Values/
 description: ""
+variant: markdown
 ---
 <u><b>VISION</b></u><br>
-A Champion in Every Child
+Flourishing Champions<br>Future-Ready Learners<br>Gracious Citizens
 <br><br>
 <u><b>MISSION</b></u><br>
-To Build Character<br>
-To Challenge Minds<br>
-To Enrich Lives<br><br>
+To enable Yumin Champions to experience joy of learning, nurture passionate learners who are rooted in values and challenge their minds to develop their fullest potential and thrive in the future.<br><br>
 <u><b>VALUES</b></u><br>
-**R**espect<br>
-**C**ompassion<br>
-**I**ntegrity <br>
-**P**erserverance<br>
-**L**ead Self
+Care<br>Courage<br>Integrity<br>Resilience<br>Responsibility<br>Respect

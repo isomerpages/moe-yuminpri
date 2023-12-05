@@ -37,8 +37,7 @@ Gate B (Vehicles):
 Morning: 6.45am to 7.20am  
   
 Gate C (Parents Waiting Area):  
-Morning: 6.45am to 7.30am  
-7.40am to 7.00pm  
+Morning: 6.45am to 7.30am   
   
   
 

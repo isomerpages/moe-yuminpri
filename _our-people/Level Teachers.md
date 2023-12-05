@@ -65,7 +65,7 @@ variant: markdown
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| 6 Respect | Miss Angeline Lam/Ms Carol Lim/Ms Jin Qi
-| 6 Compassion | Mdm Siti Hajar/Ms Lim Siew Siew
-| 6 Integrity |Miss Lau Wan Ting/Mr Noor Aidil
-| 6 Perseverance | Mdm Noriyanti/Mrs Nizam/Mr Hadi
+| 6 Care | Ms Jin Qi/Miss Gina Luo
+| 6 Courage | Ms Michelle Chen/Ms Ada Tan
+| 6 Integrity |Mdm Noriyanti Yunos/Ms Kang Pei Yun
+| 6 Resilience |Ms Foo Xue Yi/ Ms Julee Noordin/Mdm Azriena Asari

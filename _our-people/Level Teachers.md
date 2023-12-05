@@ -10,7 +10,7 @@ variant: markdown
 | -------- | -------- |
 | 1 Care     | Mdm Erawati Luman/Ms Lydia Lee   |
 | 1 Courage | Mdm Cheong Oi Koan/Ms Tan Pek Sun
-| 1 Integrity | Mrs Rachel Ho/Ms Nurkhalisah
+| 1 Integrity | Mrs Rachel Ho/Miss Nurkhalisah
 | 1 Resilience |Mdm Fadilah Omar/Mdm Liu Shuang
 |1 Respect | Ms Penny Chew/Miss Bertha Lim
 | 1 Responsibility | Ms Trixie Young/Mr Sulaiman Osman

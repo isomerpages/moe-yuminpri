@@ -2,18 +2,19 @@
 title: Level Teachers
 permalink: /our-people/Level-Teachers/
 description: ""
+variant: markdown
 ---
 **Primary 1**
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| 1 Respect     | Ms Nur Amira/Mdm Gu Hai Ying   |
-| 1 Compassion | Mdm Aszrina/Mdm Siti Mashitah
-| 1 Integrity | Mrs Giri/Mdm Malathy
-| 1 Perseverance |Miss Chan Ru Ai/Mrs Phua
-|1 Diligence | Miss Michelle Chen/Ms Kasmini
-| 1 Harmony | Mdm Norjana/Mdm Syedama/Ms Heng Shi Min
-| 1 Empathy | Miss Sharon Sin/Mrs Hairina Singh/Ms Siti Nurulhuda
+| 1 Care     | Mdm Erawati Luman/Ms Lydia Lee   |
+| 1 Courage | Mdm Cheong Oi Koan/Ms Tan Pek Sun
+| 1 Integrity | Mrs Rachel Ho/Miss Nurkhalisah
+| 1 Resilience |Mdm Fadilah Omar/Mdm Liu Shuang
+|1 Respect | Ms Penny Chew/Miss Bertha Lim
+| 1 Responsibility | Ms Trixie Young/Mr Sulaiman Osman
+
 
 
 
@@ -21,48 +22,50 @@ description: ""
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| 2 Respect | Mrs Mak/Ms Lydia Lee
-| 2 Compassion | Miss Ng Su Chi/Mdm Cheong Oi Koan
-| 2 Integrity | Mrs Lee(Cheng Sock Hui)/Miss Tan Pek Sun
-| 2 Perseverance | Mrs Rachel Ho/Mdm Liu Shuang
-| 2 Diligence | Ms Esther Koh/Ms Sheila Lim/Ms Khairiani
-| 2 Harmony | Mdm Teo Ling Ping/Ms Nurkhalisah/Ms Lim Bertha
+| 2 Care | Mdm Wang Rongbing/Ms Sheila Lim
+| 2 Courage | Mdm Aszrina Tugiman/Mdm Siti Mashitah/Ms Ng Su Chi
+| 2 Integrity | Mrs Giri/Ms Leom Li Yan
+| 2 Resilience | Mrs Mak Zi Hui/Ms Kasmini
+| 2 Respect | Mdm Gu Haiying/Miss Nur Amira/Ms Khairiani
+| 2 Harmony | Mrs Tay Yin Lin/Mdm Syedama/Ms Goh Shu Yi
+| 2 Responsibility | Ms Sharon Sin/Ms Nurulhuda
 
 **Primary 3**
 
 | Class | Form Teachers | 
 | -------- | -------- |
-|3 Respect | Mrs Chan/Miss Kaitlyn
-| 3 Compassion | Mr Rayhan/Miss Foo Xueyi/Ms Ong Zhi Lin
-|3 Integrity | Mdm Ro'aiza/Miss Nurul Ain
-| 3 Perseverance | Mdm Rohanah/Mr Tim Kiew/Mdm Luman
-| 3 Diligence | Mdm Raudhah/Mrs Tay Yin Lin/Mdm Tan Ting Ting
+|3 Care | Mdm Hirwati Haris/Mdm Tan Ting Ting/Mdm Teo Ling Ping
+| 3 Courage | Mr Rayhan/Ms Esther Koh/Mr Noor Aidil
+|3 Integrity | Mrs Cecilia Lim/Mdm Rika Herdiyani
+| 3 Resilience | Mdm Siti Hajar/Mr Jack Heng/Ms Seah Wan Peen
+| 3 Respect | Mdm Norjana Husin/Mr Low Hiang Meng
 
 **Primary 4**
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| 4 Respect | Mr Shyam/Ms Leom Li Yan/Mr Zikri
-|4 Compassion | Mrs Cecilia Ng/Mr Sulaiman
-| 4 Integrity | Mr Aidil/Mdm Jean Wang/Mr Jack Heng
-| 4 Perseverance | Mrs Serpojan Singh/Mdm Wang Rongbing
-| 4 Diligence | Miss Yuen Chi Ping/Mr Low Hiang Meng
+| 4 Care | Mr Tim Kiew/Miss Kaitlyn Ng/Ms Heng Shi Min
+|4 Courage | Ms Ong Zhi Lin/Mrs Chan Hui Fen/Miss Chan Ru Ai
+| 4 Integrity | Mdm Ro'aiza/Ms Lim Siew Siew
+| 4 Resilience | Ms Patricia Lye/Miss Yuen Chi Ping
+| 4 Respect | Mrs Serpojan Singh/Mrs Hairina Singh/Mdm Rohanah
 
 
 **Primary 5**
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| 5 Respect | Mdm Azriena/Miss Julee/Ms Patricia Lye
-| 5 Compassion | Mdm Hirwati/Miss Gina Luo
-| 5 Integrity | Ms Ada Tan/Miss Seah Wan Peen/Miss Ainon
-| 5 Perseverance | Mrs Diana Lim/Ms Kang Pei Yun
+| 5 Care | Mr Shyam Raj Panday/Mr Muhammad Zikri/Mdm Siti Raudhah
+| 5 Courage | Mrs Diana Lim/Mr Aidil Effendy
+| 5 Integrity | Mr Farris/Mdm Jean Wang
+| 5 Resilience | Miss Nurul Ain/Ms Angeline Lam
+| 5 Respect | Ms Lau Wan Ting/Mrs Nizam/Ms Carol Lim
 
 **Primary 6**
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| 6 Respect | Miss Angeline Lam/Ms Carol Lim/Ms Jin Qi
-| 6 Compassion | Mdm Siti Hajar/Ms Lim Siew Siew
-| 6 Integrity |Miss Lau Wan Ting/Mr Noor Aidil
-| 6 Perseverance | Mdm Noriyanti/Mrs Nizam/Mr Hadi
+| 6 Care | Ms Jin Qi/Miss Gina Luo
+| 6 Courage | Ms Michelle Chen/Ms Ada Tan
+| 6 Integrity |Mdm Noriyanti Yunos/Ms Kang Pei Yun
+| 6 Resilience |Ms Foo Xue Yi/ Ms Julee Noordin/Mdm Azriena Asari

@@ -1,0 +1,9 @@
+collections:
+  our-school:
+    output: true
+    order:
+      - Principal's Foreword.md
+      - Vision, Mission & Values.md
+      - History, Crest & Song.md
+      - General Information.md
+      - Service Providers.md

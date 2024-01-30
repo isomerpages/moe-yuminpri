@@ -71,7 +71,7 @@ their growing years. They learn to build healthy and rewarding relationships
 with others, including those with members of the opposite sex. Students
 are guided to make wise, informed and responsible decisions to keep themselves
 safe from sexuality-related risks.</p>
-<p>Please click <a href="/files/YMPS%20SEd%20lesson%20plan.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<p>Please click <a href="/files/SEd_Lesson_Plan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 view the lesson plan for Primary 5 &amp; 6.</p>
 <p><strong>Information for Parents:</strong>
 </p>

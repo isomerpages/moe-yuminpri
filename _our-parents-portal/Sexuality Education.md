@@ -27,24 +27,24 @@ for themselves and others by having positive mainstream values and attitudes
 about sexuality that are premised on the family as the basic unit of society.&nbsp;</p>
 <p>&nbsp;3.&nbsp;&nbsp; &nbsp;The <strong>Key Messages</strong> of Sexuality
 Education are:&nbsp;&nbsp;</p>
-<p>(i)&nbsp;&nbsp; &nbsp;Love and respect yourself as you love and respect
+<p>(a)&nbsp;&nbsp; &nbsp;Love and respect yourself as you love and respect
 others;</p>
-<p>(ii)&nbsp;&nbsp;Build positive relationships based on love and respect
+<p>(b)&nbsp;&nbsp;Build positive relationships based on love and respect
 (which are the foundation for strong families);</p>
-<p>(iii)&nbsp;&nbsp; &nbsp;Make responsible decisions for yourself, your
-family and society; and</p>
-<p>(iv)&nbsp;&nbsp; &nbsp;Abstinence before marriage is the best protection
+<p>(c)&nbsp;&nbsp; &nbsp;Make responsible decisions for yourself, your family
+and society; and</p>
+<p>(d)&nbsp;&nbsp; &nbsp;Abstinence before marriage is the best protection
 against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt
 you and your loved ones.&nbsp;&nbsp;</p>
-<p>You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-more information on MOE Sexuality Education.&nbsp;</p>
+<p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
+information on MOE Sexuality Education.&nbsp;</p>
 <p><strong>Overview of YUMIN PRIMARY SCHOOL’S Sexuality Education Programme for 2023</strong>
 </p>
 <p>4.&nbsp;&nbsp; &nbsp;Sexuality Education is delivered in a holistic manner
 through the school curriculum. The content for Sexuality Education is grouped
 into five main themes: Human Development, Interpersonal Relationships,
 Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may
-click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>&nbsp;5.&nbsp;&nbsp; &nbsp;The subjects that incorporate topics on sexuality
 include:</p>
@@ -65,20 +65,22 @@ could endanger health and undermine integrity of the family. Our students
 require guidance so that they can respond with discernment to the sexual
 messages in the media and other sources.</p>
 <p>7.&nbsp;&nbsp; &nbsp;Sexuality Education (SEd) lessons are taught as part
-of CCE at Primary 5 and 6. In SEd, students learn to understand the physiological,
-social and emotional changes they experience as they mature, develop healthy
-and rewarding relationships including those with members of the opposite
-sex, and make wise, informed and responsible decisions on sexuality matters.</p>
+of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will
+learn healthy ways to manage the physiological, social and emotional in
+their growing years. They learn to build healthy and rewarding relationships
+with others, including those with members of the opposite sex. Students
+are guided to make wise, informed and responsible decisions to keep themselves
+safe from sexuality-related risks.</p>
 <p>Please click <a href="/files/YMPS%20SEd%20lesson%20plan.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 view the lesson plan for Primary 5 &amp; 6.</p>
 <p><strong>Information for Parents:</strong>
 </p>
 <p>Parents may opt their children out of the Sexuality Education lessons,
-and/or supplementary sexuality education programmes by MOE-approved external
+and/or supplementary Sexuality Education programmes by MOE-approved external
 providers.</p>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable <a href="/files/Opt%20out%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed opt-out form
-is to be submitted by <strong><em>30/06/2023</em></strong>.</p>
+the start of the year and is also downloadable <a href="/files/Opt_Out_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed opt-out form
+is to be submitted by <strong><em>28/06/2024</em></strong>.</p>
 <p>Parents can contact the school at 67811262 for discussion or to seek clarification
 about the school’s sexuality education programme.</p>

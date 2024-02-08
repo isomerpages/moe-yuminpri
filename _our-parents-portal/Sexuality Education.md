@@ -38,7 +38,7 @@ against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt
 you and your loved ones.&nbsp;&nbsp;</p>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.&nbsp;</p>
-<p><strong>Overview of YUMIN PRIMARY SCHOOL’S Sexuality Education Programme for 2023</strong>
+<p><strong>Overview of YUMIN PRIMARY SCHOOL’S Sexuality Education Programme for 2024</strong>
 </p>
 <p>4.&nbsp;&nbsp; &nbsp;Sexuality Education is delivered in a holistic manner
 through the school curriculum. The content for Sexuality Education is grouped

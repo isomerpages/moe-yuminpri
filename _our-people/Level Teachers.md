@@ -27,7 +27,7 @@ variant: markdown
 | 2 Integrity | Mrs Giri/Ms Leom Li Yan
 | 2 Resilience | Mrs Mak Zi Hui/Ms Kasmini
 | 2 Respect | Mdm Gu Haiying/Miss Nur Amira/Ms Khairiani
-| 2 Harmony | Mrs Tay Yin Lin/Mdm Syedama/Ms Goh Shu Yi/Mr Tim Kiew/
+| 2 Harmony | Mrs Tay Yin Lin/Mdm Syedama/Mr Tim Kiew
 | 2 Responsibility | Ms Sharon Sin/Ms Nurulhuda
 
 **Primary 3**

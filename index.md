@@ -19,14 +19,4 @@ sections:
           description: ""
           url: /announcement
       title: A Champion in Every Child
-  - infopic:
-      title: "Malay "
-      description: The Malay Department has put together a physical herb garden
-        alongside an official school website. It was officially launched by the
-        School Leaders.
-      button: more
-      url: /our-experience/curriculum/malay
-      image: /images/Picture3.jpg
-      alt: malay department
 ---
-

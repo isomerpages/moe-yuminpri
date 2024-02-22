@@ -20,14 +20,14 @@ variant: markdown
 | SH (Aesthetics) | Mrs Tay - Low Yin Lin
 | SH (Malay) | Mdm Azriena Bte Asari
 | SH (EdTech) | Ms Jean Wang Xiu Jun 
-| SH (Science) | Mrs Chan Hui Fen
+| SH (Student Wellbeing) | Mrs Chan Hui Fen
 | Year-Head (Upper Primary)| Miss Julee Binte Noordin
 | Year-Head (Lower Primary) | Miss Nurkhalisah Kassim
 | Year-Head (Middle Primary)| Mr Noor Aidil B Abdul Rahman
 | Asst Year Head P2 | Ms Siti Nurulhuda
 | Level Manager P4 | Ms Chan Ru Ai
 | Level Manager P5 | Mr Muhammad Zikri
-| Senior Teacher (English) | Mrs Diana Lim <br> Mdm Hirwati Bte Haris
+| Senior Teacher (English) | Mdm Hirwati Bte Haris
 | Senior Teacher (Maths) | Ms Ada Tan Hooi Ying
 | Senior Teacher (Science) | Mdm Ro'aiza Bte Zainuri
 | Senior Teacher (Chinese) | Ms Tan Pek Sun <br> Mdm Gu Haiying

@@ -45,7 +45,7 @@ variant: markdown
 | Class | Form Teachers | 
 | -------- | -------- |
 | 4 Care | Miss Kaitlyn Ng/Ms Heng Shi Min
-|4 Courage | Ms Ong Zhi Lin/Mrs Chan Hui Fen/Miss Chan Ru Ai
+|4 Courage | Miss Goh Shu Yi/Mrs Chan Hui Fen/Miss Chan Ru Ai
 | 4 Integrity | Mdm Ro'aiza/Ms Lim Siew Siew
 | 4 Resilience | Ms Patricia Lye/Miss Yuen Chi Ping
 | 4 Respect | Mrs Serpojan Singh/Mrs Hairina Singh/Mdm Rohanah

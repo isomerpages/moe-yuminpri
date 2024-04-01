@@ -7,7 +7,7 @@ variant: markdown
 | Designation  | Name| 
 | -------- | -------- | 
 |  Principal  |    Mrs Ng-Teo Sock Hua  | 
-| Vice-Principal | Mr Abdul Mutalib B Mohammed Amin <br> Mrs Sharon Clarissa Foo
+| Vice-Principal | Mr Abdul Mutalib B Mohammed Amin 
 | Vice-Principal Administration | Mrs Betty See
 | School Staff Developer | Mdm Norjana Bte Hussin
 | HOD (Science) | Ms Seah Wan Peen

@@ -2,6 +2,7 @@
 title: Quick Links
 permalink: /quick-links/
 description: ""
+variant: markdown
 ---
 **For Pupils**
 
@@ -23,7 +24,7 @@ description: ""
 [HR and Payroll Portal (HRP)](https://www.hrp.gov.sg/)<br>
 [iExams](https://iexams.seab.gov.sg/login)<br>
 [MIMS Portal](https://idp.mims.moe.gov.sg/nidp/saml2/sso)<br>
-[Ministry of Education Sports & Recreation Club](https://www.mesrc.net/)<br>
+[Ministry of Education Sports &amp; Recreation Club](https://www.mesrc.net/)<br>
 [Ministry of Health](https://www.moh.gov.sg/)<br>
 [MOE Intranet](https://intranet.moe.gov.sg/)<br>
 [MOE iCON](https://icon.moe.edu.sg/)<br>
@@ -44,5 +45,5 @@ description: ""
 [MOE Website](https://www.moe.gov.sg/)<br>
 [PSLE Information (SEAB)](https://www.seab.gov.sg/home/examinations/psle)<br>
 [P1 Registration (MOE)](https://www.moe.gov.sg/primary/p1-registration)<br>
-[School Terms & Holidays 2022](https://www.moe.gov.sg/news/press-releases/20210811-school-terms-and-holidays-for-2022)<br>
+[School Terms &amp; Holidays 2022](https://www.moe.gov.sg/news/press-releases/20210811-school-terms-and-holidays-for-2022)<br>
 [Schoolbag - The Education News Site](https://www.schoolbag.edu.sg/)

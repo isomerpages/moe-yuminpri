@@ -3,9 +3,9 @@ title: Learning for Life Programme (LLP)
 permalink: /our-experience/Curriculum/LEARNING-for-life-PROGRAMME-LLP/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
-
-**COMPASSIONATE CHAMPIONS, ROOTED SINGAPOREANS & CITIZENS OF THE WORLD**
+**COMPASSIONATE CHAMPIONS, ROOTED SINGAPOREANS &amp; CITIZENS OF THE WORLD**
 
 
 To develop Yumin Champions in 21st Century competencies defined through Champions by the school’s Champion Outcomes Indicators
@@ -14,17 +14,17 @@ To develop Yumin Champions in 21st Century competencies defined through Champion
 
 Provide a platform for Yumin Champions to create deep learning experiences for new knowledge creation and purposeful use
 
-**FRAMEWORK & PEDAGOGICAL APPROACHES**
+**FRAMEWORK &amp; PEDAGOGICAL APPROACHES**
 
-LEARNING FOR LIFE PROGRAMME: **Project ACTIVAtE**
+LEARNING FOR LIFE PROGRAMME:&nbsp;**Project&nbsp;ACTIVAtE**
 
 ![](/images/LLP%20-%20ACTIVATE.png)  
 
-**Project ACTIVAtE** is a structured school-wide project-based learning programme designed to facilitate a progressive values-based learning process that involves students applying knowledge and skills to real-life situations based on themes/concepts. It incorporates Values-in-Action (VIA), which is an important component in CCE that harnesses pupils’ sense of ownership, esprit de corps, and proactivity in self-initiating purposeful projects that will make a difference to others. 
+**Project&nbsp;ACTIVAtE**&nbsp;is a structured school-wide project-based learning programme designed to facilitate a progressive values-based learning process that involves students applying knowledge and skills to real-life situations based on themes/concepts. It incorporates Values-in-Action (VIA), which is an important component in CCE that harnesses pupils’ sense of ownership, esprit de corps, and proactivity in self-initiating purposeful projects that will make a difference to others.&nbsp;
 
   
 
-**KEY PROGRAMMES & LEARNING EXPERIENCES**
+**KEY PROGRAMMES &amp; LEARNING EXPERIENCES**
 
 
 
@@ -39,5 +39,4 @@ LEARNING FOR LIFE PROGRAMME: **Project ACTIVAtE**
 
 ![](/images/LLP2020.jpg)
 
-Napoleon is one of the superheroes from 15 different countries that make up Design for Change Global's Student Council. The Student Council acts as a platform for children to voice their thoughts and opinions, and allows these viewpoints to be incorporated into the international I CAN movement. [https://dfcworld.com/site/council](https://dfcworld.com/site/council) In 2020, Napoleon continues his  “I CAN” journey to the extended community by hosting live sessions to teach others various cubing techniques.
-
+Napoleon is one of the superheroes from 15 different countries that make up Design for Change Global's Student Council. The Student Council acts as a platform for children to voice their thoughts and opinions, and allows these viewpoints to be incorporated into the international I CAN movement. In 2020, Napoleon continues his &nbsp;“I CAN” journey to the extended community by hosting live sessions to teach others various cubing techniques.

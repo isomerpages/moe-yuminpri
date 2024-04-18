@@ -3,6 +3,7 @@ title: Chinese
 permalink: /our-experience/curriculum/Chinese/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
 **超越自我 · 成就自我**
 
@@ -69,7 +70,7 @@ Character recognition facilitates early reading and motivates students to learn 
 
 With the objective of ‘Active Learners, Proficient Users’ in mind, the Chinese Department create more opportunities for students to be exposed to Chinese culture and values, and also to enhance their learning of the Chinese Language (CL).
 
-During the MT Fortnight & Language Camp, the activities are multi-disciplinary integrating subjects such as English, Physical Education, Art, Music, Drama, and  [Character and Citizenship Education (CCE)](http://www.moe.gov.sg/education/syllabuses/character-citizenship-education/files/2014-character-citizenship-education-eng.pdf) . The learning of CL is thus made more fun, engaging and effective through multi-disciplinary settings. These activities arouse students’ interest in learning Chinese culture and better equip them with the varied use of the language in different contexts. Students learn to be more confident, adaptable, innovative, and resilient.
+During the MT Fortnight & Language Camp, the activities are multi-disciplinary integrating subjects such as English, Physical Education, Art, Music, Drama, and Character and Citizenship Education (CCE). The learning of CL is thus made more fun, engaging and effective through multi-disciplinary settings. These activities arouse students’ interest in learning Chinese culture and better equip them with the varied use of the language in different contexts. Students learn to be more confident, adaptable, innovative, and resilient.
 
   
 

@@ -5,38 +5,33 @@ description: ""
 third_nav_title: Curriculum
 variant: markdown
 ---
-**COMPASSIONATE CHAMPIONS, ROOTED SINGAPOREANS &amp; CITIZENS OF THE WORLD**
+**Developing Flourishing, Compassionate Yumin Champions who are rooted to Singapore**
+
+The Character and Citizenship Education (CCE) curriculum in Yumin Primary incorporates the school’s PosED curriculum and is enacted via a three-phase approach - _Teaching_, _Reinforcement_ and _Application_. Our programme under the _Reinforcement_ phase is our Values in Action Project AC3E.
+
+Project AC3E is a structured school-wide Project-Based Learning programme designed to help students apply their knowledge and skills to real-life situations through a values-based learning process. It incorporates Values in Action (VIA) and collaborative learning, harnesses students’ sense of ownership, and encourages students to initiate purposeful projects that will make a difference to others.
+
+The thinking protocol, based on the Design Thinking framework with four phases of Design for Change, requires students to **_Feel_** _out a problem, **Imagine** possible solutions, **Do** to make changes_ and finally, **_Share_** _the story._ This FIDS process enables students to go through in-depth inquiry, engage in asking questions, source for information, utilise relevant resources and develop answers to meet the needs of the beneficiaries for whom their project was intended. In so doing, problem solving skills, critical and creative thinking as well as digital literacy are explicitly taught and assessed.
+
+Through the projects, students are engaged in authentic situations where they would present and interact with their fellow school mates or people beyond the school community. The reflective process that students take has also helped them to critique and evaluate their learning as well as ascertain how they have value-added or impacted the beneficiaries of their choice. More importantly, the PBL approach provided students with the opportunity to make a difference to the community while instilling in them, sound values, good character and citizenry. We hope that the learning gained by the students is translated into better self-management, and enables them to influence their peers positively.
+
+We hope that after their six-year journey with us, our students will:
+
+i)         develop strategies which will enable them to take a proactive approach in dealing with issues which may confront them in their lives;
+
+ii)       lead lives that have more positive emotion, more achievement and more meaning and purpose; and
+
+iii)      have confidence in themselves, to look to the future with optimism and to be successful.
+
+**VIA/LLP Framework**
+
+Project AC3E (Active Contributor, Caring Citizen Experiences)**
+
+  ![](/images/LLP12024.png)
+
+**Level VIA Activity**
+![](/images/LLP22024.png)
 
 
-To develop Yumin Champions in 21st Century competencies defined through Champions by the school’s Champion Outcomes Indicators
-
-  
-
-Provide a platform for Yumin Champions to create deep learning experiences for new knowledge creation and purposeful use
-
-**FRAMEWORK &amp; PEDAGOGICAL APPROACHES**
-
-LEARNING FOR LIFE PROGRAMME:&nbsp;**Project&nbsp;ACTIVAtE**
-
-![](/images/LLP%20-%20ACTIVATE.png)  
-
-**Project&nbsp;ACTIVAtE**&nbsp;is a structured school-wide project-based learning programme designed to facilitate a progressive values-based learning process that involves students applying knowledge and skills to real-life situations based on themes/concepts. It incorporates Values-in-Action (VIA), which is an important component in CCE that harnesses pupils’ sense of ownership, esprit de corps, and proactivity in self-initiating purposeful projects that will make a difference to others.&nbsp;
-
-  
-
-**KEY PROGRAMMES &amp; LEARNING EXPERIENCES**
-
-
-
-| Programme / Level  | Expected Outcome |
-| -------- | -------- | 
-| P3 <br> Project EN-reach     | Students will use Design Thinking to raise the importance of a clean, green and sustainable society through upscaling projects.     | 
-| P4 <br> Project Gratitude | Students to apply Design Thinking to plan activities to show appreciation to the different groups of people within the school community.
-| P5 <br> Project Zero Waste | Through the Design Thinking process, students advocate the importance of caring for and improving our environment.
-| P6 <br> Project Care | Students will learn to care for and appreciate the Elderly in our community.
-
-**Going beyond: Impacting Change in Extended Community**
-
-![](/images/LLP2020.jpg)
-
-Napoleon is one of the superheroes from 15 different countries that make up Design for Change Global's Student Council. The Student Council acts as a platform for children to voice their thoughts and opinions, and allows these viewpoints to be incorporated into the international I CAN movement. In 2020, Napoleon continues his &nbsp;“I CAN” journey to the extended community by hosting live sessions to teach others various cubing techniques.
+**School VIA Activity**
+![](/images/LLP32024.png)

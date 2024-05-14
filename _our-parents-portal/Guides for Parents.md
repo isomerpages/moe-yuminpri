@@ -4,8 +4,6 @@ permalink: /our-parents-portal/Guides-for-Parents/
 description: ""
 variant: markdown
 ---
-[Uniform Order Details](/uniform-order-details)<br>
-[HBL Support for Parents](HBL-Support-for-Parents)<br>
 [P1 Registration](https://www.moe.gov.sg/primary/p1-registration)<br>
 [Schoolbag - The Education News Site](https://www.schoolbag.edu.sg/)<br>
 [MOE Website](https://www.moe.gov.sg/)<br>

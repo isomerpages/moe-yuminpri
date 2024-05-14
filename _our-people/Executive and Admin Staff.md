@@ -9,7 +9,7 @@ variant: markdown
 | Admin Manager     | Miss Lam Chui Lin Christina
 | Admin Manager | Mdm Vivian Ho Pei Shan
 | Operations Manager | Mr Surya Mulyono Bin Ahmad
-| CSO | Mr Samuel Teo <br> Mdm Pauline Yeo<br>Ms Kam Siew Ling Joy
+| CSO | Mdm Pauline Yeo<br>Ms Kam Siew Ling Joy
 |OSO | Mr Hassan Bin Ismail <br> Mdm Susie Tan Gek Ngoh<br> Mr Ahshokumaar <br> Mr Tan Teck Gee<br>Miss Mariyal d/o Japamani
 |Admin Assistant | Mdm Chris Yeow Poh Geok 
 | Admin Executive | Mr Muhammad Fikri Bin Sharif

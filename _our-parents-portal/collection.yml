@@ -2,8 +2,8 @@ collections:
   our-parents-portal:
     output: true
     order:
-      - School Waiting List.md
       - Primary 1 Registration.md
+      - School Waiting List.md
       - Financial Assistance Scheme (FAS).md
       - Direct School Admission.md
       - Guides for Parents.md

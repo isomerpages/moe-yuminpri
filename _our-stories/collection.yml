@@ -2,7 +2,7 @@ collections:
   our-stories:
     output: true
     order:
-      - Archives.md
       - Yumin in the News.md
       - Staff Achievements.md
       - Student Achievements.md
+      - Archives.md

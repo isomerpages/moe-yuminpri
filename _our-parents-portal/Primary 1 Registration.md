@@ -12,5 +12,4 @@ primary schools in the following year.</p>
 <p>Please click <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information.</p>
 <p></p>
-<p><strong>Please <em><a href="https://go.gov.sg/yuminprischwaitlist" rel="noopener noreferrer nofollow" target="_blank">fill up this form</a></em> if you would like to be on the waitlist for our school.</strong>
-</p>
+<p></p>

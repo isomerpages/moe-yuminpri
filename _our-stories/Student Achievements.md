@@ -4,6 +4,288 @@ permalink: /our-stories/Student-Achievements/
 description: ""
 variant: tiptap
 ---
+<p>2023</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Student(s)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award Received</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wang Shifan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Compassion</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>National Chinese Calligraphy Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Excellence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wang Shicong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Consolation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lin Xingu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Perseverance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Consolation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bhandari Lakshhya Saurabh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+<td rowspan="15" colspan="1">
+<p>National Sports Games 2023 - SPSSC National Volleyball Competition</p>
+</td>
+<td rowspan="15" colspan="1">
+<p>League 2, 2<sup>nd </sup>Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Izzat Bin Zaki</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dmitri Sharique Bin Muhd Fauzi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Afiq Nur Hakim Bin Zulkarnain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Jun Hao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Compassion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Li Jiaying Tate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Compassion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ammar Zharif Biin Mazli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ishvin Dev Singh s/o Suraj Daw</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhd Ilman Rafaaelli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohd Faiz Bin Mohd Faizal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Safyn Ali Bin Sahar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhd Firrizqi Bin Muhd Farhann</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohamed Huzaifi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Perseverance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chai Ming Kai, Mikel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Perseverance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shazad Arib Matin Bin Adam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Perseverance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Xander Sia Xian Zhe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+<td rowspan="11" colspan="1">
+<p>National Sports Games 2023 - SPSSC East Zone Soccer Championships 2023</p>
+</td>
+<td rowspan="11" colspan="1">
+<p>Top 8 in the East Zone</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Paleti Revanth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Om Kumar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ding Qiyun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chan Shun Yu, Xaeus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Compassion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Darius Ho Lai Teck</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Compassion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ethan Toh Yi Sheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Compassion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tang Ting Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Compassion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hamizan Bin Hasmid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cavan Lim Kai Ze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Perseverance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cheo Sen Gui, Will</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Perseverance</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>2022</p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -873,81 +1155,5 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>2021</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Student(s)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Competition</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Award Received</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan En Qi
-<br>Ameer Zarif
-<br>Darwin Yip</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Respect
-<br>3 Respect
-<br>3 Compassion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Moo-O Plus</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze Medal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Bendon Tan
-<br>Syeda Zainab</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4 Respect
-<br>5 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mythos Junior Orators</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nelini Chandrasiri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mythos Junior Orators</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd Position in the Final</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p></p>

@@ -19,7 +19,7 @@ writing.</p>
 Book Approach (SBA) and Modified Language Experience Approach (MLEA). As
 students progress up the levels, teachers reinforce the learning of language
 skills through Supported Reading (SR) and Know-Want to know-Learnt (KWL).</p>
-<p><strong>MOE Programmes</strong>
+<p><strong>MOE Programmes</strong> 
 <br>These programmes aim to support students in their learning of literacy
 skills.</p>
 <table style="minWidth: 75px">
@@ -61,7 +61,7 @@ for dyslexia conducted at the end of Primary 2.</p>
 <p>Our programmes and learning experiences support the development of emerging
 21<sup>st </sup>Century Competencies which include critical, adaptive and
 inventive thinking, and communication, collaboration and information skills.</p>
-<p><strong>Book Character's Day</strong>
+<p><strong>Book Character's Day</strong> 
 <br>Every year, students and staff look forward to a particular day where
 they bring characters from their favourite books to life, dressing up and
 sharing about these characters with each other. These certainly add even
@@ -82,7 +82,7 @@ on MOE Facebook!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4%20-%20Book%20Character%20Day.jpg">
 </div>
-<p><strong>Integrated Outdoor Learning Experiences (iOLE)</strong>
+<p><strong>Integrated Outdoor Learning Experiences (iOLE)</strong> 
 <br>Students from all levels go on exciting learning journeys which support
 and enrich the learning of various STELLAR units. For instance, students
 visit zones within the Singapore Zoo and River Wonders for exciting and
@@ -101,7 +101,7 @@ writing - just to name a few!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng7.jpg">
 </div>
 <p></p>
-<p><strong>Reading Race</strong>
+<p><strong>Reading Race</strong> 
 <br>Reading Race is a reading incentive programme designed to motivate and
 reward students for reading a variety of books. It also allows students
 to explore books from the school, home and public libraries. Students complete
@@ -189,8 +189,7 @@ and critical thinking skills. This hands-on approach ensures that students
 not only learn the techniques but also understand their practical applications
 in the world of broadcast journalism.</p>
 <p></p>
-<p></p>
-<p><strong>Mythos (Junior Orators) Storytelling Competition</strong>
+<p><strong>Mythos (Junior Orators) Storytelling Competition</strong> 
 <br>This competition, which is conducted by the Anglo-Chinese Junior College
 (ACJC) Debate and Oratorical Society, is conducted annually. It allows
 students the opportunity to hone their speaking skills, and participants
@@ -208,7 +207,8 @@ have emerged in the Top 5 positions!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng24.png">
 </div>
-<p><strong>Moo-O Plus</strong>
+<p></p>
+<p><strong>Moo-O Plus</strong> 
 <br>The Moo-O Plus competition is an annual event that aims to cultivate in
 students, the love for the English Language, and motivate them to read
 and speak fluently and expressively in English through fun and engaging
@@ -228,12 +228,13 @@ activities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng28.jpg">
 </div>
-<p><strong>PESA</strong>
+<p><strong>PESA</strong> 
 <br>The YMCA Plain English Speaking Awards (PESA) is a national competition
 organised by YMCA of Singapore, in partnership with the Ministry of Education
 and the Speak Good English Movement. An annual competition, PESA promotes
 public speaking in Plain English and provides a platform for students to
 hone their oratorical skills and cultivate confidence in public speaking.</p>
+<p></p>
 <p>Suggested Link:
 <br>Click <a href="/files/Suggested%20Links.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view</p>

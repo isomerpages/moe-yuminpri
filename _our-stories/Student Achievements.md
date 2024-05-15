@@ -563,6 +563,225 @@ variant: tiptap
 <p>Silver</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jin Zirui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Math Kangaroo Contest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sun Chengyang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Compassion</p>
+</td>
+<td rowspan="7" colspan="1">
+<p>National Mathematical Olympiad of Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wang Shifan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Woo Junyou Evans</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kaelan Tan Kai Zer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honorable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Leow Kai Wen Caden</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honorable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Om Kumar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Respct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honorable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Paleti Revanth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honorable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wang Shicong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Respect</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>Annual Mathlympics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wang Shifan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fang Zitong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ho Rui Jia Jovianne</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Woo Junyou Evans</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lin Xinyu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Perseverance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Primary Schools Chinese Story-Telling Competition 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Excellence Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lin Xinyu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Perseverance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10<sup>th</sup> Speak Mandarin Campaign Family Talent Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finalist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chia Jing Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15<sup>th</sup> YMCA Mandarin Speaking Awards (MSA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Competed in the Semi-Finals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Pin Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Respect</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>4th Text Recital Competition for Primary and Secondary Schools</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award Individual</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Pin Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award Individual</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

@@ -1,7 +1,8 @@
 ---
 title: Covid19 Appreciation Messages
-permalink: /our-stories/Covid-19-Appreciation-Messages/
+permalink: /covid-19-appreciation-messages/
 description: ""
+variant: tiptap
 ---
 **THANK YOU HEALTHCARE WORKERS**
 
@@ -43,4 +44,3 @@ Primary 4 students did their LLP/VIA project by showing gratitude to the SAF thr
 ![](/images/20200717_160752.jpeg)
 ![](/images/20200717_160823.jpg)
 ![](/images/20200730_100212.jpeg)
-

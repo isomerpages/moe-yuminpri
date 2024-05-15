@@ -10,7 +10,6 @@ variant: markdown
 [MySkillsFuture Student Portal](https://www.myskillsfuture.gov.sg/content/student/en/primary/about/myskillsfuture-for-students.html)<br>
 [Scholastic Learning Zone](https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGPY5JY)<br>
 [School Library Resources](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)<br>
-[Socrative](https://www.socrative.com/)<br>
 [Student Learning Space](https://vle.learning.moe.edu.sg/login)<br>
 [Yumin Primary Library](https://schoolibrary.moe.edu.sg/yuminpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 
@@ -45,5 +44,5 @@ variant: markdown
 [MOE Website](https://www.moe.gov.sg/)<br>
 [PSLE Information (SEAB)](https://www.seab.gov.sg/home/examinations/psle)<br>
 [P1 Registration (MOE)](https://www.moe.gov.sg/primary/p1-registration)<br>
-[School Terms &amp; Holidays 2022](https://www.moe.gov.sg/news/press-releases/20210811-school-terms-and-holidays-for-2022)<br>
+[School Terms &amp; Holidays 2024](https://www.moe.gov.sg/news/press-releases/20230807-school-terms-and-holidays-for-2024)<br>
 [Schoolbag - The Education News Site](https://www.schoolbag.edu.sg/)

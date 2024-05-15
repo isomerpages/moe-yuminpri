@@ -236,5 +236,5 @@ public speaking in Plain English and provides a platform for students to
 hone their oratorical skills and cultivate confidence in public speaking.</p>
 <p></p>
 <p>Suggested Links:
-<br>Click <a href="/files/Suggested%20Links.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view</p>
+<br>Click <a href="/files/Suggested_Links.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<a href="/files/Suggested%20Links.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>to view</p>

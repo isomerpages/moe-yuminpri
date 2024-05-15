@@ -283,6 +283,519 @@ variant: tiptap
 <p>6 Perseverance</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sun Chenyang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Compassion</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Raffles Institution Primary Math World Contest (Junior)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>High Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fan Jiarui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ong Trieu Vien</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raffles Institution Primary Math World Contest (Open)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fan Jiarui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Compassion</p>
+</td>
+<td rowspan="7" colspan="1">
+<p>Asia-Pacific Mathematical Olympiad for Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sun Chenyang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wang Shifan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chrysta Abigail Lam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ong Trieu Vien</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Evans Woo Junyou</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Om Kumar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Daniyal Bin Abdul Hamid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Respect</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Moo-O Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nazneen Nyla Binte Epeer Mohammed Farez</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Yi Hang, Wesley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brendon Tan Choon Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Mythos 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Second Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan En Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finalist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tumbaraguddi Shuban Rudrappa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lian En Xuan Acelynn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games - Track and Field Championship 2023 Junior Division
+for Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7<sup>th</sup> Position in 1000m Event</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Tian Yang Ashton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Compassion</p>
+</td>
+<td rowspan="14" colspan="1">
+<p>SPSSC National Volleyball Competition Junior Division</p>
+</td>
+<td rowspan="14" colspan="1">
+<p>Tier 2 2nd Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wang Shicong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Compassion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wang Shifan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Compassion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aaron s/o Kumaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ameer Zarif Bin Muhammad Nurhisham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ayden Lim Kai Thong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Wei Lun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Zi Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Seet Kaile Elon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sia Jun Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teo Jun Rong, Jalen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Perseverance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Angel Loh Wee Kiat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Choon Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ting Zhi Hao, Daylen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ekansh Jain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raffles Science Olympiad 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>James Lee Shi Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Compassion</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Singapore Creative Story Writing Competition for Primary Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sun Chengyang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wang Shicong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Compassion</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Ngee Ann National Students' Calligraphy Competition 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top-3 Winners (Bronze)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wang Shifan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wang Shicong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Compassion</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>34<sup>th</sup> National Schools Chinese Calligraphy Competition 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Excellence Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wang Shifan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Excellence Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zheng Zimo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Go Academy Cup National Go Championship 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Consolation Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Anas Lutfi Bin Deary Rahmayanto</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Compassion</p>
+</td>
+<td rowspan="10" colspan="1">
+<p>Singapore Youth Festival 2023 Art Exhibition</p>
+</td>
+<td rowspan="10" colspan="1">
+<p>Certificate of Recognition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ekansh Jain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Compassion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Low Xin Hwee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Compassion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aura Na'omi Binte Muhammad Khaidir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aqmar Nor Rusyaidi Bin Norhisham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Hong Mai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Alysha Binte Abdul Hamid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Compassion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chia Rui En Rhynis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Compassion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Damien Tee Yong'An</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Perseverance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>'Arifah Humaira Binte Deary Rahmayanto</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

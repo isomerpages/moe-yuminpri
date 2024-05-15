@@ -89,3 +89,53 @@ the challenges and intricacies of creating a system of writing.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SS_8.jpg">
 </div>
 <p></p>
+<p><strong>Upcoming NE Learning Journeys</strong>
+</p>
+<p>In Yumin Primary, we provide an opportunity for our pupils to acquire
+and experience National Education through educational and interactive learning
+journeys. At the end of a pupils' primary education, he/she would be equipped
+with the necessary knowledge to appreciate and understand the cultural
+diversities.</p>
+<p>The upper primary students will be going for learning journeys to the
+following venues:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geylang Serai Heritage Centre (Term 2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indian Heritage Centre (Term 3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asian Civilisation Museum (Term 4)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

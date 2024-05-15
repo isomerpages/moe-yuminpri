@@ -764,11 +764,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>3 Respect</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="10" colspan="1">
 <p>4th Text Recital Competition for Primary and Secondary Schools</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bronze Award Individual</p>
+<p>Bronze Award</p>
 </td>
 </tr>
 <tr>
@@ -779,7 +779,95 @@ variant: tiptap
 <p>3 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bronze Award Individual</p>
+<p>Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chin Rui Qian Alfie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chin Si Rui Trixie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jaslyn Loong Ka Hing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shan Yaoyang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wang Shicong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wang Shifan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yao Ziyu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zheng Zimo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award</p>
 </td>
 </tr>
 </tbody>

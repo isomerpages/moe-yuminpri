@@ -4,6 +4,112 @@ permalink: /our-stories/Student-Achievements/
 description: ""
 variant: tiptap
 ---
+<p>2024</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Student(s)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award Received</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lin Xinyu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Chinese Creative Reading Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Consolation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lin Xinyu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Chinese Calligraphy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Haziq Bin Hafiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dunman STEM Game Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lynn Zhou Hengling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Care</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>Dunman Design Challenge</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>Top 3 Design</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohamed Irsyad Rayyan Bin Mohamed Irfaan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sun Chengyang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sim Jia En Cherlynn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Care</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>2023</p>
 <table style="minWidth: 100px">
 <colgroup>

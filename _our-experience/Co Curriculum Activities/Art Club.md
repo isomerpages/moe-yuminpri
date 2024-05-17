@@ -14,7 +14,7 @@ variant: tiptap
 <p><strong>CCA Timing</strong>
 </p>
 <p>Thursday: 1 -3 pm</p>
-<p><strong>Objective</strong>
+<p><strong>Objectives</strong>
 </p>
 <p>Our Art Club programme is designed to encourage students to develop their
 artistic skills and techniques, broaden their creative thinking, deepen

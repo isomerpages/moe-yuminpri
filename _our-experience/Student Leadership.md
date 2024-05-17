@@ -123,3 +123,34 @@ and foster the capabilities needed for future leadership roles.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/STLD___Picture_14.png">
 </div>
 <p></p>
+<p>PSL Leadership Role</p>
+<p>Peer Support Leaders, or PSLs, play an important role in developing a
+caring and inclusive culture in school. The PSLs work closely with the
+teachers of the Student Leadership Team and the Form Teachers to provide
+an additional layer of timely peer support and encourage early help-seeking
+and positive coping strategies.</p>
+<p>Our PSL selection criteria is shown below:</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL_Pic1.png">
+</div>
+<p>Games Corner @ Yumin Primary is a PSL-supported initiative. Aim to promote
+healthy relationships and inclusivity, the Games Corner is open during
+recess and students are invited to play and bond at the Games Corner.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/games_corner_photo_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/games_corner_photo_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/games_corner_photo_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/games_corner_photo_4.jpg">
+</div>
+<p></p>

@@ -3,104 +3,238 @@ title: English
 permalink: /our-experience/Curriculum/english/
 description: ""
 third_nav_title: Curriculum
+variant: tiptap
 ---
-**JOY OF LEARNING, JOY OF TEACHING**
-
-
-Empowering & developing students to be confident, empathetic and effective communicators.
-
-**FRAMEWORK & PEDAGOGICAL APPROACHES** 
-
-**Strategies for English Language Learning and Reading (STELLAR)**
-In Yumin, we adopt the recommended STELLAR programme which helps to strengthen students’ language skills. Some of the strategies used in the lower primary classrooms include Shared Book Approach (SBA) and Modified Language Experience Approach (MLEA). As students progress up the levels, teachers reinforce the learning of language skills through Supported Reading (SR) and Know-Want to know-Learnt (KWL).
-
-  
-
-**MOE Programmes**<br>
-These programmes aim to support students in their learning of literacy skills.
-
-
-
-| Learning Support Learning Support Programme (LSP) for P1 & P2 students| Reading Remediation Programme (RRP) for P3 & P4 students | School-based Dyslexia Remediation Programme (SDR) for P3 & P4 students |
-| -------- | -------- | -------- |
-| LSP is a specialised early intervention programme that provides additional support for students with weaker literacy skills.     | RRP aims to provide support for Pri 3 and Pri4 students who may struggle in reading with understanding.     | Students are identified for support through a systematic screening process for dyslexia conducted at the end of Pri 2.     |
-
-**KEY PROGRAMMES & LEARNING EXPERIENCES**
-
-**Book Character's Day**<BR>
-Every year, students and staff look forward to a particular day where they bring characters from their favourite books to life, dressing up and sharing about these characters with each other. These certainly add even more colour and vibrancy to the typical school day. We were even featured on MOE Facebook!
-
-![](/images/Picture1%20-%20Book%20Character%20Day.jpg)
-![](/images/Picture2%20-%20Book%20Character%20Day.jpg)
-![](/images/Picture3%20-%20Book%20Character%20Day.jpg)
-![](/images/Picture4%20-%20Book%20Character%20Day.jpg)
-
-**Intergrated Outdoor Learning Experiences (iOLE)**<br>
-Students from all levels go on exciting learning journeys which support and enrich the learning of various STELLAR units. For instance, students visit zones within the Singapore Zoo for exciting and experiential learning. From these experiences, students are able to apply their knowledge in creating posters about endangered animals and journal writing - just to name a few!
-![](/images/Eng5.jpg)
-![](/images/Eng6.jpg)
-![](/images/Eng7.jpg)
-![](/images/Eng8.jpg)
-
-**Reading Programme**<br>
-
-Reading Bingo<br>
-Reading Bingo is a reading incentive programme designed to motivate and reward students for reading a variety of books. It also allows students to explore books from the school, home and public libraries. Students choose tasks from the choice board to complete and with every five tasks completed, they form one bingo! They will then be awarded a reading badge or stationery pack.
-![](/images/Eng9.png)
-![](/images/Eng10.jpg)
-
-
-Learning Values through Books & Celebrating Genres<br>
-Books are powerful – not only do they allow readers to pick up language skills, they also teach and enable readers to gain insights on values through the characters and circumstances in the story.
-
-  
-
-In 2022, the English Department introduced and celebrated the two genres - Fables and Pourquoi. Not only were students recommended to a variety of books to enable them to appreciate these genres, but the department also showcased texts related to this genre that highlighted the school values. This was a great opportunity for students to identify, explore and internalise the school values while learning about the features of the Fantasy genre.
-![](/images/Eng11.jpg)
-![](/images/Eng12.jpg)
-  
-
-Not only that, Yumin Champions applied what they had learned about the genres by trying their hand at creating their very own fables and pourquoi tales in the form of stories or comic strips. The response was overwhelming and many of our students proved that they were budding illustrators and writers!
-![](/images/Eng13.jpg)
-![](/images/Eng14.jpg)
-
-**Speaking Programme**
-
-**One Minute of Fame**<br>
-One Minute of Fame is a platform in which students develop their confidence in public speaking. It takes place during recess on the last week of every month. Students select their own choice of topics or one on the list provided by their teachers. Through this initiative, students learn and practise what it takes to become effective public speakers whilst sharing their thoughts and ideas enthusiastically.
-![](/images/Eng15.jpg)
-![](/images/Eng16.png)
-![](/images/Eng17.png)
-
-
-**Speech & Drama**
-
-Our in-house Speech and Drama Programme (Primary 2) provides students with an opportunity to learn techniques necessary for effective communication while having fun! Integrated into the English Language curriculum, a showcase which is a culmination of a 12-week programme is presented to a live audience. Students also take this chance to showcase their exuberance and talents.
-![](/images/Eng16.jpg)
-![](/images/Eng17.jpg)
-![](/images/Eng18.jpg)
-![](/images/Eng19.jpg)
-
-**External Competition**
-
-**Mythos (Junior Orators) Storytelling Competition**<br>
-This competition, which is conducted by the Anglo-Chinese Junior College (ACJC) Debate and Oratorical Society, is conducted annually. It allows students the opportunity to hone their speaking skills, and participants have gone on to become passionate and articulate speakers. Participants submit videos of themselves storytelling, and some of our Yumin Champions have emerged in the Top 5 positions!
-![](/images/Eng22.png)
-![](/images/Eng23.png)
-![](/images/Eng24.png)
-
-
-
-**Moo-O Plus**<br>
-The Moo-O Plus competition is an annual event that aims to cultivate in students, the love for the English Language, and motivate them to read and speak fluently and expressively in English through fun and engaging activities.
-![](/images/Eng25.png)
-![](/images/Eng26.png)
-![](/images/Eng27.png)
-![](/images/Eng28.jpg)
-
-
-**PESA**<br>
-The YMCA Plain English Speaking Awards (PESA) is a national competition organised by YMCA of Singapore, in partnership with the Ministry of Education and the Speak Good English Movement. An annual competition, PESA promotes public speaking in Plain English and provides a platform for students to hone their oratorical skills and cultivate confidence in public speaking.
-
-Suggested Link:  
-Click [here](/files/Suggested%20Links.pdf) to view
+<p><strong>JOY OF LEARNING, JOY OF TEACHING</strong>
+</p>
+<p>Mission: To empower &amp; develop students to be confident, empathetic
+and effective communicators.</p>
+<p><strong>FRAMEWORK &amp; PEDAGOGICAL APPROACHES</strong>
+</p>
+<p><strong>Strategies for English Language Learning and Reading (STELLAR 2.0)</strong> In
+Yumin, we adopt the recommended STELLAR 2.0 programme which helps to strengthen
+students’ language skills in areas of reading, listening, speaking and
+writing.</p>
+<p>Some of the strategies used in the lower primary classrooms include Shared
+Book Approach (SBA) and Modified Language Experience Approach (MLEA). As
+students progress up the levels, teachers reinforce the learning of language
+skills through Supported Reading (SR) and Know-Want to know-Learnt (KWL).</p>
+<p><strong>MOE Programmes</strong> 
+<br>These programmes aim to support students in their learning of literacy
+skills.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Learning Support Learning Support Programme (LSP) for P1 &amp; P2 students</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Reading Remediation Programme (RRP) for P3 &amp; P4 students</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>School-based Dyslexia Remediation Programme (SDR) for P3 &amp; P4 students</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LSP is a specialised early intervention programme that provides additional
+support for students with weaker literacy skills.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RRP aims to provide support for Primary 3 and Primary 4 students who may
+struggle in reading with understanding.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are identified for support through a systematic screening process
+for dyslexia conducted at the end of Primary 2.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>KEY PROGRAMMES &amp; LEARNING EXPERIENCES</strong>
+</p>
+<p>Our programmes and learning experiences support the development of emerging
+21<sup>st </sup>Century Competencies which include critical, adaptive and
+inventive thinking, and communication, collaboration and information skills.</p>
+<p><strong>Book Character's Day</strong> 
+<br>Every year, students and staff look forward to a particular day where
+they bring characters from their favourite books to life, dressing up and
+sharing about these characters with each other. These certainly add even
+more colour and vibrancy to the typical school day. We were even featured
+on MOE Facebook!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1%20-%20Book%20Character%20Day.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2%20-%20Book%20Character%20Day.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3%20-%20Book%20Character%20Day.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4%20-%20Book%20Character%20Day.jpg">
+</div>
+<p><strong>Integrated Outdoor Learning Experiences (iOLE)</strong> 
+<br>Students from all levels go on exciting learning journeys which support
+and enrich the learning of various STELLAR units. For instance, students
+visit zones within the Singapore Zoo and River Wonders for exciting and
+experiential learning. From these experiences, students are able to apply
+their knowledge in creating posters about endangered animals and journal
+writing - just to name a few!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng7.jpg">
+</div>
+<p></p>
+<p><strong>Reading Race</strong> 
+<br>Reading Race is a reading incentive programme designed to motivate and
+reward students for reading a variety of books. It also allows students
+to explore books from the school, home and public libraries. Students complete
+as many tasks as they can to reach various milestones. They will then be
+rewarded personalised bookmarks and even mystery gifts!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELD___1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELD___2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELD___3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELD___4.png">
+</div>
+<p></p>
+<p><strong>One Minute of Fame</strong>
+</p>
+<p>One Minute of Fame is a platform in which students develop their confidence
+in public speaking. It takes place in class regularly and many students
+feel empowered to share during recess on the last week of every month.
+Students select their own choice of topics or one on the list provided
+by their teachers. Through this initiative, students learn and practise
+what is takes to become effective public speakers whilst sharing their
+thoughts and ideas enthusiastically.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng15.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng16.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng17.png">
+</div>
+<p></p>
+<p><strong>Speech &amp; Drama</strong>
+</p>
+<p>Our in-house Speech and Drama Programme (Primary 2) provides students
+with an opportunity to learn techniques necessary for effective communication
+while having fun! Integrated into the English Language curriculum, showcases
+which are culminations of 12-week programmes are presented to a live audience.
+Students also take this chance to showcase their exuberance and talents.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELD___5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELD___6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELD___7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELD___8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELD___9.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELD___10.jpg">
+</div>
+<p></p>
+<p><strong>Storytelling Programme</strong>
+</p>
+<p>Our storytelling programme is meticulously designed for our primary 3
+students to foster their writing and speaking skills. Across two weeks,
+students explore the rich elements of storytelling, including story structure,
+character development, and plot enhancement. Through engaging activities
+in the classroom and theatrette settings, children learn to express themselves
+in Standard English, both vocally and physically. Creativity is encouraged
+as each student crafts and presents original stories, enhancing their confidence
+and narrative skills in a supportive environment.</p>
+<p></p>
+<p><strong>Broadcast Journalism Programme</strong>
+</p>
+<p>The broadcast journalism programme is designed to equip primary 4 students
+with essential communication and media skills. The curriculum, spread across
+two weeks, covers a range of activities from interviewing techniques to
+crafting engaging news reports, all tailored to enhance students' communication
+skills. Students learn to apply their knowledge in real-world scenarios,
+developing both individual and collaborative projects that build confidence
+and critical thinking skills. This hands-on approach ensures that students
+not only learn the techniques but also understand their practical applications
+in the world of broadcast journalism.</p>
+<p></p>
+<p><strong>Mythos (Junior Orators) Storytelling Competition</strong> 
+<br>This competition, which is conducted by the Anglo-Chinese Junior College
+(ACJC) Debate and Oratorical Society, is conducted annually. It allows
+students the opportunity to hone their speaking skills, and participants
+have gone on to become passionate and articulate speakers. Participants
+submit videos of themselves storytelling, and some of our Yumin Champions
+have emerged in the Top 5 positions!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng22.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng23.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng24.png">
+</div>
+<p></p>
+<p><strong>Moo-O Plus</strong> 
+<br>The Moo-O Plus competition is an annual event that aims to cultivate in
+students, the love for the English Language, and motivate them to read
+and speak fluently and expressively in English through fun and engaging
+activities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng25.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng26.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng27.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng28.jpg">
+</div>
+<p><strong>PESA</strong> 
+<br>The YMCA Plain English Speaking Awards (PESA) is a national competition
+organised by YMCA of Singapore, in partnership with the Ministry of Education
+and the Speak Good English Movement. An annual competition, PESA promotes
+public speaking in Plain English and provides a platform for students to
+hone their oratorical skills and cultivate confidence in public speaking.</p>
+<p></p>
+<p>Suggested Links:
+<br>Click <a href="/files/Suggested_Links.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<a href="/files/Suggested%20Links.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>to view</p>

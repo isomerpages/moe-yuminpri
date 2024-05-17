@@ -3,33 +3,41 @@ title: Art Club
 permalink: /our-experience/Co-Curriculum-Activities/art-club/
 description: ""
 third_nav_title: Co Curriculum Activities
+variant: tiptap
 ---
-**Teachers-In-Charge**  
-  
-Miss Shuping Sheila\*  
-Miss Nurul Ain Bte Samsuri  
-Mdm Illia Sulastri Binte Mohamed    
-Ms Leom Li Yan
-
-![](/images/information_artclub.png)
-![](/images/Slide16a.jpg)
-
-![](/images/art1.jpeg)
-![](/images/art2.jpeg)
-![](/images/art3_1.jpeg)
-![](/images/art4.jpeg)
-![](/images/art5.jpeg)
-![](/images/art6.jpeg)
-![](/images/art8.jpeg)
-![](/images/art9.jpeg)
-
-**Student Testimonial**  
-“Joining the Art Club has allowed me to express myself through the various art forms and colours. I learnt that colours can affect a person’s mood. As for me, I love bright colours in my artwork. Doing artwork requires passion and patience. I love being a part of the Art Club family!”  
-
-**_Sim Jolyn (5B)_**  
-  
-“My two years in the Art Club have been very enriching. I have gained knowledge on different types of Art work and my artistic skills have also improved. Other than drawing and painting, I am also exposed to craftwork such as wire sculpting. My friends and I created several wire sculptures for the Singapore Youth Festival Central Judging competition earlier this year. The experience that I gained in taking part in the competition has further motivated me in my artistic quest.”  
-
-**_Mitchel Lee Jun Xian (4B)_**
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR2Zs97PsyrPYtieafkXphU7JSKuUCxfXAKxFxsWrdbOVZ8jBD0SWQs7GsnYERIJepH_L4jSjy_Aq4y/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<p><strong>Teachers-In-Charge</strong>
+</p>
+<p>Miss Shuping Sheila*
+<br>Miss Nurul Ain Bte Samsuri
+<br>Mdm Illia Sulastri Binte Mohamed
+<br>Ms Leom Li Yan</p>
+<p><strong>CCA Timing</strong>
+</p>
+<p>Thursday: 1 -3 pm</p>
+<p><strong>Objectives</strong>
+</p>
+<p>Our Art Club programme is designed to encourage students to develop their
+artistic skills and techniques, broaden their creative thinking, deepen
+their interest in art and produce quality works of art. Our Art Club also
+aims to cultivate important values such as respect, teamwork and perseverance
+by providing students with the opportunities to work collaboratively on
+art projects.</p>
+<p><strong>SYF Achievements</strong>
+</p>
+<p>2015-2023 - Certificate of Recognition</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF2023_PG1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF2023_PG2_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF2023_PG3_.jpg">
+</div>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LDEghxkBzHY?si=BtqUNNshnhigrvSG"></iframe>
+</div>
+<p></p>

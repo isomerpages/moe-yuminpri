@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Co Curriculum Activities
 variant: tiptap
 ---
-<p><strong>Teachers-In-Charge</strong>
+<p><strong>Teachers-In-Charge</strong> 
 <br>Mdm Erawati Luman Yi Xuan*
 <br>Ms Tan Ting Ting
 <br>Miss Lydia Ms Illia Sulastri
@@ -55,5 +55,9 @@ in singing in both solfege and parts.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir_IMG_2695.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choirIMG_2706.jpg">
 </div>
 <p></p>

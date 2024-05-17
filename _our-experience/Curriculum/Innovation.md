@@ -232,9 +232,51 @@ department.</p>
 <p>Project E.C.O</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selected</p>
+<p>Selected Eco Champions and student leaders form teams to conceptualise
+and drive Eco projects to the whole school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WWF Eco School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Environmental club members participate in the WWF Eco School award to
+conceptualise student activities and student-led presentations to promote
+sustainability.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sony Creative Science Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student participants are challenged to create toys using recycled materials
+based on a given theme.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Thinkers Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student participants are challenged to create a solution to a given problem.
+Use of technology such as using of mibro:bit and training teachable machine
+(AI) is allowed.</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>Table 2: Type 3 Opportunities</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/InnovPic17.jpg">
+</div>
+<p>National Thinkers Challenge 2023 Top 3</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/InnovPic18.png">
+</div>
+<p>Sony Creative Science Award 2023</p>

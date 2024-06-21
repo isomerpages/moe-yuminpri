@@ -3,32 +3,16 @@ title: Scouts
 permalink: /our-experience/Co-Curriculum-Activities/Scouts/
 description: ""
 third_nav_title: Co Curriculum Activities
+variant: markdown
 ---
-**Teachers-In-Charge**  
-  
-Miss Yuen Chi Ping*  
-Ms Malathy  
+**Teachers-In-Charge**  <br>
+Miss Yuen Chi Ping*    
 Ms Kaitlynn
 
-<img style="width:50%;float:left" src="/images/Scouts2020a.jpeg">
-		 <img style="width:50%" src="/images/Scouts2020b.jpeg">
-		 
-<img style="width:50%;float:left" src="/images/Scouts2020c.jpeg">
-		 <img style="width:50%" src="/images/Scouts2020d.jpeg">
-		 
-<img style="width:50%;float:left" src="/images/Scouts2020e.jpeg">
-		 <img style="width:50%" src="/images/Scouts2020f.jpeg">
-		 
-<img style="width:50%;float:left" src="/images/Scouts2020g.jpeg">
-		 <img style="width:50%" src="/images/Scouts2020h.jpeg">
-		 
-![](/images/information_scout.png)
-![](/images/Slide28a.jpg)
+**CCA Timing**<br>
+Thursday: 2.15pm - 4.15pm
 
-**Student Testimonial**  
-
-“_I am in Scouts because I enjoy the many interesting activities like hiking and Job Week. During Job Week, I learnt how to be bold and ask for jobs politely. Joining Scouts has enabled me to get to know many people and develop meaningful friendships. When we go for camps, we also get to make friends with Scouts from other schools. A scout is loyal and trustworthy. Joining Scouts was the best decision I have ever made._”  
-
-**_Seetoh Yih Keet (3A)_**
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRiRcSMS0bd2ETuJ6IbjeaqgmS8AgdozOww2cCy6H1TAc0IdSMydzzN_6sBDRFpKU0WkkeIvCUEkDhL/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+**Objectives**<br>
+Scouts Uniformed Group encourages the holistic physical, mental and social development of our students youth with a strong emphasis on duty to country and helping other people.
+		 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTyyhf1FLCi82fiEYW2np0bve7xXf7lVu9WniQVvPpfH4jKJl1MtzPCT9hH94UAxbDXaWY_lXlYf3cQ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>

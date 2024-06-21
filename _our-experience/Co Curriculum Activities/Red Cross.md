@@ -3,28 +3,18 @@ title: Red Cross
 permalink: /our-experience/Co-Curriculum-Activities/red-cross/
 description: ""
 third_nav_title: Co Curriculum Activities
+variant: markdown
 ---
-**Teachers-In-Charge**  
-  
-Mr Low Hiang Meng*  	
+**Teachers-In-Charge**  <br>
+Mr Low Hiang Meng*  	<br>
 Ms Koh Cui Ting Esther  
 Mr Ng Jia Shin
 
-![](/images/information_redcross.png)
-![](/images/Redcross2020a.jpeg)
+**CCA Timing**<br>
+Thursday: 2.15pm - 4.15pm
 
-![](/images/Redcross2020b.jpeg)
-![](/images/Redcross2020c.jpeg)
-![](/images/Redcross2020d.jpeg)
-![](/images/Redcross2020e.jpeg)
-![](/images/Redcross2020f.jpeg)
-![](/images/Redcross2020g.jpeg)
+**Objectives**<br>
+Red Cross Uniformed Group is dedicated to caring and protecting human lives. Red Cross Links are prepared for leadership in responding to emergency appropriately and to treat human lives with dignity.
 
 
-**Student Testimonial**  
-
-“_My four years with the Red Cross have been a fulfilling learning journey. I have learnt values such as respect and perseverance through my CCA. We were also taught first aid skills and one of the skills that I enjoyed learning most is the different types of bandaging. Engaging in team games weekly makes this CCA lively and fun. I feel proud and happy to be a Red Cross member._&nbsp;”  
-
-**_Shawn Lai (6A)_**
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRTXIpjzep94UxELR93JM6VXvwHeQ88HkHyYepZiabHU0yl87jq9CatPyEI50I70uFA1h2qKqLbaOzy/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSyyGkcANoG-mvNBGQTA3iXtucuznq4OYElAMp3as5CKObtUvkrmJJm1xg4RigSJZfqzC1wCQb79PWy/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>

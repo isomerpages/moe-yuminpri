@@ -3,35 +3,24 @@ title: Volleyball
 permalink: /our-experience/Co-Curriculum-Activities/Volleyball/
 description: ""
 third_nav_title: Co Curriculum Activities
+variant: markdown
 ---
 **Teachers-In-Charge**  
   
 Miss Ng Su Chi*  
 Mr Kiew Ji Cai Tim  
-Ms Shimin 
-Miss Kasmini  
+Ms Shi Min
 Coach
 
+**CCA Timing**<br>
+Tuesday: 2.00pm - 4.30pm<br>
+Thursday: 2.00pm - 4.30pm
 
-![](/images/information_volleyball.png)
-![](/images/Volleyball2020a.jpeg)
+**Objectives**
+1. To develop body control and coordination through whole body exercises.
+2. To inculcate Respect (for the game rules, opponents and teammates), Compassion (for others), Integrity (Sportsmanship and Fairplay), Perseverance (Resilience; Mental Strength)
+3. To foster collaboration and teamwork (Relationship Management)
+4. To provide platforms for students to experience the fulfillment of self-improvement (Lead-Self)<br><br>
 
-![](/images/Volleyball2020b.jpeg)
 
-![](/images/Volleyball2020c.jpeg)
-
-![](/images/Volleyball2020d.jpeg)
-![](/images/Volleyball2020e.jpeg)
-![](/images/Volleyball2020f.jpeg)
-
-**Student Testimonial**
-
-  
-
-In Primary 3, when I first started playing volleyball, I begin my journey in acquiring various volleyball skills and techniques and was able to hone them in training and demonstrate them in the many competitions I participated. Furthermore, through the training regimes, leadership trainings and competitions, I have developed a strong passion for volleyball, gained valuable experiences and cultivated worthy traits like discipline, resilience, and sportsmanship. To top it off, our achievements this year was memorable , with the juniors emerging champions and seniors, 1st runner-up. This victory would not have been possible without the help of our teachers and coach and they have my utmost respect as they have mould us to be what we are today.
-
-  
-
-Name of student:&nbsp; **_Gabriel Chia (Captain of 2016) currently in Victoria School_**
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJeLSNeG7FS8vm3hCyOvCUJbDOCKvei2taC2EjHTHhlxULq-dDEyBFofGOUQarjhUMgNAQb_OBPgHP/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ0_MDd093zl33EgyZRAcUVLwH9iI2CrMHyHESHSmSN1NuIka8Uuj157LrQbipIM9gbBgpSW1tyKWHu/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>

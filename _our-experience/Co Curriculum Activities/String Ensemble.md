@@ -3,46 +3,30 @@ title: String Ensemble
 permalink: /our-experience/Co-Curriculum-Activities/string-ensemble/
 description: ""
 third_nav_title: Co Curriculum Activities
+variant: markdown
 ---
-**Teachers-In-Charge**  
-  
-Mdm Gu Haiying*  
-Ms Jin Qi  
-Ms Siti Masyitah  
-Ms Sharon Sin  
-Coach
+**Teachers-In-Charge**  <br>
+Ms Jin Qi<br>
+Mrs Mak Zihui<br>
+Ms Kasmini Bte Kasmohen<br>
+Ms Khairiani Abdul Hamid Ali
 
-![](/images/information_strings.png)
+
 **CCA Timing**  
-Tuesday and Thursday: 2:00pm - 4.00pm  
+Tuesday: 2.00pm - 4.00pm<br>
+Thursday: 1.00pm - 3.00pm
   
 **Objectives**  
 
-*   To participate in activities to learn the skills and techniques of playing the string instruments.
-*   To provide pupils opportunities to work collaboratively to apply their learning and showcase their skills.
-*   To promote the appreciation of the cultural music.
-*   To develop pupils' ability to think critically and show confidence in making judgement to the arts works using appropriate vocabulary.
-*   To inculcate values and provide opportunities for character and leadership development.
+1. To develop passion and acquire the skills and techniques in playing the string instruments.
+2. To promote appreciation of the various genres of music.
+3. To work collaboratively to apply their learning and showcase their skills.
+4. To build character such as confidence, teamwork and discipline.
 
   
 **Achievements**  
-Certificate of Accomplishment at the 2018 SYF (Singapore Youth Festival) competition  
-Distinction at 2016 SYF  
-Certificate of Accomplishment at the 2012 and 2014 competition  
+2024: SYF AP for Instrumental Ensemble (Strings) - Certificate of Accomplishment<br>
+2022: SYF AP for Instrumental Ensemble (Strings) - No Benchmarking
   
-**Student Testimonial**  
 
-_“Being in the String Ensemble has been a great and interesting experience for me. Nothing beats being in a CCA that develops my interest in music and helps me discover my hidden talent at playing the violin. I recently took the ABRSM violin examination and it was a very good experience.”_  
-
-**_Verani Wu Huiling (4B)_**  
-  
-_“I enjoy being in String Ensemble as I have built great friendships with my CCA friends. We perform together for special events such as National Day and Teachers’ Day.&nbsp;  
-My friends and I find it challenging learning to play new songs. However, as we practise more, we eventually become better. I intend to be a dedicated member of the String Ensemble and continue to hone my skills.”_  
-
-**_Isabelle Lim Shi Jie (4A)_**
-
-![](/images/String%20Ensemble1.jpg)
-![](/images/String%20Ensemble2.jpg)
-![](/images/String%20Ensemble3.jpg)
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSq_o45frJfWVC84DEhHpyeBtHuzCcBkqSgXintXM8snMrUGCRRE0YSpZPq3UtveyEKxvVvT8NFd4mb/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRJkL5ZQw1kkrZc1kjWcLLeLIP-uFg4xZV8-FkImlbmXCyoKQQ79kNRJBE5XVE2YMgBDHEe6fLMCtNT/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>

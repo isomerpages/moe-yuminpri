@@ -23,7 +23,7 @@ Thursday: 1pm-3pm (Junior Team)
 4. To build character such as confidence, teamwork and discipline.
   
 **Achievements**<br>
-2024: SYP AP for Instrumental Ensemble (Guzheng) - Certificate of Accomplishment
+2024: SYP AP for Instrumental Ensemble (Guzheng) - Certificate of Accomplishment<br>
 2022: SYP AP for Instrumental Ensemble (Guzheng) - No Benchmarking
 
 

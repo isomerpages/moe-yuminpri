@@ -3,7 +3,7 @@ title: Terms of Use
 permalink: /terms-of-use/
 variant: markdown
 ---
- Thank you for visiting Yumin Primary School’s website. By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.
+Thank you for visiting Yumin Primary School’s website. By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.
 
 **General**
 
@@ -17,7 +17,7 @@ variant: markdown
 
 **Privacy Policy**
 
-5\. Click here to review this Web Site Privacy Statement.
+5\. Click [here](/privacy/) to review this Web Site Privacy Statement.
 
 **Restrictions on Use of Materials**
 

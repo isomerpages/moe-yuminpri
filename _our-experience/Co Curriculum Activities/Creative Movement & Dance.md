@@ -3,59 +3,38 @@ title: Creative Movement & Dance
 permalink: /our-experience/Co-Curriculum-Activities/creative-movement-and-dance/
 description: ""
 third_nav_title: Co Curriculum Activities
+variant: markdown
 ---
-![](/images/ourteam_dance.png)
 **Teachers-In-Charge**  
-  
 Ms Tan Pek Sun\*  
 Mrs Giri  
 Mdm Liu Shuang  
-Mdm Cecilia Choo  
+Ms Chen Hwee Sim Michelle
 Coach
 
-![](/images/information_strings%20(1).png)
+
 **CCA Timing**  
-Tuesday 2.00pm-4.00pm (Junior Team)  
-Tuesday and Thursday 2.00pm-4.00pm (Senior Team)  
+Tuesday: 2.15pm-4.15pm (Junior &amp; Senior Team)  
+                
+Thursday: 1.15pm-3.15pm (Senior Team)  
+
+**Objectives**
+1. To develop passion and learn the skills and techniques of dancing.
+2. To promote appreciation of the various dance forms.
+3. To work collaboratively to apply their learning and showcase their skills.
+4. To build character such as confidence, teamwork and discipline.
   
   
 **Achievements**  
-2018 - Certificate of Distinction  
-  
-2016 - Certificate of Accomplishment  
-  
-2014 - Certificate of Accomplishment
-
-<img style="width:50%;float:left" src="/images/dance1.png">
-		 <img style="width:50%" src="/images/dance2.png">
-		 
-<img style="width:50%;float:left" src="/images/dance3.png">
-		 <img style="width:50%" src="/images/dance4.jpg">
-		 
-<img style="width:50%;float:left" src="/images/dance5.png">
-		 <img style="width:50%" src="/images/dance6.jpg">
-		 
-<img style="width:50%;float:left" src="/images/dance7.jpg">
-		 <img style="width:50%" src="/images/dance8.jpg">
-		 
-<img style="width:50%" src="/images/dance9.jpg">
-		 
-		 
-**Our Achievements**&nbsp;@&nbsp;**Singapore Youth Festival (SYF) Arts Presentation for International Dance**
+2024: SYF AP (International Dance) - Certificate of Accomplishment
+2022: SYP AP International Dance) - No Benchmarking
 
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBhpzEvl4nkk3-C5FJNWMSImGNv7tTwJoWAmU3dVu7G5ljQkE-NaDpPRZt97IhZcx9hxhhAcd69g0J/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>		 
 
-| Year | Achievements | 
-| -------- | -------- |
-| 2012    | Certificate of Accomplishment     | 
-| 2014 | Certificate of Accomplishment |
-| 2016 | Certificate of Accomplishment |
+
 
 **Student Testimonial**  
 
-“Dancing has always been my passion. Even though I have to train and practise for long hours, I still love every minute of it. Our hard work and effort paid off when we clinched the prestigious Gold Award at the 2012 Singapore Youth Festival Central Judging competition.  
-Creative Movement and Dance has made me realise the existence of many kinds of wonderful dances such as modern, international and contemporary dances. When I am dancing, I feel very relaxed.”  
-
-**_Lee Jia Xian (5B)_**
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRZZpCy8LXiHRAe4k5_NGVDnqHwF9VUpp385rn5UOlAZN5aDiLYx-02yxVZ4T0B3Gu-Lo0ac7fbqpRJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+Since I was young, I have been passionate about dancing. Joining Creative Movement &amp; Dance CCA has taught me so much. It's not just about learning dance moves, I had gained skills and values which I could not pick up anywhere else. Our coaches and teachers not only taught us dance, but also had taught us the importance of discipline, teamwork and perseverance. Despite the challenges, I enjoyed every single lesson. I had so many supportive friends who had my back. Creative Movement &amp; Dance CCA has also shaped my into a better person and a better dancer. Attaining a Certificate of Accomplishment in the 2024 SYF AP was the result of our hard work and dedication.
+Yao Ziyu (6 Care)

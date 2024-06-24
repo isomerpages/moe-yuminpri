@@ -3,37 +3,28 @@ title: Guzheng
 permalink: /our-experience/Co-Curriculum-Activities/Guzheng/
 description: ""
 third_nav_title: Co Curriculum Activities
+variant: markdown
 ---
-![](/images/ourteam_guzheng.png)
 **Teachers-In-Charge**  
-  
 Ms Chan Ru Ai\*  
 Ms Rachel Lee  
-Ms Ong Zhi Lin  
+Ms Chan Ru Ai<br>
 Coach
 
-![](/images/information_guzheng.png)
+
 **CCA Timing**  
-Senior: Tuesday and Thursday: 2pm-4pm  
-Junior: Thursday: 2pm-3pm  
+Tuesday: 2pm-4pm (Senior Team)  
+Thursday: 1pm-3pm (Junior Team)  
   
 **Objectives**
-<br>Acquire a greater understanding and appreciation of Chinese music and culture. Members have the opportunity to display and hone their Guzheng skills. Learning opportunity to practice self-discipline and teamwork.  
+1. To develop passion and acquire the skills of playing Guzheng.
+2. To promote appreciation of the cultural music.
+3. To work collaboratively to apply their learning and showcase their skills.
+4. To build character such as confidence, teamwork and discipline.
   
-**Achievements**
-<br>Distinction award at the 2016 and 2018 SYF (Singapore Youth Festival Arts Presentation).  
-Certificate of Accomplishment at the 2012 and 2014 SYF.
+**Achievements**<br>
+2024: SYP AP for Instrumental Ensemble (Guzheng) - Certificate of Accomplishment<br>
+2022: SYP AP for Instrumental Ensemble (Guzheng) - No Benchmarking
 
-![](/images/Guzheng1.jpg)
-![](/images/Guzheng2.jpg)
-![](/images/Guzheng3.jpg)
-![](/images/Guzheng4.jpg)![](/images/Guzheng5.jpg)![](/images/Guzheng6.jpg)![](/images/Guzheng7.jpg)![](/images/Guzheng8.jpg)![](/images/Guzheng9.jpg)
 
-**Distinction at 2016 SYF (Singapore Youth Festival Arts Presentation)**  
-Certificate of Accomplishment at the 2012 and 2014 SYF (Singapore Youth Festival) competition&nbsp;  
-  
-**Student Testimonial**  
-
-“ I like playing Guzheng as it relaxes me whenever I feel stressed, especially during examination periods. Music from the instrument is soothing. In order to play a song well, I must work closely with my team members. I participated in the Singapore Youth Festival Central Judging competitions twice, once when I was in Primary 2 in 2010 and two years later when I was in Primary 4. We bagged the Silver award in both years. All our hard work had really paid off. I LOVE GUZHENG!”  
-
-**_Alycia Lim (5A)_**
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQwmHF9Uq_w2bDZ_9ASUyHzCftVKJ1ub4Lo3q-UDnvDWgKXk6vLnhOVviv2kiWoz80FMbdMMz9yZ6SW/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>

@@ -11,6 +11,8 @@ variant: tiptap
 <br>Miss Lydia</p>
 <p>Ms Illia Sulastri
 <br>Coach</p>
+<p></p>
+<p></p>
 <p><strong>CCA Timing</strong>
 </p>
 <p>Tuesday: 2 - 4 pm</p>

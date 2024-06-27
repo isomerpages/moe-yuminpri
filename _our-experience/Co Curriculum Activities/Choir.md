@@ -8,16 +8,15 @@ variant: markdown
 <p><strong>Teachers-In-Charge</strong> 
 <br>Mdm Erawati Luman Yi Xuan*
 <br>Ms Tan Ting Ting
-<br>Miss Lydia</p>
-<p>Ms Illia Sulastri
+<br>Miss Lydia<br>
+Ms Illia Sulastri
 <br>Coach</p>
-<p></p>
-<p></p>
-<p><strong>CCA Timing</strong>
+
+<p>
+<strong>CCA Timing</strong><br>
+Tuesday: 2 - 4 pm<br>
+Thursday: 1 - 3 pm
 </p>
-<p>Tuesday: 2 - 4 pm</p>
-<p>Thursday: 1 - 3 pm</p>
-<p></p>
 <p><strong>Objectives</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -36,10 +35,9 @@ in singing in both solfege and parts.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Achievements:</strong>
-</p>
-<p>2024: SYP AP (Choir) - Certificate of Accomplishment</p>
-<p>2022: SYF AP (Choir) - No Benchmarking</p>
+<strong>Achievements:</strong><br>
+2024: SYP AP (Choir) - Certificate of Accomplishment<br>
+2022: SYF AP (Choir) - No Benchmarking<br>
 <p></p>
 <p>Chinese New Year Celebration 2024</p>
 <div class="isomer-image-wrapper">

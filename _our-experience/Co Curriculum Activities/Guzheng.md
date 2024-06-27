@@ -8,7 +8,7 @@ variant: markdown
 **Teachers-In-Charge**  
 Ms Chan Ru Ai\*  
 Ms Rachel Lee  
-Ms Chan Ru Ai<br>
+Miss Foo Xue Yi<br>
 Coach
 
 

@@ -8,7 +8,8 @@ variant: tiptap
 <p><strong>Teachers-In-Charge</strong> 
 <br>Mdm Erawati Luman Yi Xuan*
 <br>Ms Tan Ting Ting
-<br>Miss Lydia Ms Illia Sulastri
+<br>Miss Lydia</p>
+<p>Ms Illia Sulastri
 <br>Coach</p>
 <p><strong>CCA Timing</strong>
 </p>

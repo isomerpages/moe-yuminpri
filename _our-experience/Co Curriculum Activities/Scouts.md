@@ -11,7 +11,7 @@ Ms Ng Kai Ying Kaitlynn<br>
 Miss Goh Shu Yi
 
 **CCA Timing**<br>
-Thursday: 2.15pm - 4.15pm
+Thursday: 1.00pm - 3.00pm
 
 **Objectives**<br>
 Scouts Uniformed Group encourages the holistic physical, mental and social development of our students youth with a strong emphasis on duty to country and helping other people.

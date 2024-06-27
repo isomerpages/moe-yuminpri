@@ -8,7 +8,7 @@ variant: markdown
 **Teachers-In-Charge**  
   
 Mdm Ro'aiza Bte Zainuri\*  
-Miss Lau Wan Ting
+Miss Lau Wan Ting<br>
 Ms Teo Ling Ping
 
 **CCA Timing**<br>
@@ -28,4 +28,3 @@ Environmental Club aims to create an experiential learning experience for our st
 ![](/images/Environment%20Club%202020g.jpeg)
 ![](/images/Environment%20Club%202020h.jpeg)
 ![](/images/Environment%20Club%202020i.jpeg)
-

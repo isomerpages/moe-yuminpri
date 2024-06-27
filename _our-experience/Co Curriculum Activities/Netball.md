@@ -8,15 +8,15 @@ variant: markdown
 **Teachers-In-Charge**  
   
 Miss Nur Amira\*  
-Mr Rayhan s/o Mohd Rashad
-Ms Rika Herdiyani
-Ms Siti Raudhah
-Mdm Syedama d/o Syeed Ibrahim
+Mr Rayhan s/o Mohd Rashad<br>
+Ms Rika Herdiyani<br>
+Ms Siti Raudhah<br>
+Mdm Syedama d/o Syeed Ibrahim<br>
 Coach
 
 
 **CCA Timing**
-Tuesday: 2.00pm - 4.45pm
+Tuesday: 2.00pm - 4.45pm<br>
 Thursday: 2.00pm - 4.45pm
 
 **Objectives**

@@ -7,11 +7,11 @@ variant: markdown
 ---
 **Teachers-In-Charge**  
   
-Mdm Siti Raudhah\*  
-Mr Rayhan  
-Miss Amira  
-Ms Syedama  
-Miss Bertha  
+Miss Nur Amira\*  
+Mr Rayhan s/o Mohd Rashad
+Ms Rika Herdiyani
+Ms Siti Raudhah
+Mdm Syedama d/o Syeed Ibrahim
 Coach
 
 
@@ -23,4 +23,3 @@ Thursday: 2.00pm - 4.45pm
 To promote the love for sports, games and attitude.
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTbb-d1ojO7Jxa-gt_68OjdBBcl-_jTPI7EmlFjC3zYGPokWTnOQRCPbW1y27umnXQK4ZOu-KpEes99/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-

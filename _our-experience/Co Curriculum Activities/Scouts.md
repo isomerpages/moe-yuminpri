@@ -7,7 +7,7 @@ variant: markdown
 ---
 **Teachers-In-Charge**  <br>
 Miss Yuen Chi Ping*    
-Ms Kaitlynn<br>
+Ms Ng Kai Ying Kaitlynn<br>
 Miss Goh Shu Yi
 
 **CCA Timing**<br>

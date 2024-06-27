@@ -7,9 +7,9 @@ variant: markdown
 ---
 **Teachers-In-Charge**  
 Ms Tan Pek Sun\*  
-Mrs Giri  
+Mrs Giri (Mdm Aniza)
 Mdm Liu Shuang  
-Ms Chen Hwee Sim Michelle
+Mrs Diana Lim
 Coach
 
 

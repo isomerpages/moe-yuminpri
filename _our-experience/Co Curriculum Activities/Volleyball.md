@@ -5,11 +5,12 @@ description: ""
 third_nav_title: Co Curriculum Activities
 variant: markdown
 ---
-**Teachers-In-Charge**  
-  
-Miss Ng Su Chi*  
-Mr Kiew Ji Cai Tim  
-Ms Shi Min
+**Teachers-In-Charge**  <br>  
+Mr Kiew Ji Cai Tim *<br>
+Ms Heng Shi Min<br>
+Miss Lim Pei Xuan Bertha<br>
+Ms Ng Su Chi <br>
+Ms Kang Pei Yun<br>
 Coach
 
 **CCA Timing**<br>

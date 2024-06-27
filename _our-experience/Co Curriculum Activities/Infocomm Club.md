@@ -3,30 +3,21 @@ title: Infocomm Club
 permalink: /our-experience/Co-Curriculum-Activities/Infocomm-Club/
 description: ""
 third_nav_title: Co Curriculum Activities
+variant: markdown
 ---
 **Teachers-In-Charge**  
   
 Ms Patricia Lye\*  
 Miss Foo Xue Yi    
-Mdm Cheong Oi Koan  
-Mr Jia Shin  
+Mdm Gu Haiying
 
-![](/images/information_infocomm.png)
-![](/images/Slide22a.jpg)
+**CCA Timing**<br>
+Tuesday: 2.15pm - 4.15pm<br>
+Thursday: 1.00pm - 3.00pm
+
+**Objectives**<br>
+Infocomm Club aims to excite students about technology in a fun and interesting way. Students will be equipped with IT related skills and they will be platforms for students to expand their knowledge on IT.
+
 
 ![](/images/Infocomm%20Club%20201801.jpeg)
 ![](/images/Infocomm%20Club%20201802.jpeg)
-
-**National Photography Festival 2017**&nbsp;  
-People's Choice Award 2017&nbsp;  
-Caron Ng - Landscape
-
-![](/images/Caron.png)
-
-**National Day Photo Exhibition - Scenes of Singapore Streets 2017**  
-Josh Lim - Sims Avenue  
-Photo is chosen to be exhibited at NLB and be part of National&nbsp;Archives of Singapore collection.
-
-![](/images/Josh.png)
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRb-U3UnPEUgS-eUBWTxlfcENchEJT1kYWnZmiP0c9q3dSL4pAIA55y6px_1WybkguCbtz6HxQTC9nI/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

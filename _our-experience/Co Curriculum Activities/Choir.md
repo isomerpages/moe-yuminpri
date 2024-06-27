@@ -1,20 +1,22 @@
 ---
 title: Choir
-permalink: /our-experience/Co-Curriculum-Activities/choir/
+permalink: /our-experience/co-curriculum-activities/choir/
 description: ""
 third_nav_title: Co Curriculum Activities
-variant: tiptap
+variant: markdown
 ---
 <p><strong>Teachers-In-Charge</strong> 
 <br>Mdm Erawati Luman Yi Xuan*
 <br>Ms Tan Ting Ting
-<br>Miss Lydia Ms Illia Sulastri
+<br>Miss Lydia<br>
+Ms Illia Sulastri
 <br>Coach</p>
-<p><strong>CCA Timing</strong>
+
+<p>
+<strong>CCA Timing</strong><br>
+Tuesday: 2.00pm - 4.00pm<br>
+Thursday: 1.00pm - 3.00pm
 </p>
-<p>Tuesday: 2 - 4 pm</p>
-<p>Thursday: 1 - 3 pm</p>
-<p></p>
 <p><strong>Objectives</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -33,10 +35,9 @@ in singing in both solfege and parts.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Achievements:</strong>
-</p>
-<p>2024: SYP AP (Choir) - Certificate of Accomplishment</p>
-<p>2022: SYF AP (Choir) - No Benchmarking</p>
+<strong>Achievements:</strong><br>
+2024: SYP AP (Choir) - Certificate of Accomplishment<br>
+2022: SYF AP (Choir) - No Benchmarking<br>
 <p></p>
 <p>Chinese New Year Celebration 2024</p>
 <div class="isomer-image-wrapper">

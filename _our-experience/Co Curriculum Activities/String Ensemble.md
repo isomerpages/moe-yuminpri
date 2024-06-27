@@ -6,10 +6,11 @@ third_nav_title: Co Curriculum Activities
 variant: markdown
 ---
 **Teachers-In-Charge**  <br>
-Ms Jin Qi<br>
+Ms Jin Qi*<br>
 Mrs Mak Zihui<br>
 Ms Kasmini Bte Kasmohen<br>
-Ms Khairiani Abdul Hamid Ali
+Ms Khairiani Abdul Hamid Ali<br>
+Miss Sin Si Lin Sharon
 
 
 **CCA Timing**  

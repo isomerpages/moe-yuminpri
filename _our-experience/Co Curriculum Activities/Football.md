@@ -15,8 +15,8 @@ Mr Sulaiman Bin Osman<br>
 Coach
 
 **CCA Timing**<br>
-Tue: 2.30pm - 4.30pm<br>
-Thur: 2.30pm - 4.30pm
+Tue: 2.00pm - 4.00pm<br>
+Thur: 1.00pm - 3.00pm
 
 **Objectives**<br>
 To promote the love of sports and games as well as enabling the players to learn sportsmanship and values of fair play, teamwork and discipline.

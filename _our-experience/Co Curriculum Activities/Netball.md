@@ -16,7 +16,7 @@ Coach
 
 **CCA Timing**<br>
 Tuesday: 2.00pm - 4.45pm<br>
-Thursday: 2.00pm - 4.45pm
+Thursday: 1.00pm - 3.00pm
 
 **Objectives**<br>
 To promote the love for sports, games and attitude.

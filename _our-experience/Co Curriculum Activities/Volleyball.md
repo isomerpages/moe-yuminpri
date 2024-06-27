@@ -15,7 +15,7 @@ Coach
 
 **CCA Timing**<br>
 Tuesday: 2.00pm - 4.30pm<br>
-Thursday: 2.00pm - 4.30pm
+Thursday: 1.00pm - 3.30pm
 
 **Objectives**
 1. To develop body control and coordination through whole body exercises.

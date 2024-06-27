@@ -14,8 +14,8 @@ Ms Illia Sulastri
 
 <p>
 <strong>CCA Timing</strong><br>
-Tuesday: 2 - 4 pm<br>
-Thursday: 1 - 3 pm
+Tuesday: 2.00pm - 4.00 pm<br>
+Thursday: 1.00pm - 3.00 pm
 </p>
 <p><strong>Objectives</strong>
 </p>

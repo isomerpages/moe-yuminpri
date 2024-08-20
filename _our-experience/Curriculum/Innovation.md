@@ -17,7 +17,7 @@ Yumin Innovation Framework.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Innov_Pic1.png">
 </div>
 <p>Diagram 1: Four-pronged Yumin Innovation framework, adapted from MOE's
-Eco Stewardshio</p>
+Eco Stewardship.</p>
 <p></p>
 <p><strong>4C: Curriculum</strong>
 </p>

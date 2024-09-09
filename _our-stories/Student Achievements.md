@@ -29,27 +29,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wong Sing Yan, Xanthea</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Harmony</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sony Creative Science Award - Junior WhizKid Category (P1&amp;P2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Commendation Award</p>
-</li>
-<li>
-<p>People's Choice Award</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Lin Xinyu</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -153,6 +132,27 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Award Received</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wong Sing Yan, Xanthea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Harmony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sony Creative Science Award - Junior Whizkid Category (P1&amp;P2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Commendation Award</p>
+</li>
+<li>
+<p>People's Choice Award</p>
+</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">

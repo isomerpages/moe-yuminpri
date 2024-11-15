@@ -29,6 +29,59 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Manikanda Prabhu Dheeresh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Harmony</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Dance Competition by Indian @ SG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Place in Primary 2 Level</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kannadhasan Sashath</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Harmony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Place in Primary 2 Level</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Durrah Alia Binte Khairul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nusantara World Music Singing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Nur Elysha Eryna Binte Muhd Hairu</p>
 </td>
 <td rowspan="1" colspan="1">

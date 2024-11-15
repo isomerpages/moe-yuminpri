@@ -15,7 +15,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Student(s)</p>
+<p>Student(s)/CCA</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Class</p>
@@ -26,6 +26,315 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Award Received</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football (Junior Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bilal Fathullah Bin Fathurrahman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coding Olympics 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 20</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yumin Cub Scout</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Frank Cooper Sands Award (Unit of Excellence)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tanwar Hridhaan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Care</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>National Mathematical Olympiad of Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sharanya Pandita</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rao Varad Parag</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tripathy Aadya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tumbaraguddi Shuban Rudrappa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Liang Cici Meixi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Courage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tripathy Aadya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Care</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>Youth Innovation &amp; Stem Sprint</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Arissa Bte Dhiaarrahman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim YuZhe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Mi Na</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Courage</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Xiao Yu Fan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Courage</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Faiz Bin Zaid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Courage</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Manikanda Prabhu Dheeresh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Harmony</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Dance Competition by Indian @ SG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Place in Primary 2 Level</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kannadhasan Sashath</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Harmony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Place in Primary 2 Level</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Durrah Alia Binte Khairul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nusantara World Music Singing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Elysha Eryna Binte Muhd Hairu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Care</p>
+</td>
+<td rowspan="8" colspan="1">
+<p>Malay Writing Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hazira Falisha Binte Muhd Hafiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Courage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ilyas Hakeem Bin Herman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Wafiyya Zhou Yuxin Bte Muhd Yazid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Randy Al-Luqman Bin Muhd Latiff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Arissa Bte Dhiarrahman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hani Haidah Binte Mohd Sani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Maera Qhairisya Binte Mohd Hairulsham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Courage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lin Xinyu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sony Creative Science Award 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation Award</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1794,6 +2103,4 @@ for Girls</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p></p>

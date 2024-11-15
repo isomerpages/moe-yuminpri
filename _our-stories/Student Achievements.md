@@ -35,6 +35,20 @@ variant: tiptap
 <p>3 Care</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Sony Creative Science Award 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lin Xinyu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Care</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>National Chinese Creative Reading Competition</p>
 </td>
 <td rowspan="1" colspan="1">

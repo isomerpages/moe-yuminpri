@@ -34,7 +34,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>3 Care</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="8" colspan="1">
 <p>Malay Writing Competition 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -49,9 +49,6 @@ variant: tiptap
 <p>3 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Bronze</p>
 </td>
 </tr>
@@ -61,9 +58,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Care</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Silver</p>
@@ -77,9 +71,6 @@ variant: tiptap
 <p>4 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Silver</p>
 </td>
 </tr>
@@ -91,52 +82,40 @@ variant: tiptap
 <p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Bronze</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Arissa Bte Dhiarrahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>5 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Silver</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Hani Haidah Binte Mohd Sani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>5 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Silver</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Maera Qhairisya Binte Mohd Hairulsham</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>5 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Gold</p>
 </td>
 </tr>
 <tr>

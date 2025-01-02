@@ -11,7 +11,7 @@ variant: markdown
 | Vice-Principal Administration | Mrs Betty See
 | School Staff Developer | Mdm Norjana Bte Hussin
 | HOD (Science) | Ms Seah Wan Peen
-| HOD (PE/CCA) | Mr Aidil Effendy Md Said
+| HOD (PE/CCA) | Mr Joel Ow Yong Choo Ee
 | HOD (MTL) | Mdm Wang Rongbing
 | HOD (Character &amp; Citizenship Education) | Mdm Aszrina Bte Tugiman
 | HOD (Student Management) | Mrs Nizam (Mdm Rosnani)
@@ -22,7 +22,7 @@ variant: markdown
 | SH (EdTech) | Ms Jean Wang Xiu Jun 
 | SH (Student Wellbeing) | Mrs Chan Hui Fen
 | Year-Head (Upper Primary)| Miss Julee Binte Noordin
-| Year-Head (Lower Primary) | Miss Nurkhalisah Kassim
+| Year-Head (Lower Primary) | Mrs Low-Tay Yin Lin
 | Year-Head (Middle Primary)| Mr Noor Aidil B Abdul Rahman
 | Asst Year Head P2 | Ms Siti Nurulhuda
 | Level Manager P4 | Ms Chan Ru Ai

@@ -8,13 +8,13 @@ variant: markdown
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| Care 1  | Mdm Erawati Luman/Ms Lydia Lee   |
-| Care 2 | Mdm Cheong Oi Koan/Ms Tan Pek Sun
-| Care 3 | Mrs Rachel Ho/Miss Nurkhalisah
-| Care 4 |Mdm Fadilah Omar/Mdm Liu Shuang
-| Care 5 | Ms Penny Chew/Miss Bertha Lim
-| Care 6 | Ms Trixie Young/Mr Sulaiman Osman
-| Care 7 | Ms Trixie Young/Mr Sulaiman Osman
+| Care 1  | Ms Khairiani/Mdm Gu Haiying  |
+| Care 2 | Mdm Cheong Oi Koan/Ms Ng Su Chi
+| Care 3 | Miss Nadirah/Ms Foo Xue Yi
+| Care 4 |Mr Hardi/Mdm Aszrina
+| Care 5 | Mrs Giri/Ms Nurulhuda
+| Care 6 | Ms Chung Sin Le/Mdm Rika Herdiyani
+| Care 7 | Mrs Rachel Lee/Mdm Syedama
 
 
 

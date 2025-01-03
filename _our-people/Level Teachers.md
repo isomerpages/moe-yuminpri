@@ -11,7 +11,7 @@ variant: markdown
 | Care 1  | Ms Khairiani/Mdm Gu Haiying  |
 | Care 2 | Mdm Cheong Oi Koan/Ms Ng Su Chi
 | Care 3 | Miss Nadirah/Ms Foo Xue Yi
-| Care 4 |Mr Hardi/Mdm Aszrina
+| Care 4 |Mr Hardi/Mdm Aszrina Tugiman
 | Care 5 | Mrs Giri/Ms Nurulhuda
 | Care 6 | Ms Chung Sin Le/Mdm Rika Herdiyani
 | Care 7 | Mrs Rachel Lee/Mdm Syedama
@@ -23,13 +23,12 @@ variant: markdown
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| 2 Care | Mdm Wang Rongbing/Ms Sheila Lim
-| 2 Courage | Mdm Aszrina Tugiman/Mdm Siti Mashitah/Ms Ng Su Chi
-| 2 Integrity | Mrs Giri/Ms Leom Li Yan
-| 2 Resilience | Mrs Mak Zi Hui/Ms Kasmini
-| 2 Respect | Mdm Gu Haiying/Miss Nur Amira/Ms Khairiani
-| 2 Harmony | Mrs Tay Yin Lin/Mdm Syedama/Mr Tim Kiew
-| 2 Responsibility | Ms Sharon Sin/Ms Nurulhuda
+| Courage 1 | Mdm Siti Mashitah/Ms Sheila Lim
+| Courage 2 | Ms Sharon Sin/Ms Tan Pek Sun
+| Courage 3 | Mdm Vithya/Ms Lau Wan Ting
+| Courage 4 | Mdm Liu Shuang/Mrs Tay Yin Lin/Ms Louisa
+| Courage 5 | Mrs Lee Sock Hui/Ms Bertha Lim
+| Courage 6 | Ms Trixie Young/Mdm Siti Hajar
 
 **Primary 3**
 

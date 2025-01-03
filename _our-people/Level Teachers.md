@@ -8,7 +8,7 @@ variant: markdown
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| 1 Care     | Mdm Erawati Luman/Ms Lydia Lee   |
+| 1 Care 1  | Mdm Erawati Luman/Ms Lydia Lee   |
 | 1 Courage | Mdm Cheong Oi Koan/Ms Tan Pek Sun
 | 1 Integrity | Mrs Rachel Ho/Miss Nurkhalisah
 | 1 Resilience |Mdm Fadilah Omar/Mdm Liu Shuang

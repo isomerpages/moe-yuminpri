@@ -101,7 +101,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr&nbsp;Muhammad Izwan Bin Rahim
-<br>Mr Eugene Aw Wei Xuan</p>
+<br>Mr Krishnaraj M Sangar</p>
 </td>
 </tr>
 <tr>

@@ -8,12 +8,13 @@ variant: markdown
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| 1 Care 1  | Mdm Erawati Luman/Ms Lydia Lee   |
-| 1 Courage | Mdm Cheong Oi Koan/Ms Tan Pek Sun
-| 1 Integrity | Mrs Rachel Ho/Miss Nurkhalisah
-| 1 Resilience |Mdm Fadilah Omar/Mdm Liu Shuang
-|1 Respect | Ms Penny Chew/Miss Bertha Lim
-| 1 Responsibility | Ms Trixie Young/Mr Sulaiman Osman
+| Care 1  | Mdm Erawati Luman/Ms Lydia Lee   |
+| Care 2 | Mdm Cheong Oi Koan/Ms Tan Pek Sun
+| Care 3 | Mrs Rachel Ho/Miss Nurkhalisah
+| Care 4 |Mdm Fadilah Omar/Mdm Liu Shuang
+| Care 5 | Ms Penny Chew/Miss Bertha Lim
+| Care 6 | Ms Trixie Young/Mr Sulaiman Osman
+| Care 7 | Ms Trixie Young/Mr Sulaiman Osman
 
 
 

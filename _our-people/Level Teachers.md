@@ -38,35 +38,36 @@ variant: markdown
 |Integrity 2 | Ms Jin Qi/Ms Samantha Lok Si-Chih
 |Integrity 3 | Mrs Chan Hui Fen/Mrs Cecilia Lim/Ms Penny Chew
 | Integrity 4 | Mr Tim Kiew/Ms Tan Lay Syn
-| Integrity 5 | Ms Lydia Lee/Mdm Wang Rongbing/Mdm Wang Xiujun
+| Integrity 5 | Ms Lydia Lee/Mdm Wang Rongbing/Mdm Jean Wang
 | Integrity 6 | Ms Lim Siew Siew/Mdm Hairina Singh/Mdm Wu I-Chieh
 
 **Primary 4**
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| 4 Care | Miss Kaitlyn Ng/Ms Heng Shi Min
-|4 Courage | Miss Goh Shu Yi/Mrs Chan Hui Fen/Miss Chan Ru Ai
-| 4 Integrity | Mdm Ro'aiza/Ms Lim Siew Siew
-| 4 Resilience | Ms Patricia Lye/Miss Yuen Chi Ping
-| 4 Respect | Mrs Serpojan Singh/Mrs Hairina Singh/Mdm Rohanah
+| Resilience 1 | Mdm Hirwati Haris/Mdm Teo Ling Ping
+| Resilience 2 | Mr Rayhan/Ms Esther Koh/Ms Patricia Lye
+| Resilience 3 | Mr Muhammad Zikri/Mr Noor Aidil
+| Resilience 4 | Ms Kang Pei Yun/Ms Seah Wan Peen
+| Resilience 5 | Mdm Norjana/Mdm Raudhah
 
 
 **Primary 5**
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| 5 Care | Mr Shyam Raj Panday/Mr Muhammad Zikri/Mdm Siti Raudhah
-| 5 Courage | Mrs Diana Lim/Mr Aidil Effendy/Ms Lau Wan Ting
-| 5 Integrity | Mr Farris/Mdm Jean Wang
-| 5 Resilience | Miss Nurul Ain/Ms Angeline Lam
-| 5 Respect | Mrs Nizam/Ms Carol Lim//Mr Jack Heng
+| Respect 1 | Mr Low Hiang Meng/Mdm Ada Tan
+| Respect 2 | Ms Yuen Chi Ping/Ms Kasmini
+| Respect 3 | Ms Goh Shu Yi/Mr Jack Heng
+| Respect 4 | Miss Nur Amira/Miss Chan Ru Ai
+| Respect 5 | Ms Julee Noordin/Ms Leom Li Yan
 
 **Primary 6**
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| 6 Care | Ms Jin Qi/Miss Gina Luo
-| 6 Courage | Ms Michelle Chen/Ms Ada Tan
-| 6 Integrity |Mdm Noriyanti Yunos/Ms Kang Pei Yun
-| 6 Resilience |Ms Foo Xue Yi/ Ms Julee Noordin/Mdm Azriena Asari
+| Responsibility 1 | Mr Shyam Raj Panday/Ms Carol Lim
+| Responsibility 2 | Mrs Diana Lim/Mr Joel Ow Yong/Mdm Azriena Asari
+| Responsibility 3 |Ms Gina Luo/Mdm Noriyanti
+| Responsibility 4 |Ms Angeline Lam/Ms Nurul Ain/Mdm Ro'aiza
+| Responsibility 5 |Mrs Nizam/Mrs Serpojan Singh/Mr Sulaiman

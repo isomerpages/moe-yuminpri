@@ -8,7 +8,6 @@ variant: markdown
 **Teachers-In-Charge**  <br>
 Mr Low Hiang Meng*  	<br>
 Ms Koh Cui Ting Esther  
-Mr Ng Jia Shin<br>
 Mrs Trixie Tay
 
 **CCA Timing**<br>

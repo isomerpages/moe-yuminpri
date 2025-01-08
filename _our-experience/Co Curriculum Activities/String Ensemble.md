@@ -7,7 +7,6 @@ variant: markdown
 ---
 **Teachers-In-Charge**  <br>
 Ms Jin Qi*<br>
-Mrs Mak Zihui<br>
 Ms Kasmini Bte Kasmohen<br>
 Ms Khairiani Abdul Hamid Ali<br>
 Miss Sin Si Lin Sharon

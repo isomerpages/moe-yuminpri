@@ -8,7 +8,7 @@ variant: markdown
 **Teachers-In-Charge**  <br>
 Miss Nur Amira\*  
 Mr Rayhan s/o Mohd Rashad<br>
-Ms Rika Herdiyani<br>
+Miss Bertha Lim
 Ms Siti Raudhah<br>
 Mdm Syedama d/o Syeed Ibrahim<br>
 Coach

@@ -7,10 +7,9 @@ variant: markdown
 ---
 **Teachers-In-Charge**  <br>  
 Mr Kiew Ji Cai Tim *<br>
-Ms Heng Shi Min<br>
-Miss Lim Pei Xuan Bertha<br>
 Ms Ng Su Chi <br>
 Ms Kang Pei Yun<br>
+Miss Nadirah Bte Jamri<br>
 Coach
 
 **CCA Timing**<br>

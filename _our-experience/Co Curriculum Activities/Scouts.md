@@ -7,8 +7,9 @@ variant: markdown
 ---
 **Teachers-In-Charge**  <br>
 Miss Yuen Chi Ping*    
-Ms Ng Kai Ying Kaitlynn<br>
-Miss Goh Shu Yi
+Miss Goh Shu Yi\
+Ms Chung Sin Le\
+Miss Lok Si-Chih Samantha
 
 **CCA Timing**<br>
 Thursday: 1.00pm - 3.00pm

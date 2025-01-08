@@ -9,8 +9,8 @@ variant: tiptap
 </p>
 <p>Miss Shuping Sheila*
 <br>Miss Nurul Ain Bte Samsuri
-<br>Mdm Illia Sulastri Binte Mohamed
 <br>Ms Leom Li Yan</p>
+<p></p>
 <p><strong>CCA Timing</strong>
 </p>
 <p>Thursday: 1.00pm - 3.00pm</p>

@@ -21,7 +21,7 @@ variant: markdown
 | SH (EdTech) | Ms Jean Wang Xiu Jun 
 | SH (Student Wellbeing) | Mrs Chan Hui Fen
 | Year-Head (Upper Primary)| Miss Julee Binte Noordin
-| Year-Head (Lower Primary) | Mrs Low-Tay Yin Lin
+| Year-Head (Lower Primary) | Mrs Tay - Low Yin Lin
 | Year-Head (Middle Primary)| Mr Noor Aidil B Abdul Rahman
 | Asst Year Head P2 | Ms Siti Nurulhuda
 | Level Manager P5 | Ms Chan Ru Ai

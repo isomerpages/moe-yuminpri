@@ -6,9 +6,8 @@ third_nav_title: Co Curriculum Activities
 variant: markdown
 ---
 **Teachers-In-Charge**  
-  
-Mdm Ro'aiza Bte Zainuri\*  
-Miss Lau Wan Ting<br>
+    
+Miss Lau Wan Ting*<br>
 Ms Teo Ling Ping
 
 **CCA Timing**<br>

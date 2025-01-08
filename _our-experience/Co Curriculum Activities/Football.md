@@ -7,11 +7,11 @@ variant: markdown
 ---
 **Teachers-In-Charge**  <br>
 Mr Jack Heng \*  
-Mr Mohammad Farris<br>
 Mr Muhammad Zikri<br>
 Mr Ng Jia Shin<br>
 Ms Siti Nurulhuda <br>
 Mr Sulaiman Bin Osman<br>
+Mr Hardi Bin Pardi<br>
 Coach
 
 **CCA Timing**<br>

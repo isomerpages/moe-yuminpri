@@ -7,8 +7,8 @@ variant: markdown
 ---
 **Teachers-In-Charge**  
   
-Ms Patricia Lye\*  
-Miss Foo Xue Yi    
+Miss Gina Luo\*  
+Mrs Mak Zihui   
 Mdm Gu Haiying
 
 **CCA Timing**<br>

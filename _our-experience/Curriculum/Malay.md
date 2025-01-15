@@ -100,9 +100,6 @@ encourages the use of imagination and creativity.</p>
 <p></p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ML%2020232.png">
-</div>
 <p></p>
 <p><strong>SPARKS PROGRAMME @ <em>Talent Management</em></strong>
 </p>

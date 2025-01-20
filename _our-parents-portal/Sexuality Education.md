@@ -84,4 +84,4 @@ the start of the year and is also downloadable <a href="/files/2025_Parent_Opt_O
 completed opt-out form is to be submitted by <strong><em>28/02/2025.</em></strong>
 </p>
 <p>Parents can contact the school at 67811262 for discussion or to seek clarification
-about the school’s sexuality education programme.pP</p>
+about the school’s sexuality education programme.</p>

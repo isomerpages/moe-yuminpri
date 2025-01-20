@@ -2,7 +2,7 @@ collections:
   our-people:
     output: true
     order:
-      - Allied Educators.md
       - Key Personnel.md
       - Level Teachers.md
+      - Allied Educators.md
       - Executive and Admin Staff.md

@@ -38,7 +38,7 @@ against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt
 you and your loved ones.&nbsp;&nbsp;</p>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.&nbsp;</p>
-<p><strong>Overview of YUMIN PRIMARY SCHOOL’S Sexuality Education Programme for 2024</strong>
+<p><strong>Overview of YUMIN PRIMARY SCHOOL’S Sexuality Education Programme for 2025</strong>
 </p>
 <p>4.&nbsp;&nbsp; &nbsp;Sexuality Education is delivered in a holistic manner
 through the school curriculum. The content for Sexuality Education is grouped
@@ -71,7 +71,7 @@ their growing years. They learn to build healthy and rewarding relationships
 with others, including those with members of the opposite sex. Students
 are guided to make wise, informed and responsible decisions to keep themselves
 safe from sexuality-related risks.</p>
-<p>Please click <a href="/files/2024_Info_on_SEd_lesson_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<p>Please click <a href="/files/2025_Sex_Ed_Lesson_Plan.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 view the lesson plan for Primary 5 &amp; 6.</p>
 <p><strong>Information for Parents:</strong>
 </p>
@@ -80,8 +80,8 @@ and/or supplementary Sexuality Education programmes by MOE-approved external
 providers.</p>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable <a href="/files/Opt_Out_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed opt-out form
-is to be submitted by <strong><em>01/03/2024.</em></strong>
+the start of the year and is also downloadable <a href="/files/2025_Parent_Opt_Out_Form__Pri__Hardcopy.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The
+completed opt-out form is to be submitted by <strong><em>28/02/2025.</em></strong>
 </p>
 <p>Parents can contact the school at 67811262 for discussion or to seek clarification
-about the school’s sexuality education programme.pP</p>
+about the school’s sexuality education programme.</p>

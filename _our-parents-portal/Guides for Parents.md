@@ -10,4 +10,4 @@ variant: markdown
 [PSLE Information (SEAB)](https://www.seab.gov.sg/home/examinations/psle)<br>
 [Cyber Wellness Portal for Parents](https://www.moe.gov.sg/programmes/cyber-wellness)<br>
 [Financial Assistance Scheme (MOE)](https://www.moe.gov.sg/education/financial-assistance)<br>
-[School Terms and Holidays 2024](https://www.moe.gov.sg/news/press-releases/20230807-school-terms-and-holidays-for-2024)
+[School Terms and Holidays 2025](https://www.moe.gov.sg/news/press-releases/20240812-school-terms-and-holidays-for-2025)

@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Book List & Uniform.md
-      - 2025 P1 Waiting List.md
       - Primary 1 Registration.md
       - School Waiting List.md
       - Financial Assistance Scheme (FAS).md

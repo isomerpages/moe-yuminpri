@@ -47,7 +47,7 @@ description: ""
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Suresh</p>
+<p>Mdm Uma d/o Elengoven (Mrs Suresh)</p>
 </td>
 </tr>
 </tbody>

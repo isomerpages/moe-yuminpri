@@ -31,7 +31,7 @@ description: ""
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Karen Chan</p>
+<p>Mr Eugene Chua</p>
 </td>
 </tr>
 <tr>

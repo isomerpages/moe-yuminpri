@@ -47,7 +47,6 @@ to nurture flourishing champions, future-ready learners, and caring citizens.</p
 </p>
 <p></p>
 <p>Regards,</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/P_signature.png">
 </div>

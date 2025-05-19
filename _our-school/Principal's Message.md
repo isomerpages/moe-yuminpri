@@ -4,6 +4,8 @@ permalink: /principal-s-message/
 variant: tiptap
 description: ""
 ---
+<p><em>Nurturing Hearts, Inspiring Futures</em>
+</p>
 <p>Yumin Primary School (YMPS) marks its golden anniversary this year, a
 proud 50-year legacy of nurturing generations of young learners. As we
 commemorate this milestone, we remain steadfastly committed to our founding
@@ -43,13 +45,9 @@ enable us to walk this journey together.</p>
 to serve alongside this exceptional community. Together, we will continue
 to nurture flourishing champions, future-ready learners, and caring citizens.</p>
 <p></p>
-<p><em>Nurturing Hearts, Inspiring Futures</em>
-</p>
+<p>All the best!</p>
 <p></p>
 <p>Regards,</p>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/P_signature.png">
-</div>
 <p>Mrs Ng-Teo Sock Hua
 <br>Principal</p>
 <p></p>

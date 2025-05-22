@@ -59,17 +59,7 @@ them with the varied use of the language in different contexts. Students
 learn to be more confident, adaptable, innovative, and resilient.</p>
 <p>为了贯彻执行教育部所推行的“母语双周”计划，育民小学结合华人农历新年，为一年级至六年级的华族学生举办了一系列丰富多彩的母语双周活动。例如沙画、书法、踢毽子等传统华族活动。通过这些活动，学生了解更多华族传统文化习俗及来历，因此更加喜爱使用他们的母语。除了华族学生之外，异族同胞也和华族学生一起庆祝农历新年，感受新年气氛。</p>
 <p>为了加深学生对华族传统文化的认识，激发他们学习华文华语的兴趣，华文部为中高年级的学生举办语文营。语文营结合小学课文内容，让学生通过手工及游戏的方式，增加对华族传统文化的了解。</p>
-<p><strong>School-based Curriculum – Di Zi Gui (&nbsp;弟子规&nbsp;)</strong>
-</p>
-<p>Di Zi Gui&nbsp;is an effective approach in cultivating kids’ moral education,
-it sets the standards for being a good student and child. Chinese Department
-aims to nurture students with strong values as well as 21st Century competencies
-at the younger stage. This programme also helps students to understand
-moral character traits like “Filial Piety”, “Trust”, “Love” and “Kindness”.
-&nbsp;To align with the MOE PERI holistic assessment recommendation, students
-will go through various “bite-sized” forms of assessment at the end of
-each school term.</p>
-<p>育民小学为一年级与二年级的华族学生开展弟子规的课程。华文部希望通过此课程，能够把华族的优良传统与正确的价值观灌输给学生，同时让学生的华文程度更上一层楼。</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLPicture1.jpg">
 </div>

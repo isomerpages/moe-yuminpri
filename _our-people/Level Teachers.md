@@ -36,7 +36,7 @@ variant: markdown
 | -------- | -------- |
 |Integrity 1 | Mrs Mak Zi Hui/Ms Michelle Chen
 |Integrity 2 | Ms Jin Qi/Ms Samantha Lok Si-Chih
-|Integrity 3 | Mrs Chan Hui Fen/Mrs Cecilia Lim/Ms Penny Chew
+|Integrity 3 | Mrs Chan Hui Fen/Mrs Cecilia Ng/Ms Penny Chew
 | Integrity 4 | Mr Tim Kiew/Ms Tan Lay Syn
 | Integrity 5 | Ms Lydia Lee/Mdm Wang Rongbing/Mdm Jean Wang
 | Integrity 6 | Ms Lim Siew Siew/Mdm Hairina Singh/Mdm Wu I-Chieh

@@ -10,7 +10,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/website_hero_banner.gif
+      background: /images/website_hero_banner_2.gif
       key_highlights:
         - title: Quick Links
           description: ""

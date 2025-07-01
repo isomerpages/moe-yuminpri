@@ -10,7 +10,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/d10f6a61c_995.jpg
+      background: /images/website_hero_banner.gif
       key_highlights:
         - title: Quick Links
           description: ""
@@ -18,5 +18,4 @@ sections:
         - title: Announcements
           description: ""
           url: /announcement
-      title: A Champion in Every Child
 ---

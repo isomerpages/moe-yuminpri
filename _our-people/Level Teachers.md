@@ -28,7 +28,7 @@ variant: markdown
 | Courage 3 | Mdm Vithya/Ms Lau Wan Ting
 | Courage 4 | Mdm Liu Shuang/Mrs Tay Yin Lin/Ms Louisa
 | Courage 5 | Mrs Lee Sock Hui/Ms Bertha Lim
-| Courage 6 | Ms Trixie Young/Mdm Siti Hajar
+| Courage 6 | Ms Trixie Young/Mdm Siti Hajar/Ms Heng Shi Min
 
 **Primary 3**
 
@@ -36,17 +36,17 @@ variant: markdown
 | -------- | -------- |
 |Integrity 1 | Mrs Mak Zi Hui/Ms Michelle Chen
 |Integrity 2 | Ms Jin Qi/Ms Samantha Lok Si-Chih
-|Integrity 3 | Mrs Chan Hui Fen/Ms Penny Chew
+|Integrity 3 | Ms Syakira Marie/Ms Penny Chew
 | Integrity 4 | Mr Tim Kiew/Ms Tan Lay Syn
-| Integrity 5 | Ms Lydia Lee/Mdm Wang Rongbing/Mdm Jean Wang
-| Integrity 6 | Ms Lim Siew Siew/Mdm Hairina Singh/Mdm Wu I-Chieh
+| Integrity 5 | Mdm Wang Rongbing/Miss Jothi
+| Integrity 6 | Ms Lim Siew Siew/Mdm Wu I-Chieh
 
 **Primary 4**
 
 | Class | Form Teachers | 
 | -------- | -------- |
 | Resilience 1 | Mdm Hirwati Haris/Mdm Teo Ling Ping
-| Resilience 2 | Mr Rayhan/Ms Esther Koh/Ms Patricia Lye
+| Resilience 2 | Mr Rayhan/Ms Esther Koh
 | Resilience 3 | Mr Muhammad Zikri/Mr Noor Aidil
 | Resilience 4 | Ms Kang Pei Yun/Ms Seah Wan Peen
 | Resilience 5 | Mdm Norjana/Mdm Raudhah

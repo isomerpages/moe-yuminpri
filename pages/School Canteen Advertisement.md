@@ -79,8 +79,7 @@ School’s General Office by the closing date.</p>
 <p>Contact No: 67811262</p>
 </li>
 <li>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">yumin_ps@moe.edu.sg</a>
-</p>
+<p>Email: yumin_ps@moe.edu.sg</p>
 </li>
 <li>
 <p>Contact Person: Mr Surya / Mr Kevin (Operations Manager)</p>

@@ -2,7 +2,6 @@ collections:
   our-parents-portal:
     output: true
     order:
-      - Book List & Uniform.md
       - Primary 1 Registration.md
       - School Waiting List.md
       - Financial Assistance Scheme (FAS).md

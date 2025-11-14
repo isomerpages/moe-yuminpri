@@ -24,5 +24,5 @@ description: ""
 </p>
 <p><a href="/files/2025_P6_F.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Foundation Booklist</a>
 </p>
-<p><a href="/files/2024_Uniform_Order.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniform Order</a>
+<p><a href="/files/School_Uniform.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniform Order</a>
 </p>

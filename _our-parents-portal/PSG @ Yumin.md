@@ -4,7 +4,7 @@ permalink: /our-parents-portal/psg-yumin/
 description: ""
 variant: tiptap
 ---
-<p><strong>PAPA - PARENTS AS ACTIVE PARTNERS</strong>
+<p><strong>PSG @ Yumin</strong>
 </p>
 <p>Welcome to the Yumin Family! As members of PSG, we value the importance
 of working closely with the school in fostering all-round development of

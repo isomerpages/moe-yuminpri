@@ -22,9 +22,9 @@ and direction for the benefits of our pupils</p>
 </li>
 </ul>
 <p>To this end, we have been supporting annual school events like Sports
-Carnival and P2 Speech &amp; Drama Showcase. We would like to take this
-opportunity to invite you to join us as we work together in mutual trust,
-respect and understanding.</p>
+Day and P2 Festival of the Arts. We would like to take this opportunity
+to invite you to join us as we work together in mutual trust, respect and
+understanding.</p>
 <p>To be part of our family, please email us at&nbsp;<a href="mailto:yumin_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yumin_ps@moe.edu.sg</a>&nbsp;or inform
 the General Office Staff.</p>
 <p></p>

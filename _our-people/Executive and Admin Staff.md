@@ -67,8 +67,7 @@ variant: tiptap
 <p>Mr Hassan Bin Ismail
 <br>Mdm Susie Tan Gek Ngoh
 <br>Mr Ahshokumaar
-<br>Mr Arthur Ng Wee Teck
-<br>Miss Mariyal d/o Japamani</p>
+<br>Mr Arthur Ng Wee Teck</p>
 </td>
 </tr>
 <tr>

@@ -66,7 +66,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Hassan Bin Ismail
 <br>Mdm Susie Tan Gek Ngoh
-<br>Mr Ahshokumaar
 <br>Mr Arthur Ng Wee Teck</p>
 </td>
 </tr>

@@ -38,37 +38,37 @@ variant: markdown
 |Integrity 1 | Miss Nur Amira/Mdm Teo Ling Ping
 |Integrity 2 | Ms Gina Luo/Miss Nurul Ain
 |Integrity 3 | Mr Noor Aidil/Mdm Raudhah/Ms Siti Omairah
-| Integrity 4 | Mr Tim Kiew/Ms Tan Lay Syn
-| Integrity 5 | Mdm Wang Rongbing/Miss Jothi
-| Integrity 6 | Ms Lim Siew Siew/Mdm Wu I-Chieh
+| Integrity 4 | Ms Leom Li Yan/Miss Nadirah
+| Integrity 5 | Mr Rayhan/Mr Low Hiang Meng
 
 **Primary 4**
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| Resilience 1 | Mdm Hirwati Haris/Mdm Teo Ling Ping
-| Resilience 2 | Mr Rayhan/Ms Esther Koh
-| Resilience 3 | Mr Muhammad Zikri/Mr Noor Aidil
-| Resilience 4 | Ms Kang Pei Yun/Ms Seah Wan Peen
-| Resilience 5 | Mdm Norjana/Mdm Raudhah
+| Resilience 1 | Ms Patricia Lye/Mr Sulaiman
+| Resilience 2 | Ms Angeline Lam/Ms Seah Wan Peen/Ms Jin Qi
+| Resilience 3 | Ms Syakira Marie/Ms Penny Chew
+| Resilience 4 | Mr Tim Kiew/Ms Tan Lay Syn
+| Resilience 5 | Ms Azlin/Mdm Wang Rongbing
+| Resilience 6 | Ms Lim Siew Siew/Mdm Wu I-Chieh/Mrs Hairina Singh
 
 
 **Primary 5**
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| Respect 1 | Mr Low Hiang Meng/Mdm Ada Tan
-| Respect 2 | Ms Yuen Chi Ping/Ms Kasmini
-| Respect 3 | Ms Goh Shu Yi/Mr Jack Heng
-| Respect 4 | Miss Nur Amira/Miss Chan Ru Ai
-| Respect 5 | Ms Julee Noordin/Ms Leom Li Yan
+| Respect 1 | Mr Shyam Raj Panday/Mdm Siti Hajar
+| Respect 2 | Ms Carol Lim/Ms Heng Shi Min
+| Respect 3 | Mr Muhammad Zikri/Mdm Azriena Asari
+| Respect 4 | Mrs Tay Yin Lin/Mdm Noriyanti/Ms Kang Pei Yun
+| Respect 5 | Mdm Norjana/Mdm Ro'aiza/Mrs Chan Hui Fen
 
 **Primary 6**
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| Responsibility 1 | Mr Shyam Raj Panday/Ms Carol Lim
-| Responsibility 2 | Mrs Diana Lim/Mr Joel Ow Yong/Mdm Azriena Asari
-| Responsibility 3 |Ms Gina Luo/Mdm Noriyanti
-| Responsibility 4 |Ms Angeline Lam/Ms Nurul Ain/Mdm Ro'aiza
-| Responsibility 5 |Mrs Nizam/Mrs Serpojan Singh/Mr Sulaiman
+| Responsibility 1 | Ms Ada Tan/Mdm Hirwati Haris
+| Responsibility 2 | Ms Yuen Chi Ping/Ms Kasmini
+| Responsibility 3 |Ms Goh Shu Yi/Mr Jack Heng
+| Responsibility 4 |Mrs Nizam/Mr Joel Ow Yong/Mrs Diana Lim
+| Responsibility 5 |Ms Julee Noordin/Mrs Serpojan Singh

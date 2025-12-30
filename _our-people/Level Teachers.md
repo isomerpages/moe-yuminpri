@@ -8,13 +8,13 @@ variant: markdown
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| Care 1  | Ms Khairiani/Mdm Gu Haiying  |
-| Care 2 | Mdm Cheong Oi Koan/Ms Ng Su Chi
-| Care 3 | Miss Nadirah/Ms Foo Xue Yi
-| Care 4 |Mr Hardi/Mdm Aszrina Tugiman
-| Care 5 | Mrs Giri/Ms Nurulhuda
-| Care 6 | Ms Chung Sin Le/Mdm Rika Herdiyani
-| Care 7 | Mrs Rachel Lee/Mdm Syedama
+| Care 1  | Mdm Aszrina Tugiman/Ms Lau Wan Ting/Mr Jamal  |
+| Care 2 | Mdm Siti Mashitah/Ms Koh Ying Ying
+| Care 3 | Ms Sharon Sin/Mdm Liu Shuang
+| Care 4 |Ms Nurulhuda/Mdm Vithya/Miss Connie Tan
+| Care 5 | Mrs Lee Sock Hui/Ms Tan Pek Sun
+| Care 6 | Mdm Syedama/Mdm Nadia Mochtar
+| Care 7 | Mrs Rachel Lee/Ms Michelle Chen
 
 
 
@@ -23,20 +23,21 @@ variant: markdown
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| Courage 1 | Mdm Siti Mashitah/Ms Sheila Lim
-| Courage 2 | Ms Sharon Sin/Ms Tan Pek Sun
-| Courage 3 | Mdm Vithya/Ms Lau Wan Ting
-| Courage 4 | Mdm Liu Shuang/Mrs Tay Yin Lin/Ms Louisa
-| Courage 5 | Mrs Lee Sock Hui/Ms Bertha Lim
-| Courage 6 | Ms Trixie Young/Mdm Siti Hajar/Ms Heng Shi Min
+| Courage 1 | Ms Khairiani/Mdm Gu Haiying
+| Courage 2 | Miss Chan Ru Ai/Mdm Cheong Oi Koan/Ms Lydia Lee
+| Courage 3 | Ms Foo Xue Yi/Mrs Trixie Tay/Mdm Louisa Loh
+| Courage 4 | Mr Hardi/Ms Ng Su Chi
+| Courage 5 | Mrs Giri/Ms Sheila Lim/Ms Humaira
+| Courage 6 | Ms Chung Sin Le/Mdm Rika Herdiyani
+| Courage 7 | Mrs Mak Zi Hui/Miss Bertha Lim
 
 **Primary 3**
 
 | Class | Form Teachers | 
 | -------- | -------- |
-|Integrity 1 | Mrs Mak Zi Hui/Ms Michelle Chen
-|Integrity 2 | Ms Jin Qi/Ms Samantha Lok Si-Chih
-|Integrity 3 | Ms Syakira Marie/Ms Penny Chew
+|Integrity 1 | Miss Nur Amira/Mdm Teo Ling Ping
+|Integrity 2 | Ms Gina Luo/Miss Nurul Ain
+|Integrity 3 | Mr Noor Aidil/Mdm Raudhah/Ms Siti Omairah
 | Integrity 4 | Mr Tim Kiew/Ms Tan Lay Syn
 | Integrity 5 | Mdm Wang Rongbing/Miss Jothi
 | Integrity 6 | Ms Lim Siew Siew/Mdm Wu I-Chieh

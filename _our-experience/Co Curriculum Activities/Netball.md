@@ -11,7 +11,7 @@ Mr Rayhan s/o Mohd Rashad<br>
 Miss Bertha Lim<br>
 Miss Syakira Marie<br>
 Mdm Syedama d/o Syeed Ibrahim<br>
-Coach
+
 
 
 **CCA Timing**<br>

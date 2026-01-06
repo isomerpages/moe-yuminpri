@@ -10,9 +10,10 @@ Mr Jack Heng \*
 Mr Muhammad Zikri<br>
 Mr Ng Jia Shin<br>
 Ms Siti Nurulhuda <br>
-Mr Sulaiman Bin Osman<br>
+Mr Mohammad Idris<br>
 Mr Hardi Bin Pardi<br>
-Coach
+Mr Md Jamal
+
 
 **CCA Timing**<br>
 Tue: 2.00pm - 4.00pm<br>

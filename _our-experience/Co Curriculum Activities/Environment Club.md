@@ -8,7 +8,9 @@ variant: markdown
 **Teachers-In-Charge**  
     
 Miss Lau Wan Ting*<br>
-Ms Teo Ling Ping
+Ms Jaslin<br>
+Ms Siti Omairah
+
 
 **CCA Timing**<br>
 Thursday: 1.00pm - 3.00pm

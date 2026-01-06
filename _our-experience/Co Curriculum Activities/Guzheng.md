@@ -9,7 +9,7 @@ variant: markdown
 Ms Chan Ru Ai\*  
 Ms Rachel Lee  
 Miss Foo Xue Yi<br>
-Coach
+Miss Shirlin Koh
 
 
 **CCA Timing**  

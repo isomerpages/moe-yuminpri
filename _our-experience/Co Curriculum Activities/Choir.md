@@ -6,10 +6,11 @@ third_nav_title: Co Curriculum Activities
 variant: markdown
 ---
 <p><strong>Teachers-In-Charge</strong> 
-<br>Ms Lydia Lee Li Hui*
-<br>Mdm Hirwati Bte Haris
-<br>Mrs Tan Lay Syn<br>
-Mdm Noriyanti
+<br>Mdm Noriyanti*
+<br>Mrs Giri (Mdm Aniza)
+<br>Ms Heng Shi Min<br>
+Mrs Tan Shee Cher<br>
+Ms Lydia Lee
 <br>Coach</p>
 
 <p>

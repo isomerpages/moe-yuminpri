@@ -8,9 +8,9 @@ variant: tiptap
 <p><strong>Teachers-In-Charge</strong>
 </p>
 <p>Miss Lim Shuping Sheila*
+<br>Ms Leom Li Yan
 <br>Miss Nurul Ain Bte Samsuri
-<br>Ms Leom Li Yan</p>
-<p>Ms Patricia Lye</p>
+<br>Ms Patricia Lye</p>
 <p></p>
 <p><strong>CCA Timing</strong>
 </p>

@@ -7,8 +7,9 @@ variant: markdown
 ---
 **Teachers-In-Charge**  <br>
 Mr Low Hiang Meng*  	<br>
-Ms Koh Cui Ting Esther  
-Mrs Trixie Tay
+Ms Teo Ling Ping <br>
+Mr Sulaiman Bin Osman <br>
+Ms Jasmeet
 
 **CCA Timing**<br>
 Thursday: 1.00pm - 3.00pm

@@ -26,7 +26,7 @@ variant: markdown
 | Year-Head (Upper Primary)| Miss Julee Binte Noordin
 | Year-Head (Middle Primary)| Mr Noor Aidil B Abdul Rahman
 | Asst Year Head P1 | Ms Siti Nurulhuda
-| Level Manager P2 | Ms Chan Ru Ai
+| Asst Year Head P2 | Ms Chan Ru Ai
 | Level Manager P4 | Mr Tim Kiew
 | Senior Teacher (English) | Mdm Hirwati Bte Haris
 | Senior Teacher (Maths) | Ms Ada Tan Hooi Ying

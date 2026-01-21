@@ -52,6 +52,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Iryani Binte Mohd Nasril</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Admin Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Fikri Bin Sharif</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AED (Admin Support)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Jia Shin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>CSO</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -75,22 +99,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chris Yeow Poh Geok</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Admin Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Fikri Bin Sharif</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Iryani Binte Mohd Nasril</p>
 </td>
 </tr>
 <tr>

@@ -6,11 +6,11 @@ third_nav_title: Co Curriculum Activities
 variant: markdown
 ---
 **Teachers-In-Charge**  <br>  
-Mr Kiew Ji Cai Tim *<br>
+Mr Kiew Ji Cai Tim*<br>
 Ms Ng Su Chi <br>
 Ms Kang Pei Yun<br>
 Miss Nadirah Bte Jamri<br>
-Coach
+
 
 **CCA Timing**<br>
 Tuesday: 2.00pm - 4.30pm<br>

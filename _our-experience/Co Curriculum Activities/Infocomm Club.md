@@ -8,7 +8,8 @@ variant: markdown
 **Teachers-In-Charge**  
   
 Miss Gina Luo\*  
-Mrs Mak Zihui   
+Ms Chung Sin Le<br>
+Ms Nur Azlin<br>
 Mdm Gu Haiying
 
 **CCA Timing**<br>

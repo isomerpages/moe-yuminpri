@@ -11,7 +11,7 @@ Mdm Liu Shuang\
 Mdm Cheong Oi Koan\
 Ms Michelle Chen\
 Miss Rika Herdiyani Bte Amrun\
-Coach
+
 
 
 **CCA Timing**  

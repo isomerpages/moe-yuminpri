@@ -4,6 +4,7 @@ permalink: /announcement/
 description: ""
 variant: markdown
 ---
+[Excellence in Mathematics Teaching Award](/files/EMTA_2026_Poster_Updated_26_Jan.pdf)<br>
 [School Canteen Advertisement](/school-canteen-advertisement/)<br>
 [Caring Teacher Awards 2026](https://www.cta.nie.edu.sg/)<br>
 [Yumin Primary School Facebook Page](https://www.facebook.com/Yumin-Primary-School-100063862008644/)<br>

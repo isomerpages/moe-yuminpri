@@ -39,7 +39,7 @@ variant: markdown
 
 **For Parents**
 
-[Cyber Wellness Portal for Parents](https://www.moe.gov.sg/programmes/cyber-wellness)<br>
+[Cyber Wellness Portal for Parents](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)<br>
 [Financial Assistance Scheme (MOE)](https://www.moe.gov.sg/education/financial-assistance)<br>
 [MOE Website](https://www.moe.gov.sg/)<br>
 [PSLE Information (SEAB)](https://www.seab.gov.sg/home/examinations/psle)<br>

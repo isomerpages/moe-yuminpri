@@ -18,7 +18,7 @@ sections:
         - title: Announcements
           description: ""
           url: /announcement
-        - title: Award Nominations
+        - title: Gratitude Nomination
           description: ""
-          url: /award-nominations/
+          url: /gratitude-nomination/
 ---

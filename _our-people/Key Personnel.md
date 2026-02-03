@@ -27,7 +27,6 @@ variant: markdown
 | Year-Head (Middle Primary)| Mr Noor Aidil B Abdul Rahman
 | Asst Year Head P1 | Ms Siti Nurulhuda
 | Asst Year Head P2 | Ms Chan Ru Ai
-| Level Manager P4 | Mr Tim Kiew
 | Senior Teacher (English) | Mdm Hirwati Bte Haris
 | Senior Teacher (Maths) | Ms Ada Tan Hooi Ying
 | Senior Teacher (Science) | Mdm Ro'aiza Bte Zainuri

@@ -36,8 +36,7 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
-  - infobar:
-      id: infobar
-      button: More
-      url: /announcement
+  - resources:
+      title: Announcements
+      id: resources
 ---

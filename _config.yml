@@ -54,7 +54,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dt2sloj8azej.amplifyapp.com
 prod: https://master.dt2sloj8azej.amplifyapp.com
-resources_name: malay-department
+resources_name: announcements
 shareicon: /images/isomer-logo.svg
 is_government: false
 facebook-pixel: ""

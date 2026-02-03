@@ -20,5 +20,5 @@ sections:
           url: /announcement
         - title: Award Nominations
           description: ""
-          url: ""
+          url: /award-nominations/
 ---

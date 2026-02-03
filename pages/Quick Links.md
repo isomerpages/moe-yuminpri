@@ -8,7 +8,6 @@ variant: markdown
 
 [Koobits](https://www.koobits.com/)<br>
 [MySkillsFuture Student Portal](https://www.myskillsfuture.gov.sg/content/student/en/primary/about/myskillsfuture-for-students.html)<br>
-[Scholastic Learning Zone](https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGPY5JY)<br>
 [School Library Resources](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)<br>
 [Student Learning Space](https://vle.learning.moe.edu.sg/login)<br>
 [Yumin Primary Library](https://schoolibrary.moe.edu.sg/yuminpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)

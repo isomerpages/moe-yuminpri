@@ -10,3 +10,5 @@ description: ""
 </p>
 <p><a href="/most-inspiring-tamil-teachers-award-2026/" rel="noopener nofollow" target="_blank">Most Inspiring Tamil Teachers' Award 2026</a>
 </p>
+<p><a href="/arif-budiman-malay-language-teachers-award/" rel="noopener nofollow" target="_blank">Arif Budiman Malay Language Teachers' Award</a>
+</p>

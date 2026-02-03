@@ -42,7 +42,7 @@ variant: markdown
 [Cyber Wellness Portal for Parents](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)<br>
 [Financial Assistance Scheme (MOE)](https://www.moe.gov.sg/financial-matters/financial-assistance)<br>
 [MOE Website](https://www.moe.gov.sg/)<br>
-[PSLE Information (SEAB)](https://www.seab.gov.sg/home/examinations/psle)<br>
+[PSLE Information (SEAB)](https://www.seab.gov.sg/psle/)<br>
 [P1 Registration (MOE)](https://www.moe.gov.sg/primary/p1-registration)<br>
 [School Terms &amp; Holidays 2025](https://www.moe.gov.sg/news/press-releases/20240812-school-terms-and-holidays-for-2025)<br>
 [Schoolbag - The Education News Site](https://www.schoolbag.edu.sg/)

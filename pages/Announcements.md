@@ -4,7 +4,7 @@ permalink: /announcement/
 description: ""
 variant: markdown
 ---
-[Inspiring Teacher of English Award 2026]()<br>
+[Inspiring Teacher of English Award 2026](/inspiring-teacher-of-english-award-2026/)<br>
 [Excellence in Mathematics Teaching Award](/files/EMTA_2026_Poster_Updated_26_Jan.pdf)<br>
 [School Canteen Advertisement](/school-canteen-advertisement/)<br>
 [Yumin Primary School Facebook Page](https://www.facebook.com/Yumin-Primary-School-100063862008644/)<br>

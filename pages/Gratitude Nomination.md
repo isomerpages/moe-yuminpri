@@ -4,6 +4,8 @@ permalink: /gratitude-nomination/
 variant: tiptap
 description: ""
 ---
+<p><a href="/distinguished-chinese-language-teachers-awards-2026/" rel="noopener nofollow" target="_blank">Distinguished Chinese Language Teachers Awards 2026</a>
+</p>
 <p><a href="/inspiring-teacher-of-english-award-2026/" rel="noopener nofollow" target="_blank">Inspiring Teacher of English Award 2026</a>
 </p>
 <p><a href="/files/EMTA_2026_Poster_Updated_26_Jan.pdf" rel="noopener nofollow" target="_blank">Excellence in Mathematics Teaching Award</a>

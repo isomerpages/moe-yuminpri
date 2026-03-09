@@ -50,6 +50,14 @@ description: ""
 <p>Mdm Uma d/o Elengoven (Mrs Suresh)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Koh Shu Yi</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

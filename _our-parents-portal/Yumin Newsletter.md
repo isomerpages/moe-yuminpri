@@ -4,6 +4,8 @@ permalink: /our-parents-portal/Yumin-Newsletter/
 description: ""
 variant: markdown
 ---
+
+[2025 Yumin Connects Issue 2](/files/Yumin_Connects_2025_Issue_2.pdf)<br>
 [2025 Yumin Connects Issue 1](/files/Yumin_Connects_2025_Issue_1R1.pdf)<br>
 [2024 Yumin Connects Issue 2](/files/Yumin_Connects_2_2024R2.pdf)<br>
 [2024 Yumin Connects Issue 1](/files/Yumin_Connects_1_2024.pdf)

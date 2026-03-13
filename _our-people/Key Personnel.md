@@ -18,7 +18,7 @@ variant: markdown
 | HOD (English) | Miss Angeline Lam
 | HOD (Mathematics) | Ms Carol Lim Hui Min
 | HOD (Ed Tech) | Mdm Azriena Bte Asari
-| SH (English) | Mr Shyam Raj Panday s/o Parem Nath Panday
+| SH (English) | Mr Shyam Raj Panday
 | SH (Mathematics) | Miss Nur Amira Bte Asri
 | SH (Science) | Miss Yuen Chi Ping
 | SH (Student Wellbeing) | Mrs Chan Hui Fen

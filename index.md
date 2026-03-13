@@ -22,6 +22,6 @@ sections:
           description: ""
           url: /gratitude-nomination/
         - title: Highlights
-          description: Highlights
+          description: ""
           url: /highlights
 ---

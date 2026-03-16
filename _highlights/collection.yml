@@ -2,5 +2,6 @@ collections:
   highlights:
     output: true
     order:
+      - Total Defence Day.md
       - PSG Get Together Session.md
       - P5 Camp Resilience.md

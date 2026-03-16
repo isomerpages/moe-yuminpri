@@ -1,4 +1,5 @@
 collections:
   gratitude-nominations:
     output: true
-    order: []
+    order:
+      - Distinguished Chinese Language Teachers Awards 2026.md

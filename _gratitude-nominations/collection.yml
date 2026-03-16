@@ -2,6 +2,7 @@ collections:
   gratitude-nominations:
     output: true
     order:
+      - Inspiring Teacher of English Award 2026.md
       - Most Inspiring Tamil Teachers' Award 2026.md
       - Arif Budiman Malay Language Teachers' Award.md
       - Distinguished Chinese Language Teachers Awards 2026.md

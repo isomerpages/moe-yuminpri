@@ -2,6 +2,7 @@ collections:
   gratitude-nominations:
     output: true
     order:
+      - Words of Gratitude for Yumin Staff.md
       - Inspiring Teacher of English Award 2026.md
       - Most Inspiring Tamil Teachers' Award 2026.md
       - Arif Budiman Malay Language Teachers' Award.md

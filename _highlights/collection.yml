@@ -2,4 +2,5 @@ collections:
   highlights:
     output: true
     order:
+      - PSG Get Together Session.md
       - P5 Camp Resilience.md

@@ -2,4 +2,5 @@ collections:
   gratitude-nominations:
     output: true
     order:
+      - Arif Budiman Malay Language Teachers' Award.md
       - Distinguished Chinese Language Teachers Awards 2026.md

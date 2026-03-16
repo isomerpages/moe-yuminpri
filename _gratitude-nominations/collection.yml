@@ -1,0 +1,4 @@
+collections:
+  gratitude-nominations:
+    output: true
+    order: []

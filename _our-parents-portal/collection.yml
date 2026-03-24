@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Canteen Stall Prices.md
-      - Book List & Uniform.md
+      - Book List.md
       - Primary 1 Registration.md
       - School Waiting List.md
       - Financial Assistance Scheme (FAS).md

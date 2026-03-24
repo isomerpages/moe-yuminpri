@@ -8,8 +8,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Yumin_50th_Anni_Logo.png">
 </div>
-<p><em>Celebrating Our Past, Inspiring the Future</em>
-</p>
+<p><em></em></p><center><em>Celebrating Our Past, Inspiring the Future</em></center><em>
+</em>
+<p></p>
 <p>2025 marked the beginning of Yumin Primary School's golden jubilee celebrations,
 a momentous milestone spanning 2025 and 2026. Under our commemorative theme
 "Celebrating Our Past, Inspiring the Future", our school community came

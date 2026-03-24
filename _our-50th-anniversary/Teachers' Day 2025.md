@@ -4,9 +4,8 @@ permalink: /teacher-s-day-2025/
 variant: markdown
 description: ""
 ---
-<p><strong>Teacher’s Day 2025</strong>
-</p>
-<p><em>Turn the Beat Around</em>
+<p><strong>Teacher’s Day 2025</strong><br>
+<em>Turn the Beat Around</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">

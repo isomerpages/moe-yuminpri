@@ -30,4 +30,4 @@ vouchers to support families in need.</p>
 Walk for Health embodied Yumin's commitment to nurturing gracious citizens
 who actively care for their community. Every step taken served as a reminder
 that even small actions, when done together, can make a real difference
-in the lives of others</p>
+in the lives of others.</p>

@@ -2,6 +2,7 @@ collections:
   our-50th-anniversary:
     output: true
     order:
+      - 50th Years Anniversary.md
       - Champions Day 2025.md
       - Walk for Health 2025.md
       - Teacher's Day 2025.md

@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Yumin_50th_Anni_Logo.png">
 </div>
-<p><em></em></p><center><em>Celebrating Our Past, Inspiring the Future</em></center><em>
+<h3><center><em>Celebrating Our Past, Inspiring the Future</em></center><em></em></h3><em>
 </em>
 <p></p>
 <p>2025 marked the beginning of Yumin Primary School's golden jubilee celebrations,

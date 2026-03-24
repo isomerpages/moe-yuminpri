@@ -7,7 +7,6 @@ description: ""
 <p><strong>Walk for Health cum Children’s Day 2025</strong>
 <br><em>Steps of Gratitude, Grains of Hope</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9307.jpg">
 </div>

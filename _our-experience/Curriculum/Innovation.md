@@ -13,8 +13,7 @@ Competencies (21CC). Students are guided to develop curiosity, creativity
 and problem-solving skills through authentic learning experiences. Students
 are encouraged to explore ideas, design solutions and take action to care
 for the environment and community.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Our Objectives</strong>
 </p>
 <p></p>

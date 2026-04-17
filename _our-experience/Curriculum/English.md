@@ -11,10 +11,15 @@ variant: tiptap
 and effective communicators.</p>
 <p><strong>FRAMEWORK &amp; PEDAGOGICAL APPROACHES</strong>
 </p>
-<p><strong>Strategies for English Language Learning and Reading (STELLAR 2.0)</strong> In
-Yumin, we adopt the recommended STELLAR 2.0 programme which helps to strengthen
-students’ language skills in areas of reading, listening, speaking and
-writing.</p>
+<p><strong>Strategies for English Language Learning and Reading (STELLAR 2.0)</strong> 
+</p>
+<p>In Yumin, we adopt the recommended STELLAR 2.0 programme which helps to
+strengthen students’ language skills in areas of reading, listening, speaking
+and writing.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__STELLAR_2_0.png">
+</div>
 <p>Some of the strategies used in the lower primary classrooms include Shared
 Book Approach (SBA) and Modified Language Experience Approach (MLEA). As
 students progress up the levels, teachers reinforce the learning of language
@@ -22,6 +27,10 @@ skills through Supported Reading (SR) and Know-Want to know-Learnt (KWL).</p>
 <p><strong>MOE Programmes</strong> 
 <br>These programmes aim to support students in their learning of literacy
 skills.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2__Literacy_Support_Progression.png">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -61,27 +70,22 @@ for dyslexia conducted at the end of Primary 2.</p>
 <p>Our programmes and learning experiences support the development of emerging
 21<sup>st </sup>Century Competencies which include critical, adaptive and
 inventive thinking, and communication, collaboration and information skills.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3__Key_programmes___experiences_V2.png">
+</div>
 <p><strong>Book Character's Day</strong> 
 <br>Every year, students and staff look forward to a particular day where
 they bring characters from their favourite books to life, dressing up and
 sharing about these characters with each other. These certainly add even
 more colour and vibrancy to the typical school day. We were even featured
 on MOE Facebook!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1%20-%20Book%20Character%20Day.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2%20-%20Book%20Character%20Day.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4__Character_Day.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3%20-%20Book%20Character%20Day.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4%20-%20Book%20Character%20Day.jpg">
-</div>
 <p><strong>Integrated Outdoor Learning Experiences (iOLE)</strong> 
 <br>Students from all levels go on exciting learning journeys which support
 and enrich the learning of various STELLAR units. For instance, students
@@ -89,13 +93,7 @@ visit zones within the Singapore Zoo and River Wonders for exciting and
 experiential learning. From these experiences, students are able to apply
 their knowledge in creating posters about endangered animals and journal
 writing - just to name a few!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng5.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng6.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng7.jpg">
@@ -236,5 +234,5 @@ public speaking in Plain English and provides a platform for students to
 hone their oratorical skills and cultivate confidence in public speaking.</p>
 <p></p>
 <p>Suggested Links:
-<br>Click <a href="/files/Suggested_Links.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
-<a href="/files/Suggested%20Links.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>to view</p>
+<br>Click <a href="/files/Suggested_Links.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>to
+view</p>

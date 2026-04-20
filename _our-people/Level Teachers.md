@@ -8,8 +8,8 @@ variant: markdown
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| Care 1  | Mdm Aszrina Tugiman/Ms Lau Wan Ting/Mr Jamal  |
-| Care 2 | Mdm Siti Mashitah/Ms Koh Ying Ying
+| Care 1  | Mdm Aszrina Tugiman/Ms Lau Wan Ting
+| Care 2 | Mdm Siti Mashitah/Ms Koh Ying Ying/Mr Jamal
 | Care 3 | Ms Sharon Sin/Mdm Liu Shuang
 | Care 4 |Ms Nurulhuda/Mdm Vithya/Miss Connie Tan
 | Care 5 | Mrs Lee Sock Hui/Ms Tan Pek Sun

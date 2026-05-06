@@ -1,8 +1,8 @@
 ---
 title: Executive and Admin Staff
-permalink: /our-people/Executive-and-Admin-Staff/
+permalink: /our-people/executive-and-admin-staff/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -68,19 +68,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AED (Admin Support)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Jia Shin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>CSO</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Pauline Yeo
-<br>Ms Kam Siew Ling Joy</p>
+<br>Ms Kam Siew Ling Joy<br>
+Miss Eunice Yip</p>
 </td>
 </tr>
 <tr>
@@ -90,7 +83,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Hassan Bin Ismail
 <br>Mdm Susie Tan Gek Ngoh
-<br>Mr Arthur Ng Wee Teck</p>
+<br>Mr Arthur Ng Wee Teck
+<br>Mr Abdul Hameed</p>
 </td>
 </tr>
 <tr>

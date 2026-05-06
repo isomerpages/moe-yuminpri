@@ -68,19 +68,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AED (Admin Support)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Jia Shin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>CSO</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Pauline Yeo
 <br>Ms Kam Siew Ling Joy</p>
+<p>Miss Eunice Yip</p>
 </td>
 </tr>
 <tr>
@@ -91,6 +84,7 @@ variant: tiptap
 <p>Mr Hassan Bin Ismail
 <br>Mdm Susie Tan Gek Ngoh
 <br>Mr Arthur Ng Wee Teck</p>
+<p>Mr Abdul Hameed</p>
 </td>
 </tr>
 <tr>

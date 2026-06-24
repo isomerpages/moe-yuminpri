@@ -8,13 +8,13 @@ variant: markdown
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| Care 1  | Mdm Aszrina Tugiman/Ms Lau Wan Ting
-| Care 2 | Mdm Siti Mashitah/Ms Koh Ying Ying/Mr Jamal
+| Care 1  | Mdm Aszrina Tugiman/Mdm Louisa Loh/Mdm Rismah
+| Care 2 | Mdm Siti Mashitah/Miss Nur Amirah/Mr Jamal
 | Care 3 | Ms Sharon Sin/Mdm Liu Shuang
 | Care 4 |Ms Nurulhuda/Mdm Vithya/Miss Connie Tan
 | Care 5 | Mrs Lee Sock Hui/Ms Tan Pek Sun
-| Care 6 | Mdm Syedama/Mdm Nadia Mochtar
-| Care 7 | Mrs Rachel Lee/Ms Michelle Chen
+| Care 6 | Mdm Syedama/Mdm Nadia Mochtar/Mdm Durairaj Ahila
+| Care 7 | Mrs Rachel Lee/Ms Michelle Chen/Miss Chen Yaoyao
 
 
 
@@ -23,34 +23,34 @@ variant: markdown
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| Courage 1 | Ms Khairiani/Mdm Gu Haiying
+| Courage 1 | Ms Khairiani/Mdm Gu Haiying/Mdm Wang Mei
 | Courage 2 | Miss Chan Ru Ai/Mdm Cheong Oi Koan/Ms Lydia Lee
-| Courage 3 | Ms Foo Xue Yi/Mrs Trixie Tay/Mdm Louisa Loh
+| Courage 3 | Ms Foo Xue Yi/Mrs Trixie Tay/Miss Syahirah Afifah
 | Courage 4 | Mr Hardi/Ms Ng Su Chi
-| Courage 5 | Mrs Giri/Ms Sheila Lim/Ms Humaira
-| Courage 6 | Ms Chung Sin Le/Mdm Rika Herdiyani
+| Courage 5 | Mrs Giri/Ms Sheila Lim
+| Courage 6 | Ms Chung Sin Le/Mdm Rika Herdiyani/Miss Humaira
 | Courage 7 | Mrs Mak Zi Hui/Miss Bertha Lim
 
 **Primary 3**
 
 | Class | Form Teachers | 
 | -------- | -------- |
-|Integrity 1 | Miss Nur Amira/Mdm Teo Ling Ping
-|Integrity 2 | Ms Gina Luo/Miss Nurul Ain
+|Integrity 1 | Miss Nur Amira/Mdm Teo Ling Ping/Miss Sumayyah
+|Integrity 2 | Ms Gina Luo/Miss J Harreini
 |Integrity 3 | Mr Noor Aidil/Mdm Raudhah/Ms Siti Omairah
-| Integrity 4 | Ms Leom Li Yan/Miss Nadirah
+| Integrity 4 | Ms Leom Li Yan/Miss Nadirah/Mr Sebastian Ooi
 | Integrity 5 | Mr Rayhan/Mr Low Hiang Meng
 
 **Primary 4**
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| Resilience 1 | Ms Patricia Lye/Mr Sulaiman
-| Resilience 2 | Ms Angeline Lam/Ms Seah Wan Peen/Ms Jin Qi
+| Resilience 1 | Ms Patricia Lye/Mr Sulaiman/Miss Nur Syafawati
+| Resilience 2 | Ms Seah Wan Peen/Ms Jin Qi/Ms Shirlin Koh/Miss Jaylyn Teo
 | Resilience 3 | Ms Syakira Marie/Ms Penny Chew
-| Resilience 4 | Mr Tim Kiew/Ms Tan Lay Syn
+| Resilience 4 | Mr Tim Kiew/Mr Muhammad Haziq/Ms Tan Lay Syn
 | Resilience 5 | Ms Azlin/Mdm Wang Rongbing
-| Resilience 6 | Ms Lim Siew Siew/Mdm Wu I-Chieh/Mrs Hairina Singh
+| Resilience 6 | Ms Lim Siew Siew/Mdm Wu I-Chieh/Mr Ahmad Dhafeer
 
 
 **Primary 5**
@@ -60,7 +60,7 @@ variant: markdown
 | Respect 1 | Mr Shyam Raj Panday/Mdm Siti Hajar
 | Respect 2 | Ms Carol Lim/Ms Heng Shi Min
 | Respect 3 | Mr Muhammad Zikri/Mdm Azriena Asari
-| Respect 4 | Mrs Tay Yin Lin/Mdm Noriyanti/Ms Kang Pei Yun
+| Respect 4 | Mrs Tay Yin Lin/Ms Kang Pei Yun
 | Respect 5 | Mdm Norjana/Mdm Ro'aiza/Mrs Chan Hui Fen
 
 **Primary 6**

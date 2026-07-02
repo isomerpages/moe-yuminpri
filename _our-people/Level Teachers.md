@@ -8,8 +8,8 @@ variant: markdown
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| Care 1  | Mdm Aszrina Tugiman/Mdm Louisa Loh/Mdm Nurismah
-| Care 2 | Mdm Siti Mashitah/Miss Nur Amirah/Mr Jamal
+| Care 1  | Mdm Aszrina Tugiman/Mdm Louisa Loh/Mr Jamal
+| Care 2 | Mdm Siti Mashitah/Miss Nur Amirah/Mdm Nurismah
 | Care 3 | Ms Sharon Sin/Mdm Liu Shuang
 | Care 4 |Ms Nurulhuda/Mdm Vithya/Miss Connie Tan
 | Care 5 | Mrs Lee Sock Hui/Ms Tan Pek Sun

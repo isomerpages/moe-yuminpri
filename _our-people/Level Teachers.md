@@ -8,9 +8,9 @@ variant: markdown
 
 | Class | Form Teachers | 
 | -------- | -------- |
-| Care 1  | Mdm Aszrina Tugiman/Mdm Louisa Loh/Mdm Nurismah
-| Care 2 | Mdm Siti Mashitah/Miss Nur Amirah/Mr Jamal
-| Care 3 | Ms Sharon Sin/Mdm Liu Shuang
+| Care 1  | Mdm Aszrina Tugiman/Mdm Louisa Loh/Mr Jamal
+| Care 2 | Mdm Siti Mashitah/Miss Nur Amirah/Mdm Nurismah
+| Care 3 | Ms Sharon Sin/Mdm Liu Shuang/Miss Humaira
 | Care 4 |Ms Nurulhuda/Mdm Vithya/Miss Connie Tan
 | Care 5 | Mrs Lee Sock Hui/Ms Tan Pek Sun
 | Care 6 | Mdm Syedama/Mdm Nadia Mochtar/Mdm Durairaj Ahila
@@ -28,7 +28,7 @@ variant: markdown
 | Courage 3 | Ms Foo Xue Yi/Mrs Trixie Tay/Miss Syahirah Afifah
 | Courage 4 | Mr Hardi/Ms Ng Su Chi
 | Courage 5 | Mrs Giri/Ms Sheila Lim
-| Courage 6 | Ms Chung Sin Le/Mdm Rika Herdiyani/Miss Humaira
+| Courage 6 | Ms Chung Sin Le/Mdm Rika Herdiyani/
 | Courage 7 | Mrs Mak Zi Hui/Miss Bertha Lim
 
 **Primary 3**
